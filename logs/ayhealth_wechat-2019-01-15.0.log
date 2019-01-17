@@ -1,0 +1,1133 @@
+2019-01-15 09:08:08.882  INFO 25604 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : [2m:[0;39m [requestId:] Resolving eureka endpoints via configuration
+2019-01-15 09:13:08.887  INFO 25604 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : [2m:[0;39m [requestId:] Resolving eureka endpoints via configuration
+2019-01-15 09:18:08.889  INFO 25604 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : [2m:[0;39m [requestId:] Resolving eureka endpoints via configuration
+2019-01-15 09:23:08.891  INFO 25604 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : [2m:[0;39m [requestId:] Resolving eureka endpoints via configuration
+2019-01-15 09:28:08.892  INFO 25604 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : [2m:[0;39m [requestId:] Resolving eureka endpoints via configuration
+2019-01-15 09:33:08.894  INFO 25604 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : [2m:[0;39m [requestId:] Resolving eureka endpoints via configuration
+2019-01-15 09:38:08.895  INFO 25604 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : [2m:[0;39m [requestId:] Resolving eureka endpoints via configuration
+2019-01-15 09:43:08.896  INFO 25604 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : [2m:[0;39m [requestId:] Resolving eureka endpoints via configuration
+2019-01-15 09:48:08.897  INFO 25604 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : [2m:[0;39m [requestId:] Resolving eureka endpoints via configuration
+2019-01-15 09:53:08.898  INFO 25604 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : [2m:[0;39m [requestId:] Resolving eureka endpoints via configuration
+2019-01-15 09:58:08.898  INFO 25604 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : [2m:[0;39m [requestId:] Resolving eureka endpoints via configuration
+2019-01-15 10:03:08.900  INFO 25604 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : [2m:[0;39m [requestId:] Resolving eureka endpoints via configuration
+2019-01-15 10:08:08.901  INFO 25604 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : [2m:[0;39m [requestId:] Resolving eureka endpoints via configuration
+2019-01-15 10:13:08.904  INFO 25604 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : [2m:[0;39m [requestId:] Resolving eureka endpoints via configuration
+2019-01-15 10:18:08.905  INFO 25604 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : [2m:[0;39m [requestId:] Resolving eureka endpoints via configuration
+2019-01-15 10:23:08.907  INFO 25604 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : [2m:[0;39m [requestId:] Resolving eureka endpoints via configuration
+2019-01-15 10:28:08.907  INFO 25604 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : [2m:[0;39m [requestId:] Resolving eureka endpoints via configuration
+2019-01-15 10:33:08.909  INFO 25604 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : [2m:[0;39m [requestId:] Resolving eureka endpoints via configuration
+2019-01-15 10:38:08.910  INFO 25604 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : [2m:[0;39m [requestId:] Resolving eureka endpoints via configuration
+2019-01-15 10:43:08.911  INFO 25604 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : [2m:[0;39m [requestId:] Resolving eureka endpoints via configuration
+2019-01-15 10:48:08.912  INFO 25604 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : [2m:[0;39m [requestId:] Resolving eureka endpoints via configuration
+2019-01-15 10:53:08.914  INFO 25604 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : [2m:[0;39m [requestId:] Resolving eureka endpoints via configuration
+2019-01-15 10:58:08.915  INFO 25604 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : [2m:[0;39m [requestId:] Resolving eureka endpoints via configuration
+2019-01-15 11:03:08.917  INFO 25604 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : [2m:[0;39m [requestId:] Resolving eureka endpoints via configuration
+2019-01-15 11:08:08.919  INFO 25604 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : [2m:[0;39m [requestId:] Resolving eureka endpoints via configuration
+2019-01-15 11:13:08.920  INFO 25604 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : [2m:[0;39m [requestId:] Resolving eureka endpoints via configuration
+2019-01-15 11:18:08.921  INFO 25604 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : [2m:[0;39m [requestId:] Resolving eureka endpoints via configuration
+2019-01-15 11:23:08.923  INFO 25604 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : [2m:[0;39m [requestId:] Resolving eureka endpoints via configuration
+2019-01-15 11:28:08.925  INFO 25604 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : [2m:[0;39m [requestId:] Resolving eureka endpoints via configuration
+2019-01-15 11:33:08.926  INFO 25604 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : [2m:[0;39m [requestId:] Resolving eureka endpoints via configuration
+2019-01-15 11:38:08.927  INFO 25604 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : [2m:[0;39m [requestId:] Resolving eureka endpoints via configuration
+2019-01-15 11:43:08.929  INFO 25604 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : [2m:[0;39m [requestId:] Resolving eureka endpoints via configuration
+2019-01-15 11:48:08.930  INFO 25604 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : [2m:[0;39m [requestId:] Resolving eureka endpoints via configuration
+2019-01-15 11:53:08.932  INFO 25604 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : [2m:[0;39m [requestId:] Resolving eureka endpoints via configuration
+2019-01-15 11:58:08.933  INFO 25604 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : [2m:[0;39m [requestId:] Resolving eureka endpoints via configuration
+2019-01-15 12:03:08.934  INFO 25604 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : [2m:[0;39m [requestId:] Resolving eureka endpoints via configuration
+2019-01-15 12:08:08.935  INFO 25604 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : [2m:[0;39m [requestId:] Resolving eureka endpoints via configuration
+2019-01-15 12:13:08.937  INFO 25604 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : [2m:[0;39m [requestId:] Resolving eureka endpoints via configuration
+2019-01-15 12:18:08.938  INFO 25604 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : [2m:[0;39m [requestId:] Resolving eureka endpoints via configuration
+2019-01-15 12:23:08.940  INFO 25604 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : [2m:[0;39m [requestId:] Resolving eureka endpoints via configuration
+2019-01-15 12:28:08.942  INFO 25604 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : [2m:[0;39m [requestId:] Resolving eureka endpoints via configuration
+2019-01-15 12:33:08.944  INFO 25604 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : [2m:[0;39m [requestId:] Resolving eureka endpoints via configuration
+2019-01-15 12:38:08.946  INFO 25604 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : [2m:[0;39m [requestId:] Resolving eureka endpoints via configuration
+2019-01-15 12:43:08.948  INFO 25604 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : [2m:[0;39m [requestId:] Resolving eureka endpoints via configuration
+2019-01-15 12:48:08.950  INFO 25604 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : [2m:[0;39m [requestId:] Resolving eureka endpoints via configuration
+2019-01-15 12:53:08.952  INFO 25604 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : [2m:[0;39m [requestId:] Resolving eureka endpoints via configuration
+2019-01-15 12:58:08.954  INFO 25604 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : [2m:[0;39m [requestId:] Resolving eureka endpoints via configuration
+2019-01-15 13:03:08.956  INFO 25604 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : [2m:[0;39m [requestId:] Resolving eureka endpoints via configuration
+2019-01-15 13:08:08.957  INFO 25604 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : [2m:[0;39m [requestId:] Resolving eureka endpoints via configuration
+2019-01-15 13:13:08.958  INFO 25604 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : [2m:[0;39m [requestId:] Resolving eureka endpoints via configuration
+2019-01-15 13:18:08.959  INFO 25604 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : [2m:[0;39m [requestId:] Resolving eureka endpoints via configuration
+2019-01-15 13:23:08.961  INFO 25604 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : [2m:[0;39m [requestId:] Resolving eureka endpoints via configuration
+2019-01-15 13:28:08.962  INFO 25604 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : [2m:[0;39m [requestId:] Resolving eureka endpoints via configuration
+2019-01-15 13:33:08.963  INFO 25604 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : [2m:[0;39m [requestId:] Resolving eureka endpoints via configuration
+2019-01-15 13:38:08.965  INFO 25604 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : [2m:[0;39m [requestId:] Resolving eureka endpoints via configuration
+2019-01-15 16:23:11.842  INFO 1848 --- [main] s.c.a.AnnotationConfigApplicationContext : [2m:[0;39m [requestId:] Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@3bd552f7: startup date [Tue Jan 15 16:23:11 CST 2019]; root of context hierarchy
+2019-01-15 16:23:12.323  INFO 1848 --- [main] f.a.AutowiredAnnotationBeanPostProcessor : [2m:[0;39m [requestId:] JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-01-15 16:23:12.377  INFO 1848 --- [main] trationDelegate$BeanPostProcessorChecker : [2m:[0;39m [requestId:] Bean 'configurationPropertiesRebinderAutoConfiguration' of type [org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration$$EnhancerBySpringCGLIB$$a8d7fddd] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-01-15 16:23:13.782  INFO 1848 --- [main] c.aypark.servicehi.ServiceHiApplication  : [2m:[0;39m [requestId:] No active profile set, falling back to default profiles: default
+2019-01-15 16:23:13.829  INFO 1848 --- [main] ConfigServletWebServerApplicationContext : [2m:[0;39m [requestId:] Refreshing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@7ea9fba1: startup date [Tue Jan 15 16:23:13 CST 2019]; parent: org.springframework.context.annotation.AnnotationConfigApplicationContext@3bd552f7
+2019-01-15 16:23:14.449  WARN 1848 --- [main] ssPathScanningCandidateComponentProvider : [2m:[0;39m [requestId:] No MyBatis mapper was found in '[com.ayhealth.dao]' package. Please check your configuration.
+2019-01-15 16:23:14.785  INFO 1848 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : [2m:[0;39m [requestId:] Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-01-15 16:23:14.822  INFO 1848 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : [2m:[0;39m [requestId:] Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-01-15 16:23:15.307  INFO 1848 --- [main] o.s.cloud.context.scope.GenericScope     : [2m:[0;39m [requestId:] BeanFactory id=a0692cbb-a0e4-392b-b0c7-210b23b6ac14
+2019-01-15 16:23:15.326  INFO 1848 --- [main] f.a.AutowiredAnnotationBeanPostProcessor : [2m:[0;39m [requestId:] JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-01-15 16:23:15.481  INFO 1848 --- [main] trationDelegate$BeanPostProcessorChecker : [2m:[0;39m [requestId:] Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$8cbdfae0] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-01-15 16:23:15.553  INFO 1848 --- [main] trationDelegate$BeanPostProcessorChecker : [2m:[0;39m [requestId:] Bean 'org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration' of type [org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration$$EnhancerBySpringCGLIB$$a8d7fddd] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-01-15 16:23:16.185  INFO 1848 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : [2m:[0;39m [requestId:] Tomcat initialized with port(s): 8763 (http)
+2019-01-15 16:23:16.227  INFO 1848 --- [main] o.a.coyote.http11.Http11NioProtocol      : [2m:[0;39m [requestId:] Initializing ProtocolHandler ["http-nio-8763"]
+2019-01-15 16:23:16.245  INFO 1848 --- [main] o.apache.catalina.core.StandardService   : [2m:[0;39m [requestId:] Starting service [Tomcat]
+2019-01-15 16:23:16.245  INFO 1848 --- [main] org.apache.catalina.core.StandardEngine  : [2m:[0;39m [requestId:] Starting Servlet Engine: Apache Tomcat/8.5.28
+2019-01-15 16:23:16.250  INFO 1848 --- [localhost-startStop-1] o.a.catalina.core.AprLifecycleListener   : [2m:[0;39m [requestId:] The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jdk1.8.0_192\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;E:\maven3.5\apache-maven-3.5.3\bin;C:\Program Files\Java\jdk1.8.0_192\bin;C:\Program Files\Java\jdk1.8.0_192\jre\bin;C:\Program Files\Java\jdk1.8.0_192\lib;C:\Program Files\Java\jdk1.8.0_192\lib\tools.jar;E:\Program Files\Git\cmd;E:\Program Files\nodejs\;D:\nodejs\node_global;F:\软件\压力测试-jmeter\apache-jmeter-5.0\lib\ext\ApacheJMeter_core.jar;F:\软件\压力测试-jmeter\apache-jmeter-5.0\lib\logkit-2.0.jar;"F:\软件\压力测试-jmeter\apache-jmeter-5.0\lib\jorphan.jar;";C:\Users\ay-mei-pc\AppData\Local\Microsoft\WindowsApps;C:\Users\ay-mei-pc\AppData\Roaming\npm;.]
+2019-01-15 16:23:16.454  INFO 1848 --- [localhost-startStop-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : [2m:[0;39m [requestId:] Initializing Spring embedded WebApplicationContext
+2019-01-15 16:23:16.455  INFO 1848 --- [localhost-startStop-1] o.s.web.context.ContextLoader            : [2m:[0;39m [requestId:] Root WebApplicationContext: initialization completed in 2626 ms
+2019-01-15 16:23:16.642  INFO 1848 --- [localhost-startStop-1] o.s.b.w.servlet.ServletRegistrationBean  : [2m:[0;39m [requestId:] Servlet dispatcherServlet mapped to [/]
+2019-01-15 16:23:16.650  INFO 1848 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : [2m:[0;39m [requestId:] Mapping filter: 'characterEncodingFilter' to: [/*]
+2019-01-15 16:23:16.650  INFO 1848 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : [2m:[0;39m [requestId:] Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2019-01-15 16:23:16.651  INFO 1848 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : [2m:[0;39m [requestId:] Mapping filter: 'httpPutFormContentFilter' to: [/*]
+2019-01-15 16:23:16.651  INFO 1848 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : [2m:[0;39m [requestId:] Mapping filter: 'requestContextFilter' to: [/*]
+2019-01-15 16:23:16.825  INFO 1848 --- [main] c.a.w.wechatConfig.WxPayConfiguration    : [2m:[0;39m [requestId:] 初始化数据---------：null
+2019-01-15 16:23:17.161  WARN 1848 --- [main] c.n.c.sources.URLConfigurationSource     : [2m:[0;39m [requestId:] No URLs will be polled as dynamic configuration sources.
+2019-01-15 16:23:17.161  INFO 1848 --- [main] c.n.c.sources.URLConfigurationSource     : [2m:[0;39m [requestId:] To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2019-01-15 16:23:17.167  WARN 1848 --- [main] c.n.c.sources.URLConfigurationSource     : [2m:[0;39m [requestId:] No URLs will be polled as dynamic configuration sources.
+2019-01-15 16:23:17.167  INFO 1848 --- [main] c.n.c.sources.URLConfigurationSource     : [2m:[0;39m [requestId:] To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2019-01-15 16:23:17.420  INFO 1848 --- [main] org.mongodb.driver.cluster               : [2m:[0;39m [requestId:] Cluster created with settings {hosts=[127.0.0.1:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+2019-01-15 16:23:17.526  INFO 1848 --- [cluster-ClusterId{value='5c3d9875be03d1073805cb59', description='null'}-127.0.0.1:27017] org.mongodb.driver.connection            : [2m:[0;39m [requestId:] Opened connection [connectionId{localValue:1, serverValue:6}] to 127.0.0.1:27017
+2019-01-15 16:23:17.532  INFO 1848 --- [cluster-ClusterId{value='5c3d9875be03d1073805cb59', description='null'}-127.0.0.1:27017] org.mongodb.driver.cluster               : [2m:[0;39m [requestId:] Monitor thread successfully connected to server with description ServerDescription{address=127.0.0.1:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[4, 0, 0]}, minWireVersion=0, maxWireVersion=7, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=4690195}
+2019-01-15 16:23:18.221  INFO 1848 --- [main] s.w.s.m.m.a.RequestMappingHandlerAdapter : [2m:[0;39m [requestId:] Looking for @ControllerAdvice: org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@7ea9fba1: startup date [Tue Jan 15 16:23:13 CST 2019]; parent: org.springframework.context.annotation.AnnotationConfigApplicationContext@3bd552f7
+2019-01-15 16:23:18.334  INFO 1848 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : [2m:[0;39m [requestId:] Mapped "{[/hi]}" onto public java.lang.String com.aypark.servicehi.ServiceHiApplication.home(java.lang.String)
+2019-01-15 16:23:18.340  INFO 1848 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : [2m:[0;39m [requestId:] Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.error(javax.servlet.http.HttpServletRequest)
+2019-01-15 16:23:18.341  INFO 1848 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : [2m:[0;39m [requestId:] Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2019-01-15 16:23:18.407  INFO 1848 --- [main] o.s.w.s.handler.SimpleUrlHandlerMapping  : [2m:[0;39m [requestId:] Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2019-01-15 16:23:18.407  INFO 1848 --- [main] o.s.w.s.handler.SimpleUrlHandlerMapping  : [2m:[0;39m [requestId:] Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2019-01-15 16:23:18.470  INFO 1848 --- [main] o.s.w.s.handler.SimpleUrlHandlerMapping  : [2m:[0;39m [requestId:] Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2019-01-15 16:23:18.517  WARN 1848 --- [main] ion$DefaultTemplateResolverConfiguration : [2m:[0;39m [requestId:] Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2019-01-15 16:23:20.174  INFO 1848 --- [main] o.s.cloud.commons.util.InetUtils         : [2m:[0;39m [requestId:] Cannot determine local hostname
+2019-01-15 16:23:21.264  INFO 1848 --- [main] o.s.cloud.commons.util.InetUtils         : [2m:[0;39m [requestId:] Cannot determine local hostname
+2019-01-15 16:23:21.614  INFO 1848 --- [main] o.s.j.e.a.AnnotationMBeanExporter        : [2m:[0;39m [requestId:] Registering beans for JMX exposure on startup
+2019-01-15 16:23:21.625  INFO 1848 --- [main] o.s.j.e.a.AnnotationMBeanExporter        : [2m:[0;39m [requestId:] Bean with name 'refreshScope' has been autodetected for JMX exposure
+2019-01-15 16:23:21.627  INFO 1848 --- [main] o.s.j.e.a.AnnotationMBeanExporter        : [2m:[0;39m [requestId:] Bean with name 'configurationPropertiesRebinder' has been autodetected for JMX exposure
+2019-01-15 16:23:21.627  INFO 1848 --- [main] o.s.j.e.a.AnnotationMBeanExporter        : [2m:[0;39m [requestId:] Bean with name 'environmentManager' has been autodetected for JMX exposure
+2019-01-15 16:23:21.631  INFO 1848 --- [main] o.s.j.e.a.AnnotationMBeanExporter        : [2m:[0;39m [requestId:] Located managed bean 'environmentManager': registering with JMX server as MBean [org.springframework.cloud.context.environment:name=environmentManager,type=EnvironmentManager]
+2019-01-15 16:23:21.663  INFO 1848 --- [main] o.s.j.e.a.AnnotationMBeanExporter        : [2m:[0;39m [requestId:] Located managed bean 'refreshScope': registering with JMX server as MBean [org.springframework.cloud.context.scope.refresh:name=refreshScope,type=RefreshScope]
+2019-01-15 16:23:21.675  INFO 1848 --- [main] o.s.j.e.a.AnnotationMBeanExporter        : [2m:[0;39m [requestId:] Located managed bean 'configurationPropertiesRebinder': registering with JMX server as MBean [org.springframework.cloud.context.properties:name=configurationPropertiesRebinder,context=7ea9fba1,type=ConfigurationPropertiesRebinder]
+2019-01-15 16:23:21.688  INFO 1848 --- [main] o.s.c.support.DefaultLifecycleProcessor  : [2m:[0;39m [requestId:] Starting beans in phase 0
+2019-01-15 16:23:21.706  INFO 1848 --- [main] o.s.c.n.eureka.InstanceInfoFactory       : [2m:[0;39m [requestId:] Setting initial instance status as: STARTING
+2019-01-15 16:23:21.768  INFO 1848 --- [main] com.netflix.discovery.DiscoveryClient    : [2m:[0;39m [requestId:] Initializing Eureka in region us-east-1
+2019-01-15 16:23:21.880  INFO 1848 --- [main] c.n.d.provider.DiscoveryJerseyProvider   : [2m:[0;39m [requestId:] Using JSON encoding codec LegacyJacksonJson
+2019-01-15 16:23:21.880  INFO 1848 --- [main] c.n.d.provider.DiscoveryJerseyProvider   : [2m:[0;39m [requestId:] Using JSON decoding codec LegacyJacksonJson
+2019-01-15 16:23:22.069  INFO 1848 --- [main] c.n.d.provider.DiscoveryJerseyProvider   : [2m:[0;39m [requestId:] Using XML encoding codec XStreamXml
+2019-01-15 16:23:22.069  INFO 1848 --- [main] c.n.d.provider.DiscoveryJerseyProvider   : [2m:[0;39m [requestId:] Using XML decoding codec XStreamXml
+2019-01-15 16:23:22.332  INFO 1848 --- [main] c.n.d.s.r.aws.ConfigClusterResolver      : [2m:[0;39m [requestId:] Resolving eureka endpoints via configuration
+2019-01-15 16:23:22.397  INFO 1848 --- [main] com.netflix.discovery.DiscoveryClient    : [2m:[0;39m [requestId:] Disable delta property : false
+2019-01-15 16:23:22.397  INFO 1848 --- [main] com.netflix.discovery.DiscoveryClient    : [2m:[0;39m [requestId:] Single vip registry refresh property : null
+2019-01-15 16:23:22.397  INFO 1848 --- [main] com.netflix.discovery.DiscoveryClient    : [2m:[0;39m [requestId:] Force full registry fetch : false
+2019-01-15 16:23:22.397  INFO 1848 --- [main] com.netflix.discovery.DiscoveryClient    : [2m:[0;39m [requestId:] Application is null : false
+2019-01-15 16:23:22.397  INFO 1848 --- [main] com.netflix.discovery.DiscoveryClient    : [2m:[0;39m [requestId:] Registered Applications size is zero : true
+2019-01-15 16:23:22.397  INFO 1848 --- [main] com.netflix.discovery.DiscoveryClient    : [2m:[0;39m [requestId:] Application version is -1: true
+2019-01-15 16:23:22.397  INFO 1848 --- [main] com.netflix.discovery.DiscoveryClient    : [2m:[0;39m [requestId:] Getting all instance registry info from the eureka server
+2019-01-15 16:23:22.708  INFO 1848 --- [main] com.netflix.discovery.DiscoveryClient    : [2m:[0;39m [requestId:] The response status is 200
+2019-01-15 16:23:22.710  INFO 1848 --- [main] com.netflix.discovery.DiscoveryClient    : [2m:[0;39m [requestId:] Starting heartbeat executor: renew interval is: 30
+2019-01-15 16:23:22.714  INFO 1848 --- [main] c.n.discovery.InstanceInfoReplicator     : [2m:[0;39m [requestId:] InstanceInfoReplicator onDemand update allowed rate per min is 4
+2019-01-15 16:23:22.719  INFO 1848 --- [main] com.netflix.discovery.DiscoveryClient    : [2m:[0;39m [requestId:] Discovery Client initialized at timestamp 1547540602717 with initial instances count: 0
+2019-01-15 16:23:22.725  INFO 1848 --- [main] o.s.c.n.e.s.EurekaServiceRegistry        : [2m:[0;39m [requestId:] Registering application service-hi with eureka with status UP
+2019-01-15 16:23:22.726  INFO 1848 --- [main] com.netflix.discovery.DiscoveryClient    : [2m:[0;39m [requestId:] Saw local status change event StatusChangeEvent [timestamp=1547540602726, current=UP, previous=STARTING]
+2019-01-15 16:23:22.728  INFO 1848 --- [DiscoveryClient-InstanceInfoReplicator-0] com.netflix.discovery.DiscoveryClient    : [2m:[0;39m [requestId:] DiscoveryClient_SERVICE-HI/localhost:service-hi:8763: registering service...
+2019-01-15 16:23:22.746  INFO 1848 --- [main] o.a.coyote.http11.Http11NioProtocol      : [2m:[0;39m [requestId:] Starting ProtocolHandler ["http-nio-8763"]
+2019-01-15 16:23:22.773  INFO 1848 --- [main] o.a.tomcat.util.net.NioSelectorPool      : [2m:[0;39m [requestId:] Using a shared selector for servlet write/read
+2019-01-15 16:23:22.808  INFO 1848 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : [2m:[0;39m [requestId:] Tomcat started on port(s): 8763 (http) with context path ''
+2019-01-15 16:23:22.809  INFO 1848 --- [main] .s.c.n.e.s.EurekaAutoServiceRegistration : [2m:[0;39m [requestId:] Updating port to 8763
+2019-01-15 16:23:22.814  INFO 1848 --- [main] c.aypark.servicehi.ServiceHiApplication  : [2m:[0;39m [requestId:] Started ServiceHiApplication in 13.051 seconds (JVM running for 17.863)
+2019-01-15 16:23:22.888  INFO 1848 --- [DiscoveryClient-InstanceInfoReplicator-0] com.netflix.discovery.DiscoveryClient    : [2m:[0;39m [requestId:] DiscoveryClient_SERVICE-HI/localhost:service-hi:8763 - registration status: 204
+2019-01-15 16:23:52.713  INFO 1848 --- [DiscoveryClient-CacheRefreshExecutor-0] com.netflix.discovery.DiscoveryClient    : [2m:[0;39m [requestId:] Disable delta property : false
+2019-01-15 16:23:52.713  INFO 1848 --- [DiscoveryClient-CacheRefreshExecutor-0] com.netflix.discovery.DiscoveryClient    : [2m:[0;39m [requestId:] Single vip registry refresh property : null
+2019-01-15 16:23:52.713  INFO 1848 --- [DiscoveryClient-CacheRefreshExecutor-0] com.netflix.discovery.DiscoveryClient    : [2m:[0;39m [requestId:] Force full registry fetch : false
+2019-01-15 16:23:52.713  INFO 1848 --- [DiscoveryClient-CacheRefreshExecutor-0] com.netflix.discovery.DiscoveryClient    : [2m:[0;39m [requestId:] Application is null : false
+2019-01-15 16:23:52.713  INFO 1848 --- [DiscoveryClient-CacheRefreshExecutor-0] com.netflix.discovery.DiscoveryClient    : [2m:[0;39m [requestId:] Registered Applications size is zero : true
+2019-01-15 16:23:52.713  INFO 1848 --- [DiscoveryClient-CacheRefreshExecutor-0] com.netflix.discovery.DiscoveryClient    : [2m:[0;39m [requestId:] Application version is -1: false
+2019-01-15 16:23:52.713  INFO 1848 --- [DiscoveryClient-CacheRefreshExecutor-0] com.netflix.discovery.DiscoveryClient    : [2m:[0;39m [requestId:] Getting all instance registry info from the eureka server
+2019-01-15 16:23:52.831  INFO 1848 --- [DiscoveryClient-CacheRefreshExecutor-0] com.netflix.discovery.DiscoveryClient    : [2m:[0;39m [requestId:] The response status is 200
+2019-01-15 16:28:22.400  INFO 1848 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : [2m:[0;39m [requestId:] Resolving eureka endpoints via configuration
+2019-01-15 16:33:22.403  INFO 1848 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : [2m:[0;39m [requestId:] Resolving eureka endpoints via configuration
+2019-01-15 16:38:22.404  INFO 1848 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : [2m:[0;39m [requestId:] Resolving eureka endpoints via configuration
+2019-01-15 16:43:22.405  INFO 1848 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : [2m:[0;39m [requestId:] Resolving eureka endpoints via configuration
+2019-01-15 16:45:53.104  WARN 1848 --- [DiscoveryClient-InstanceInfoReplicator-0] ssPathScanningCandidateComponentProvider : [2m:[0;39m [requestId:] No MyBatis mapper was found in '[com.ayhealth.dao]' package. Please check your configuration.
+2019-01-15 16:46:59.685  INFO 1848 --- [http-nio-8763-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : [2m:[0;39m [requestId:] Initializing Spring FrameworkServlet 'dispatcherServlet'
+2019-01-15 16:46:59.685  INFO 1848 --- [http-nio-8763-exec-1] o.s.web.servlet.DispatcherServlet        : [2m:[0;39m [requestId:] FrameworkServlet 'dispatcherServlet': initialization started
+2019-01-15 16:46:59.710  INFO 1848 --- [http-nio-8763-exec-1] o.s.web.servlet.DispatcherServlet        : [2m:[0;39m [requestId:] FrameworkServlet 'dispatcherServlet': initialization completed in 25 ms
+2019-01-15 16:48:12.354  INFO 23400 --- [main] s.c.a.AnnotationConfigApplicationContext : [2m:[0;39m [requestId:] Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@19dc9dda: startup date [Tue Jan 15 16:48:12 CST 2019]; root of context hierarchy
+2019-01-15 16:48:12.831  INFO 23400 --- [main] f.a.AutowiredAnnotationBeanPostProcessor : [2m:[0;39m [requestId:] JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-01-15 16:48:12.884  INFO 23400 --- [main] trationDelegate$BeanPostProcessorChecker : [2m:[0;39m [requestId:] Bean 'configurationPropertiesRebinderAutoConfiguration' of type [org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration$$EnhancerBySpringCGLIB$$6074310c] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-01-15 16:48:14.280  INFO 23400 --- [main] c.aypark.servicehi.ServiceHiApplication  : [2m:[0;39m [requestId:] No active profile set, falling back to default profiles: default
+2019-01-15 16:48:14.317  INFO 23400 --- [main] ConfigServletWebServerApplicationContext : [2m:[0;39m [requestId:] Refreshing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@15cf0837: startup date [Tue Jan 15 16:48:14 CST 2019]; parent: org.springframework.context.annotation.AnnotationConfigApplicationContext@19dc9dda
+2019-01-15 16:48:14.914  WARN 23400 --- [main] ssPathScanningCandidateComponentProvider : [2m:[0;39m [requestId:] No MyBatis mapper was found in '[com.ayhealth.dao]' package. Please check your configuration.
+2019-01-15 16:48:15.245  INFO 23400 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : [2m:[0;39m [requestId:] Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-01-15 16:48:15.280  INFO 23400 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : [2m:[0;39m [requestId:] Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-01-15 16:48:15.761  INFO 23400 --- [main] o.s.cloud.context.scope.GenericScope     : [2m:[0;39m [requestId:] BeanFactory id=a0692cbb-a0e4-392b-b0c7-210b23b6ac14
+2019-01-15 16:48:15.780  INFO 23400 --- [main] f.a.AutowiredAnnotationBeanPostProcessor : [2m:[0;39m [requestId:] JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-01-15 16:48:15.922  INFO 23400 --- [main] trationDelegate$BeanPostProcessorChecker : [2m:[0;39m [requestId:] Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$445a2e0f] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-01-15 16:48:15.980  INFO 23400 --- [main] trationDelegate$BeanPostProcessorChecker : [2m:[0;39m [requestId:] Bean 'org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration' of type [org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration$$EnhancerBySpringCGLIB$$6074310c] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-01-15 16:48:16.624  INFO 23400 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : [2m:[0;39m [requestId:] Tomcat initialized with port(s): 8763 (http)
+2019-01-15 16:48:16.668  INFO 23400 --- [main] o.a.coyote.http11.Http11NioProtocol      : [2m:[0;39m [requestId:] Initializing ProtocolHandler ["http-nio-8763"]
+2019-01-15 16:48:16.684  INFO 23400 --- [main] o.apache.catalina.core.StandardService   : [2m:[0;39m [requestId:] Starting service [Tomcat]
+2019-01-15 16:48:16.685  INFO 23400 --- [main] org.apache.catalina.core.StandardEngine  : [2m:[0;39m [requestId:] Starting Servlet Engine: Apache Tomcat/8.5.28
+2019-01-15 16:48:16.690  INFO 23400 --- [localhost-startStop-1] o.a.catalina.core.AprLifecycleListener   : [2m:[0;39m [requestId:] The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jdk1.8.0_192\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;E:\maven3.5\apache-maven-3.5.3\bin;C:\Program Files\Java\jdk1.8.0_192\bin;C:\Program Files\Java\jdk1.8.0_192\jre\bin;C:\Program Files\Java\jdk1.8.0_192\lib;C:\Program Files\Java\jdk1.8.0_192\lib\tools.jar;E:\Program Files\Git\cmd;E:\Program Files\nodejs\;D:\nodejs\node_global;F:\软件\压力测试-jmeter\apache-jmeter-5.0\lib\ext\ApacheJMeter_core.jar;F:\软件\压力测试-jmeter\apache-jmeter-5.0\lib\logkit-2.0.jar;"F:\软件\压力测试-jmeter\apache-jmeter-5.0\lib\jorphan.jar;";C:\Users\ay-mei-pc\AppData\Local\Microsoft\WindowsApps;C:\Users\ay-mei-pc\AppData\Roaming\npm;.]
+2019-01-15 16:48:16.902  INFO 23400 --- [localhost-startStop-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : [2m:[0;39m [requestId:] Initializing Spring embedded WebApplicationContext
+2019-01-15 16:48:16.902  INFO 23400 --- [localhost-startStop-1] o.s.web.context.ContextLoader            : [2m:[0;39m [requestId:] Root WebApplicationContext: initialization completed in 2585 ms
+2019-01-15 16:48:17.087  INFO 23400 --- [localhost-startStop-1] o.s.b.w.servlet.ServletRegistrationBean  : [2m:[0;39m [requestId:] Servlet dispatcherServlet mapped to [/]
+2019-01-15 16:48:17.094  INFO 23400 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : [2m:[0;39m [requestId:] Mapping filter: 'characterEncodingFilter' to: [/*]
+2019-01-15 16:48:17.095  INFO 23400 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : [2m:[0;39m [requestId:] Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2019-01-15 16:48:17.095  INFO 23400 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : [2m:[0;39m [requestId:] Mapping filter: 'httpPutFormContentFilter' to: [/*]
+2019-01-15 16:48:17.095  INFO 23400 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : [2m:[0;39m [requestId:] Mapping filter: 'requestContextFilter' to: [/*]
+2019-01-15 16:48:17.259  INFO 23400 --- [main] c.a.w.wechatConfig.WxPayConfiguration    : [2m:[0;39m [requestId:] 初始化数据---------：null
+2019-01-15 16:48:17.568  WARN 23400 --- [main] c.n.c.sources.URLConfigurationSource     : [2m:[0;39m [requestId:] No URLs will be polled as dynamic configuration sources.
+2019-01-15 16:48:17.568  INFO 23400 --- [main] c.n.c.sources.URLConfigurationSource     : [2m:[0;39m [requestId:] To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2019-01-15 16:48:17.574  WARN 23400 --- [main] c.n.c.sources.URLConfigurationSource     : [2m:[0;39m [requestId:] No URLs will be polled as dynamic configuration sources.
+2019-01-15 16:48:17.574  INFO 23400 --- [main] c.n.c.sources.URLConfigurationSource     : [2m:[0;39m [requestId:] To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2019-01-15 16:48:17.830  INFO 23400 --- [main] org.mongodb.driver.cluster               : [2m:[0;39m [requestId:] Cluster created with settings {hosts=[127.0.0.1:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+2019-01-15 16:48:17.930  INFO 23400 --- [cluster-ClusterId{value='5c3d9e51be03d15b6895c71e', description='null'}-127.0.0.1:27017] org.mongodb.driver.connection            : [2m:[0;39m [requestId:] Opened connection [connectionId{localValue:1, serverValue:7}] to 127.0.0.1:27017
+2019-01-15 16:48:17.936  INFO 23400 --- [cluster-ClusterId{value='5c3d9e51be03d15b6895c71e', description='null'}-127.0.0.1:27017] org.mongodb.driver.cluster               : [2m:[0;39m [requestId:] Monitor thread successfully connected to server with description ServerDescription{address=127.0.0.1:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[4, 0, 0]}, minWireVersion=0, maxWireVersion=7, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=4084045}
+2019-01-15 16:48:18.634  INFO 23400 --- [main] s.w.s.m.m.a.RequestMappingHandlerAdapter : [2m:[0;39m [requestId:] Looking for @ControllerAdvice: org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@15cf0837: startup date [Tue Jan 15 16:48:14 CST 2019]; parent: org.springframework.context.annotation.AnnotationConfigApplicationContext@19dc9dda
+2019-01-15 16:48:18.746  INFO 23400 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : [2m:[0;39m [requestId:] Mapped "{[/hi]}" onto public java.lang.String com.aypark.servicehi.ServiceHiApplication.home(java.lang.String)
+2019-01-15 16:48:18.752  INFO 23400 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : [2m:[0;39m [requestId:] Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.error(javax.servlet.http.HttpServletRequest)
+2019-01-15 16:48:18.753  INFO 23400 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : [2m:[0;39m [requestId:] Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2019-01-15 16:48:18.819  INFO 23400 --- [main] o.s.w.s.handler.SimpleUrlHandlerMapping  : [2m:[0;39m [requestId:] Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2019-01-15 16:48:18.820  INFO 23400 --- [main] o.s.w.s.handler.SimpleUrlHandlerMapping  : [2m:[0;39m [requestId:] Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2019-01-15 16:48:18.886  INFO 23400 --- [main] o.s.w.s.handler.SimpleUrlHandlerMapping  : [2m:[0;39m [requestId:] Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2019-01-15 16:48:18.932  WARN 23400 --- [main] ion$DefaultTemplateResolverConfiguration : [2m:[0;39m [requestId:] Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2019-01-15 16:48:20.569  INFO 23400 --- [main] o.s.cloud.commons.util.InetUtils         : [2m:[0;39m [requestId:] Cannot determine local hostname
+2019-01-15 16:48:21.651  INFO 23400 --- [main] o.s.cloud.commons.util.InetUtils         : [2m:[0;39m [requestId:] Cannot determine local hostname
+2019-01-15 16:48:21.984  INFO 23400 --- [main] o.s.j.e.a.AnnotationMBeanExporter        : [2m:[0;39m [requestId:] Registering beans for JMX exposure on startup
+2019-01-15 16:48:21.995  INFO 23400 --- [main] o.s.j.e.a.AnnotationMBeanExporter        : [2m:[0;39m [requestId:] Bean with name 'refreshScope' has been autodetected for JMX exposure
+2019-01-15 16:48:21.996  INFO 23400 --- [main] o.s.j.e.a.AnnotationMBeanExporter        : [2m:[0;39m [requestId:] Bean with name 'configurationPropertiesRebinder' has been autodetected for JMX exposure
+2019-01-15 16:48:21.997  INFO 23400 --- [main] o.s.j.e.a.AnnotationMBeanExporter        : [2m:[0;39m [requestId:] Bean with name 'environmentManager' has been autodetected for JMX exposure
+2019-01-15 16:48:22.000  INFO 23400 --- [main] o.s.j.e.a.AnnotationMBeanExporter        : [2m:[0;39m [requestId:] Located managed bean 'environmentManager': registering with JMX server as MBean [org.springframework.cloud.context.environment:name=environmentManager,type=EnvironmentManager]
+2019-01-15 16:48:22.033  INFO 23400 --- [main] o.s.j.e.a.AnnotationMBeanExporter        : [2m:[0;39m [requestId:] Located managed bean 'refreshScope': registering with JMX server as MBean [org.springframework.cloud.context.scope.refresh:name=refreshScope,type=RefreshScope]
+2019-01-15 16:48:22.045  INFO 23400 --- [main] o.s.j.e.a.AnnotationMBeanExporter        : [2m:[0;39m [requestId:] Located managed bean 'configurationPropertiesRebinder': registering with JMX server as MBean [org.springframework.cloud.context.properties:name=configurationPropertiesRebinder,context=15cf0837,type=ConfigurationPropertiesRebinder]
+2019-01-15 16:48:22.056  INFO 23400 --- [main] o.s.c.support.DefaultLifecycleProcessor  : [2m:[0;39m [requestId:] Starting beans in phase 0
+2019-01-15 16:48:22.074  INFO 23400 --- [main] o.s.c.n.eureka.InstanceInfoFactory       : [2m:[0;39m [requestId:] Setting initial instance status as: STARTING
+2019-01-15 16:48:22.134  INFO 23400 --- [main] com.netflix.discovery.DiscoveryClient    : [2m:[0;39m [requestId:] Initializing Eureka in region us-east-1
+2019-01-15 16:48:22.260  INFO 23400 --- [main] c.n.d.provider.DiscoveryJerseyProvider   : [2m:[0;39m [requestId:] Using JSON encoding codec LegacyJacksonJson
+2019-01-15 16:48:22.260  INFO 23400 --- [main] c.n.d.provider.DiscoveryJerseyProvider   : [2m:[0;39m [requestId:] Using JSON decoding codec LegacyJacksonJson
+2019-01-15 16:48:22.444  INFO 23400 --- [main] c.n.d.provider.DiscoveryJerseyProvider   : [2m:[0;39m [requestId:] Using XML encoding codec XStreamXml
+2019-01-15 16:48:22.444  INFO 23400 --- [main] c.n.d.provider.DiscoveryJerseyProvider   : [2m:[0;39m [requestId:] Using XML decoding codec XStreamXml
+2019-01-15 16:48:22.697  INFO 23400 --- [main] c.n.d.s.r.aws.ConfigClusterResolver      : [2m:[0;39m [requestId:] Resolving eureka endpoints via configuration
+2019-01-15 16:48:22.763  INFO 23400 --- [main] com.netflix.discovery.DiscoveryClient    : [2m:[0;39m [requestId:] Disable delta property : false
+2019-01-15 16:48:22.763  INFO 23400 --- [main] com.netflix.discovery.DiscoveryClient    : [2m:[0;39m [requestId:] Single vip registry refresh property : null
+2019-01-15 16:48:22.764  INFO 23400 --- [main] com.netflix.discovery.DiscoveryClient    : [2m:[0;39m [requestId:] Force full registry fetch : false
+2019-01-15 16:48:22.764  INFO 23400 --- [main] com.netflix.discovery.DiscoveryClient    : [2m:[0;39m [requestId:] Application is null : false
+2019-01-15 16:48:22.764  INFO 23400 --- [main] com.netflix.discovery.DiscoveryClient    : [2m:[0;39m [requestId:] Registered Applications size is zero : true
+2019-01-15 16:48:22.764  INFO 23400 --- [main] com.netflix.discovery.DiscoveryClient    : [2m:[0;39m [requestId:] Application version is -1: true
+2019-01-15 16:48:22.764  INFO 23400 --- [main] com.netflix.discovery.DiscoveryClient    : [2m:[0;39m [requestId:] Getting all instance registry info from the eureka server
+2019-01-15 16:48:23.061  INFO 23400 --- [main] com.netflix.discovery.DiscoveryClient    : [2m:[0;39m [requestId:] The response status is 200
+2019-01-15 16:48:23.065  INFO 23400 --- [main] com.netflix.discovery.DiscoveryClient    : [2m:[0;39m [requestId:] Starting heartbeat executor: renew interval is: 30
+2019-01-15 16:48:23.068  INFO 23400 --- [main] c.n.discovery.InstanceInfoReplicator     : [2m:[0;39m [requestId:] InstanceInfoReplicator onDemand update allowed rate per min is 4
+2019-01-15 16:48:23.073  INFO 23400 --- [main] com.netflix.discovery.DiscoveryClient    : [2m:[0;39m [requestId:] Discovery Client initialized at timestamp 1547542103072 with initial instances count: 2
+2019-01-15 16:48:23.079  INFO 23400 --- [main] o.s.c.n.e.s.EurekaServiceRegistry        : [2m:[0;39m [requestId:] Registering application service-hi with eureka with status UP
+2019-01-15 16:48:23.079  INFO 23400 --- [main] com.netflix.discovery.DiscoveryClient    : [2m:[0;39m [requestId:] Saw local status change event StatusChangeEvent [timestamp=1547542103079, current=UP, previous=STARTING]
+2019-01-15 16:48:23.081  INFO 23400 --- [DiscoveryClient-InstanceInfoReplicator-0] com.netflix.discovery.DiscoveryClient    : [2m:[0;39m [requestId:] DiscoveryClient_SERVICE-HI/localhost:service-hi:8763: registering service...
+2019-01-15 16:48:23.100  INFO 23400 --- [main] o.a.coyote.http11.Http11NioProtocol      : [2m:[0;39m [requestId:] Starting ProtocolHandler ["http-nio-8763"]
+2019-01-15 16:48:23.125  INFO 23400 --- [main] o.a.tomcat.util.net.NioSelectorPool      : [2m:[0;39m [requestId:] Using a shared selector for servlet write/read
+2019-01-15 16:48:23.155  INFO 23400 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : [2m:[0;39m [requestId:] Tomcat started on port(s): 8763 (http) with context path ''
+2019-01-15 16:48:23.155  INFO 23400 --- [DiscoveryClient-InstanceInfoReplicator-0] com.netflix.discovery.DiscoveryClient    : [2m:[0;39m [requestId:] DiscoveryClient_SERVICE-HI/localhost:service-hi:8763 - registration status: 204
+2019-01-15 16:48:23.156  INFO 23400 --- [main] .s.c.n.e.s.EurekaAutoServiceRegistration : [2m:[0;39m [requestId:] Updating port to 8763
+2019-01-15 16:48:23.161  INFO 23400 --- [main] c.aypark.servicehi.ServiceHiApplication  : [2m:[0;39m [requestId:] Started ServiceHiApplication in 12.896 seconds (JVM running for 17.799)
+2019-01-15 16:49:20.319  WARN 23400 --- [rebel-change-detector-thread] ssPathScanningCandidateComponentProvider : [2m:[0;39m [requestId:] No MyBatis mapper was found in '[com.ayhealth.dao]' package. Please check your configuration.
+2019-01-15 16:49:21.004  WARN 23400 --- [rebel-change-detector-thread] ssPathScanningCandidateComponentProvider : [2m:[0;39m [requestId:] No MyBatis mapper was found in '[com.ayhealth.dao]' package. Please check your configuration.
+2019-01-15 16:49:21.387  INFO 23400 --- [rebel-change-detector-thread] c.a.c.mysql.DataSourceConfiguration      : [2m:[0;39m [requestId:] -------------------- writeDataSource init ---------------------
+2019-01-15 16:49:21.631  INFO 23400 --- [rebel-change-detector-thread] c.a.c.mysql.DataSourceConfiguration      : [2m:[0;39m [requestId:] -------------------- read01 DataSourceOne init ---------------------
+2019-01-15 16:49:21.631  INFO 23400 --- [rebel-change-detector-thread] c.a.c.mysql.DataSourceConfiguration      : [2m:[0;39m [requestId:] -------------------- writeDataSource init ---------------------
+2019-01-15 16:49:21.727  INFO 23400 --- [rebel-change-detector-thread] c.a.config.mysql.MybatisConfiguration    : [2m:[0;39m [requestId:] --------------------  sqlSessionFactory init ---------------------
+2019-01-15 16:49:21.799 ERROR 23400 --- [rebel-change-detector-thread] c.a.config.mysql.MybatisConfiguration    : [2m:[0;39m [requestId:] mybatis resolver mapper*xml is error
+
+java.io.FileNotFoundException: class path resource [com/ayhealth/dao/] cannot be resolved to URL because it does not exist
+	at org.springframework.core.io.ClassPathResource.getURL(ClassPathResource.java:195)
+	at org.springframework.core.io.support.PathMatchingResourcePatternResolver.findPathMatchingResources(PathMatchingResourcePatternResolver.java:495)
+	at org.springframework.core.io.support.PathMatchingResourcePatternResolver.getResources(PathMatchingResourcePatternResolver.java:296)
+	at com.apark.config.mysql.MybatisConfiguration.sqlSessionFactorys(MybatisConfiguration.java:94)
+	at com.apark.config.mysql.MybatisConfiguration$$EnhancerBySpringCGLIB$$349abcff.CGLIB$sqlSessionFactorys$3(<generated>)
+	at com.apark.config.mysql.MybatisConfiguration$$EnhancerBySpringCGLIB$$349abcff$$FastClassBySpringCGLIB$$9509d218.invoke(<generated>)
+	at org.springframework.cglib.proxy.MethodProxy.invokeSuper(MethodProxy.java:228)
+	at org.springframework.context.annotation.ConfigurationClassEnhancer$BeanMethodInterceptor.intercept(ConfigurationClassEnhancer.java:361)
+	at com.apark.config.mysql.MybatisConfiguration$$EnhancerBySpringCGLIB$$349abcff.sqlSessionFactorys(<generated>)
+	at sun.reflect.GeneratedMethodAccessor108.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:45005)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:154)
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiateUsingFactoryMethod(ConstructorResolver.java:579)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateUsingFactoryMethod(AbstractAutowireCapableBeanFactory.java:1250)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1099)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:545)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:502)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:312)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:228)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:310)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:200)
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:251)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1138)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1065)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.autowireByType(AbstractAutowireCapableBeanFactory.java:1424)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1326)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:582)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:502)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:312)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:228)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:310)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:200)
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:251)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1138)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1065)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:584)
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:91)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessPropertyValues(AutowiredAnnotationBeanPostProcessor.java:373)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1344)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:582)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:502)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:312)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:228)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:310)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:200)
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:251)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1138)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1065)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:584)
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:91)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessPropertyValues(AutowiredAnnotationBeanPostProcessor.java:373)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1344)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:582)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:502)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:312)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:228)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:310)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:200)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:760)
+	at org.springframework.beans.JrBeanReloader.reinstantiateSingletons(JrBeanReloader.java:1396)
+	at org.springframework.beans.JrBeanReloader.reloadBeanDefinitionsInternal(JrBeanReloader.java:1244)
+	at org.springframework.beans.JrBeanReloader.reloadBeanDefinitions(JrBeanReloader.java:1054)
+	at org.springframework.beans.JrBeanReloader.processClassEvents(JrBeanReloader.java:618)
+	at org.springframework.beans.JrBeanReloader.onClassEvent(JrBeanReloader.java:588)
+	at org.springframework.beans.JrBeanReloader.access$000(JrBeanReloader.java:100)
+	at org.springframework.beans.JrBeanReloader$1.onClassEvent(JrBeanReloader.java:188)
+	at org.zeroturnaround.javarebel.integration.util.ClassEventListenerUtil$BoundClassEventListener.onClassEvent(SourceFile:84)
+	at org.zeroturnaround.javarebel.integration.util.WeakUtil$WeakClassEventListenerAdapter.onClassEvent(SourceFile:320)
+	at com.zeroturnaround.javarebel.aw.b(SourceFile:169)
+	at com.zeroturnaround.javarebel.aw.a(SourceFile:140)
+	at com.zeroturnaround.javarebel.ap.a(SourceFile:85)
+	at com.zeroturnaround.javarebel.SDKReloaderImpl.d(SourceFile:73)
+	at com.zeroturnaround.javarebel.SDKReloaderImpl.b(SourceFile:64)
+	at com.zeroturnaround.javarebel.SDKReloaderImpl.fireReloadListeners(SourceFile:104)
+	at com.zeroturnaround.reload.ae.a(SourceFile:425)
+	at com.zeroturnaround.reload.a.m(SourceFile:510)
+	at com.zeroturnaround.reload.a.l(SourceFile:280)
+	at com.zeroturnaround.reload.a.k(SourceFile:60)
+	at com.zeroturnaround.reload.b.run(SourceFile:123)
+
+2019-01-15 16:50:15.800  INFO 14252 --- [main] s.c.a.AnnotationConfigApplicationContext : [2m:[0;39m [requestId:] Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@7ce58c1c: startup date [Tue Jan 15 16:50:15 CST 2019]; root of context hierarchy
+2019-01-15 16:50:16.271  INFO 14252 --- [main] f.a.AutowiredAnnotationBeanPostProcessor : [2m:[0;39m [requestId:] JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-01-15 16:50:16.325  INFO 14252 --- [main] trationDelegate$BeanPostProcessorChecker : [2m:[0;39m [requestId:] Bean 'configurationPropertiesRebinderAutoConfiguration' of type [org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration$$EnhancerBySpringCGLIB$$b63af5b7] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-01-15 16:50:17.722  INFO 14252 --- [main] c.aypark.servicehi.ServiceHiApplication  : [2m:[0;39m [requestId:] No active profile set, falling back to default profiles: default
+2019-01-15 16:50:17.761  INFO 14252 --- [main] ConfigServletWebServerApplicationContext : [2m:[0;39m [requestId:] Refreshing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@1d74720f: startup date [Tue Jan 15 16:50:17 CST 2019]; parent: org.springframework.context.annotation.AnnotationConfigApplicationContext@7ce58c1c
+2019-01-15 16:50:18.412  WARN 14252 --- [main] ssPathScanningCandidateComponentProvider : [2m:[0;39m [requestId:] No MyBatis mapper was found in '[com.ayhealth.dao]' package. Please check your configuration.
+2019-01-15 16:50:18.784  INFO 14252 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : [2m:[0;39m [requestId:] Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-01-15 16:50:18.817  INFO 14252 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : [2m:[0;39m [requestId:] Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-01-15 16:50:19.298  INFO 14252 --- [main] o.s.cloud.context.scope.GenericScope     : [2m:[0;39m [requestId:] BeanFactory id=03468c13-1012-3701-a595-630882862942
+2019-01-15 16:50:19.317  INFO 14252 --- [main] f.a.AutowiredAnnotationBeanPostProcessor : [2m:[0;39m [requestId:] JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-01-15 16:50:19.639  INFO 14252 --- [main] trationDelegate$BeanPostProcessorChecker : [2m:[0;39m [requestId:] Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$9a20f2ba] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-01-15 16:50:19.691  INFO 14252 --- [main] trationDelegate$BeanPostProcessorChecker : [2m:[0;39m [requestId:] Bean 'org.springframework.boot.context.properties.ConversionServiceDeducer$Factory' of type [org.springframework.boot.context.properties.ConversionServiceDeducer$Factory] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-01-15 16:50:19.694  INFO 14252 --- [main] trationDelegate$BeanPostProcessorChecker : [2m:[0;39m [requestId:] Bean 'druid-com.apark.config.druid.DruidDbProperties' of type [com.apark.config.druid.DruidDbProperties] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-01-15 16:50:19.695  INFO 14252 --- [main] trationDelegate$BeanPostProcessorChecker : [2m:[0;39m [requestId:] Bean 'druidMonitConfig' of type [com.apark.config.druid.DruidMonitConfig$$EnhancerBySpringCGLIB$$6cc13ade] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-01-15 16:50:19.710  INFO 14252 --- [main] trationDelegate$BeanPostProcessorChecker : [2m:[0;39m [requestId:] Bean 'druidStatPointcut' of type [org.springframework.aop.support.JdkRegexpMethodPointcut] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-01-15 16:50:19.725  INFO 14252 --- [main] trationDelegate$BeanPostProcessorChecker : [2m:[0;39m [requestId:] Bean 'druidStatInterceptor' of type [com.alibaba.druid.support.spring.stat.DruidStatInterceptor] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-01-15 16:50:19.728  INFO 14252 --- [main] trationDelegate$BeanPostProcessorChecker : [2m:[0;39m [requestId:] Bean 'druidStatAdvisor' of type [org.springframework.aop.support.DefaultPointcutAdvisor] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-01-15 16:50:19.747  INFO 14252 --- [main] trationDelegate$BeanPostProcessorChecker : [2m:[0;39m [requestId:] Bean 'org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration' of type [org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration$$EnhancerBySpringCGLIB$$b63af5b7] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-01-15 16:50:20.252  INFO 14252 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : [2m:[0;39m [requestId:] Tomcat initialized with port(s): 8763 (http)
+2019-01-15 16:50:20.293  INFO 14252 --- [main] o.a.coyote.http11.Http11NioProtocol      : [2m:[0;39m [requestId:] Initializing ProtocolHandler ["http-nio-8763"]
+2019-01-15 16:50:20.310  INFO 14252 --- [main] o.apache.catalina.core.StandardService   : [2m:[0;39m [requestId:] Starting service [Tomcat]
+2019-01-15 16:50:20.310  INFO 14252 --- [main] org.apache.catalina.core.StandardEngine  : [2m:[0;39m [requestId:] Starting Servlet Engine: Apache Tomcat/8.5.28
+2019-01-15 16:50:20.315  INFO 14252 --- [localhost-startStop-1] o.a.catalina.core.AprLifecycleListener   : [2m:[0;39m [requestId:] The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jdk1.8.0_192\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;E:\maven3.5\apache-maven-3.5.3\bin;C:\Program Files\Java\jdk1.8.0_192\bin;C:\Program Files\Java\jdk1.8.0_192\jre\bin;C:\Program Files\Java\jdk1.8.0_192\lib;C:\Program Files\Java\jdk1.8.0_192\lib\tools.jar;E:\Program Files\Git\cmd;E:\Program Files\nodejs\;D:\nodejs\node_global;F:\软件\压力测试-jmeter\apache-jmeter-5.0\lib\ext\ApacheJMeter_core.jar;F:\软件\压力测试-jmeter\apache-jmeter-5.0\lib\logkit-2.0.jar;"F:\软件\压力测试-jmeter\apache-jmeter-5.0\lib\jorphan.jar;";C:\Users\ay-mei-pc\AppData\Local\Microsoft\WindowsApps;C:\Users\ay-mei-pc\AppData\Roaming\npm;.]
+2019-01-15 16:50:20.536  INFO 14252 --- [localhost-startStop-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : [2m:[0;39m [requestId:] Initializing Spring embedded WebApplicationContext
+2019-01-15 16:50:20.536  INFO 14252 --- [localhost-startStop-1] o.s.web.context.ContextLoader            : [2m:[0;39m [requestId:] Root WebApplicationContext: initialization completed in 2775 ms
+2019-01-15 16:50:20.926  INFO 14252 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : [2m:[0;39m [requestId:] Mapping filter: 'characterEncodingFilter' to: [/*]
+2019-01-15 16:50:20.926  INFO 14252 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : [2m:[0;39m [requestId:] Mapping filter: 'sessionRepositoryFilter' to: [/*]
+2019-01-15 16:50:20.927  INFO 14252 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : [2m:[0;39m [requestId:] Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2019-01-15 16:50:20.927  INFO 14252 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : [2m:[0;39m [requestId:] Mapping filter: 'httpPutFormContentFilter' to: [/*]
+2019-01-15 16:50:20.927  INFO 14252 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : [2m:[0;39m [requestId:] Mapping filter: 'requestContextFilter' to: [/*]
+2019-01-15 16:50:20.927  INFO 14252 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : [2m:[0;39m [requestId:] Mapping filter: 'webStatFilter' to urls: [/*]
+2019-01-15 16:50:20.927  INFO 14252 --- [localhost-startStop-1] o.s.b.w.servlet.ServletRegistrationBean  : [2m:[0;39m [requestId:] Servlet statViewServlet mapped to [/druid/*]
+2019-01-15 16:50:20.929  INFO 14252 --- [localhost-startStop-1] o.s.b.w.servlet.ServletRegistrationBean  : [2m:[0;39m [requestId:] Servlet dispatcherServlet mapped to [/]
+2019-01-15 16:50:21.128  INFO 14252 --- [main] c.a.c.mysql.DataSourceConfiguration      : [2m:[0;39m [requestId:] -------------------- writeDataSource init ---------------------
+2019-01-15 16:50:21.233  INFO 14252 --- [main] c.a.c.mysql.DataSourceConfiguration      : [2m:[0;39m [requestId:] -------------------- read01 DataSourceOne init ---------------------
+2019-01-15 16:50:21.233  INFO 14252 --- [main] c.a.c.mysql.DataSourceConfiguration      : [2m:[0;39m [requestId:] -------------------- writeDataSource init ---------------------
+2019-01-15 16:50:21.323  INFO 14252 --- [main] c.a.config.mysql.MybatisConfiguration    : [2m:[0;39m [requestId:] --------------------  sqlSessionFactory init ---------------------
+2019-01-15 16:50:21.351 ERROR 14252 --- [main] c.a.config.mysql.MybatisConfiguration    : [2m:[0;39m [requestId:] mybatis resolver mapper*xml is error
+
+java.io.FileNotFoundException: class path resource [com/ayhealth/dao/] cannot be resolved to URL because it does not exist
+	at org.springframework.core.io.ClassPathResource.getURL(ClassPathResource.java:195)
+	at org.springframework.core.io.support.PathMatchingResourcePatternResolver.findPathMatchingResources(PathMatchingResourcePatternResolver.java:495)
+	at org.springframework.core.io.support.PathMatchingResourcePatternResolver.getResources(PathMatchingResourcePatternResolver.java:296)
+	at com.apark.config.mysql.MybatisConfiguration.sqlSessionFactorys(MybatisConfiguration.java:94)
+	at com.apark.config.mysql.MybatisConfiguration$$EnhancerBySpringCGLIB$$8a6181aa.CGLIB$sqlSessionFactorys$3(<generated>)
+	at com.apark.config.mysql.MybatisConfiguration$$EnhancerBySpringCGLIB$$8a6181aa$$FastClassBySpringCGLIB$$e11156eb.invoke(<generated>)
+	at org.springframework.cglib.proxy.MethodProxy.invokeSuper(MethodProxy.java:228)
+	at org.springframework.context.annotation.ConfigurationClassEnhancer$BeanMethodInterceptor.intercept(ConfigurationClassEnhancer.java:361)
+	at com.apark.config.mysql.MybatisConfiguration$$EnhancerBySpringCGLIB$$8a6181aa.sqlSessionFactorys(<generated>)
+	at sun.reflect.GeneratedMethodAccessor99.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:45005)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:154)
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiateUsingFactoryMethod(ConstructorResolver.java:579)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateUsingFactoryMethod(AbstractAutowireCapableBeanFactory.java:1250)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1099)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:545)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:502)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:312)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:228)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:310)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:200)
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:251)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1138)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1065)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.autowireByType(AbstractAutowireCapableBeanFactory.java:1424)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1326)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:582)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:502)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:312)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:228)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:310)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:200)
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:251)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1138)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1065)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:584)
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:91)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessPropertyValues(AutowiredAnnotationBeanPostProcessor.java:373)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1344)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:582)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:502)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:312)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:228)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:310)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:200)
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:251)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1138)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1065)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:584)
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:91)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessPropertyValues(AutowiredAnnotationBeanPostProcessor.java:373)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1344)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:582)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:502)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:312)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:228)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:310)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:200)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:760)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:868)
+	at org.springframework.context.support.AbstractApplicationContext.__refresh(AbstractApplicationContext.java:549)
+	at org.springframework.context.support.AbstractApplicationContext.jrLockAndRefresh(AbstractApplicationContext.java:40002)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:41008)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:140)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:752)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:388)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:327)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1246)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1234)
+	at com.aypark.servicehi.ServiceHiApplication.main(ServiceHiApplication.java:27)
+
+2019-01-15 16:50:21.358  WARN 14252 --- [main] ConfigServletWebServerApplicationContext : [2m:[0;39m [requestId:] Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'userController': Unsatisfied dependency expressed through field 'userService'; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'userService': Unsatisfied dependency expressed through field 'userMapper1'; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'userMapper1' defined in file [E:\gitfile\aypark_parent\aparkDao_api\target\classes\com\apark\dao\extraMapper\user\UserMapper1.class]: Unsatisfied dependency expressed through bean property 'sqlSessionTemplate'; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'sqlSessionTemplate' defined in class path resource [com/apark/config/mysql/MybatisConfiguration.class]: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [org.mybatis.spring.SqlSessionTemplate]: Factory method 'sqlSessionTemplate' threw exception; nested exception is java.lang.NullPointerException
+2019-01-15 16:50:21.362  INFO 14252 --- [main] o.apache.catalina.core.StandardService   : [2m:[0;39m [requestId:] Stopping service [Tomcat]
+2019-01-15 16:50:21.399  INFO 14252 --- [main] ConditionEvaluationReportLoggingListener : [2m:[0;39m [requestId:] 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2019-01-15 16:50:21.411 ERROR 14252 --- [main] o.s.boot.SpringApplication               : [2m:[0;39m [requestId:] Application run failed
+
+org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'userController': Unsatisfied dependency expressed through field 'userService'; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'userService': Unsatisfied dependency expressed through field 'userMapper1'; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'userMapper1' defined in file [E:\gitfile\aypark_parent\aparkDao_api\target\classes\com\apark\dao\extraMapper\user\UserMapper1.class]: Unsatisfied dependency expressed through bean property 'sqlSessionTemplate'; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'sqlSessionTemplate' defined in class path resource [com/apark/config/mysql/MybatisConfiguration.class]: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [org.mybatis.spring.SqlSessionTemplate]: Factory method 'sqlSessionTemplate' threw exception; nested exception is java.lang.NullPointerException
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:587)
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:91)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessPropertyValues(AutowiredAnnotationBeanPostProcessor.java:373)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1344)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:582)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:502)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:312)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:228)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:310)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:200)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:760)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:868)
+	at org.springframework.context.support.AbstractApplicationContext.__refresh(AbstractApplicationContext.java:549)
+	at org.springframework.context.support.AbstractApplicationContext.jrLockAndRefresh(AbstractApplicationContext.java:40002)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:41008)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:140)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:752)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:388)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:327)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1246)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1234)
+	at com.aypark.servicehi.ServiceHiApplication.main(ServiceHiApplication.java:27)
+Caused by: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'userService': Unsatisfied dependency expressed through field 'userMapper1'; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'userMapper1' defined in file [E:\gitfile\aypark_parent\aparkDao_api\target\classes\com\apark\dao\extraMapper\user\UserMapper1.class]: Unsatisfied dependency expressed through bean property 'sqlSessionTemplate'; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'sqlSessionTemplate' defined in class path resource [com/apark/config/mysql/MybatisConfiguration.class]: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [org.mybatis.spring.SqlSessionTemplate]: Factory method 'sqlSessionTemplate' threw exception; nested exception is java.lang.NullPointerException
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:587)
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:91)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessPropertyValues(AutowiredAnnotationBeanPostProcessor.java:373)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1344)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:582)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:502)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:312)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:228)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:310)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:200)
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:251)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1138)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1065)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:584)
+	... 21 common frames omitted
+Caused by: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'userMapper1' defined in file [E:\gitfile\aypark_parent\aparkDao_api\target\classes\com\apark\dao\extraMapper\user\UserMapper1.class]: Unsatisfied dependency expressed through bean property 'sqlSessionTemplate'; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'sqlSessionTemplate' defined in class path resource [com/apark/config/mysql/MybatisConfiguration.class]: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [org.mybatis.spring.SqlSessionTemplate]: Factory method 'sqlSessionTemplate' threw exception; nested exception is java.lang.NullPointerException
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.autowireByType(AbstractAutowireCapableBeanFactory.java:1439)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1326)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:582)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:502)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:312)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:228)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:310)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:200)
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:251)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1138)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1065)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:584)
+	... 34 common frames omitted
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'sqlSessionTemplate' defined in class path resource [com/apark/config/mysql/MybatisConfiguration.class]: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [org.mybatis.spring.SqlSessionTemplate]: Factory method 'sqlSessionTemplate' threw exception; nested exception is java.lang.NullPointerException
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiateUsingFactoryMethod(ConstructorResolver.java:587)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateUsingFactoryMethod(AbstractAutowireCapableBeanFactory.java:1250)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1099)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:545)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:502)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:312)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:228)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:310)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:200)
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:251)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1138)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1065)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.autowireByType(AbstractAutowireCapableBeanFactory.java:1424)
+	... 45 common frames omitted
+Caused by: org.springframework.beans.BeanInstantiationException: Failed to instantiate [org.mybatis.spring.SqlSessionTemplate]: Factory method 'sqlSessionTemplate' threw exception; nested exception is java.lang.NullPointerException
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:185)
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiateUsingFactoryMethod(ConstructorResolver.java:579)
+	... 57 common frames omitted
+Caused by: java.lang.NullPointerException: null
+	at org.mybatis.spring.SqlSessionTemplate.<init>(SqlSessionTemplate.java:94)
+	at com.apark.config.mysql.MybatisConfiguration.sqlSessionTemplate(MybatisConfiguration.java:176)
+	at com.apark.config.mysql.MybatisConfiguration$$EnhancerBySpringCGLIB$$8a6181aa.CGLIB$sqlSessionTemplate$0(<generated>)
+	at com.apark.config.mysql.MybatisConfiguration$$EnhancerBySpringCGLIB$$8a6181aa$$FastClassBySpringCGLIB$$e11156eb.invoke(<generated>)
+	at org.springframework.cglib.proxy.MethodProxy.invokeSuper(MethodProxy.java:228)
+	at org.springframework.context.annotation.ConfigurationClassEnhancer$BeanMethodInterceptor.intercept(ConfigurationClassEnhancer.java:361)
+	at com.apark.config.mysql.MybatisConfiguration$$EnhancerBySpringCGLIB$$8a6181aa.sqlSessionTemplate(<generated>)
+	at sun.reflect.GeneratedMethodAccessor103.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:45005)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:154)
+	... 58 common frames omitted
+
+2019-01-15 16:53:20.567  INFO 28532 --- [main] s.c.a.AnnotationConfigApplicationContext : [2m:[0;39m [requestId:] Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@348c00d9: startup date [Tue Jan 15 16:53:20 CST 2019]; root of context hierarchy
+2019-01-15 16:53:21.039  INFO 28532 --- [main] f.a.AutowiredAnnotationBeanPostProcessor : [2m:[0;39m [requestId:] JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-01-15 16:53:21.093  INFO 28532 --- [main] trationDelegate$BeanPostProcessorChecker : [2m:[0;39m [requestId:] Bean 'configurationPropertiesRebinderAutoConfiguration' of type [org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration$$EnhancerBySpringCGLIB$$21177a5b] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-01-15 16:53:22.485  INFO 28532 --- [main] c.aypark.servicehi.ServiceHiApplication  : [2m:[0;39m [requestId:] No active profile set, falling back to default profiles: default
+2019-01-15 16:53:22.523  INFO 28532 --- [main] ConfigServletWebServerApplicationContext : [2m:[0;39m [requestId:] Refreshing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@53222524: startup date [Tue Jan 15 16:53:22 CST 2019]; parent: org.springframework.context.annotation.AnnotationConfigApplicationContext@348c00d9
+2019-01-15 16:53:23.175  WARN 28532 --- [main] ssPathScanningCandidateComponentProvider : [2m:[0;39m [requestId:] No MyBatis mapper was found in '[com.ayhealth.dao]' package. Please check your configuration.
+2019-01-15 16:53:23.547  INFO 28532 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : [2m:[0;39m [requestId:] Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-01-15 16:53:23.578  INFO 28532 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : [2m:[0;39m [requestId:] Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-01-15 16:53:24.057  INFO 28532 --- [main] o.s.cloud.context.scope.GenericScope     : [2m:[0;39m [requestId:] BeanFactory id=03468c13-1012-3701-a595-630882862942
+2019-01-15 16:53:24.076  INFO 28532 --- [main] f.a.AutowiredAnnotationBeanPostProcessor : [2m:[0;39m [requestId:] JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-01-15 16:53:24.381  INFO 28532 --- [main] trationDelegate$BeanPostProcessorChecker : [2m:[0;39m [requestId:] Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$4fd775e] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-01-15 16:53:24.431  INFO 28532 --- [main] trationDelegate$BeanPostProcessorChecker : [2m:[0;39m [requestId:] Bean 'org.springframework.boot.context.properties.ConversionServiceDeducer$Factory' of type [org.springframework.boot.context.properties.ConversionServiceDeducer$Factory] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-01-15 16:53:24.433  INFO 28532 --- [main] trationDelegate$BeanPostProcessorChecker : [2m:[0;39m [requestId:] Bean 'druid-com.apark.config.druid.DruidDbProperties' of type [com.apark.config.druid.DruidDbProperties] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-01-15 16:53:24.434  INFO 28532 --- [main] trationDelegate$BeanPostProcessorChecker : [2m:[0;39m [requestId:] Bean 'druidMonitConfig' of type [com.apark.config.druid.DruidMonitConfig$$EnhancerBySpringCGLIB$$d79dbf82] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-01-15 16:53:24.449  INFO 28532 --- [main] trationDelegate$BeanPostProcessorChecker : [2m:[0;39m [requestId:] Bean 'druidStatPointcut' of type [org.springframework.aop.support.JdkRegexpMethodPointcut] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-01-15 16:53:24.464  INFO 28532 --- [main] trationDelegate$BeanPostProcessorChecker : [2m:[0;39m [requestId:] Bean 'druidStatInterceptor' of type [com.alibaba.druid.support.spring.stat.DruidStatInterceptor] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-01-15 16:53:24.468  INFO 28532 --- [main] trationDelegate$BeanPostProcessorChecker : [2m:[0;39m [requestId:] Bean 'druidStatAdvisor' of type [org.springframework.aop.support.DefaultPointcutAdvisor] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-01-15 16:53:24.485  INFO 28532 --- [main] trationDelegate$BeanPostProcessorChecker : [2m:[0;39m [requestId:] Bean 'org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration' of type [org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration$$EnhancerBySpringCGLIB$$21177a5b] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-01-15 16:53:24.976  INFO 28532 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : [2m:[0;39m [requestId:] Tomcat initialized with port(s): 8763 (http)
+2019-01-15 16:53:25.020  INFO 28532 --- [main] o.a.coyote.http11.Http11NioProtocol      : [2m:[0;39m [requestId:] Initializing ProtocolHandler ["http-nio-8763"]
+2019-01-15 16:53:25.037  INFO 28532 --- [main] o.apache.catalina.core.StandardService   : [2m:[0;39m [requestId:] Starting service [Tomcat]
+2019-01-15 16:53:25.038  INFO 28532 --- [main] org.apache.catalina.core.StandardEngine  : [2m:[0;39m [requestId:] Starting Servlet Engine: Apache Tomcat/8.5.28
+2019-01-15 16:53:25.042  INFO 28532 --- [localhost-startStop-1] o.a.catalina.core.AprLifecycleListener   : [2m:[0;39m [requestId:] The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jdk1.8.0_192\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;E:\maven3.5\apache-maven-3.5.3\bin;C:\Program Files\Java\jdk1.8.0_192\bin;C:\Program Files\Java\jdk1.8.0_192\jre\bin;C:\Program Files\Java\jdk1.8.0_192\lib;C:\Program Files\Java\jdk1.8.0_192\lib\tools.jar;E:\Program Files\Git\cmd;E:\Program Files\nodejs\;D:\nodejs\node_global;F:\软件\压力测试-jmeter\apache-jmeter-5.0\lib\ext\ApacheJMeter_core.jar;F:\软件\压力测试-jmeter\apache-jmeter-5.0\lib\logkit-2.0.jar;"F:\软件\压力测试-jmeter\apache-jmeter-5.0\lib\jorphan.jar;";C:\Users\ay-mei-pc\AppData\Local\Microsoft\WindowsApps;C:\Users\ay-mei-pc\AppData\Roaming\npm;.]
+2019-01-15 16:53:25.261  INFO 28532 --- [localhost-startStop-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : [2m:[0;39m [requestId:] Initializing Spring embedded WebApplicationContext
+2019-01-15 16:53:25.261  INFO 28532 --- [localhost-startStop-1] o.s.web.context.ContextLoader            : [2m:[0;39m [requestId:] Root WebApplicationContext: initialization completed in 2739 ms
+2019-01-15 16:53:25.645  INFO 28532 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : [2m:[0;39m [requestId:] Mapping filter: 'characterEncodingFilter' to: [/*]
+2019-01-15 16:53:25.646  INFO 28532 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : [2m:[0;39m [requestId:] Mapping filter: 'sessionRepositoryFilter' to: [/*]
+2019-01-15 16:53:25.646  INFO 28532 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : [2m:[0;39m [requestId:] Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2019-01-15 16:53:25.646  INFO 28532 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : [2m:[0;39m [requestId:] Mapping filter: 'httpPutFormContentFilter' to: [/*]
+2019-01-15 16:53:25.646  INFO 28532 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : [2m:[0;39m [requestId:] Mapping filter: 'requestContextFilter' to: [/*]
+2019-01-15 16:53:25.646  INFO 28532 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : [2m:[0;39m [requestId:] Mapping filter: 'webStatFilter' to urls: [/*]
+2019-01-15 16:53:25.646  INFO 28532 --- [localhost-startStop-1] o.s.b.w.servlet.ServletRegistrationBean  : [2m:[0;39m [requestId:] Servlet statViewServlet mapped to [/druid/*]
+2019-01-15 16:53:25.648  INFO 28532 --- [localhost-startStop-1] o.s.b.w.servlet.ServletRegistrationBean  : [2m:[0;39m [requestId:] Servlet dispatcherServlet mapped to [/]
+2019-01-15 16:53:25.847  INFO 28532 --- [main] c.a.c.mysql.DataSourceConfiguration      : [2m:[0;39m [requestId:] -------------------- writeDataSource init ---------------------
+2019-01-15 16:53:25.953  INFO 28532 --- [main] c.a.c.mysql.DataSourceConfiguration      : [2m:[0;39m [requestId:] -------------------- read01 DataSourceOne init ---------------------
+2019-01-15 16:53:25.953  INFO 28532 --- [main] c.a.c.mysql.DataSourceConfiguration      : [2m:[0;39m [requestId:] -------------------- writeDataSource init ---------------------
+2019-01-15 16:53:26.048  INFO 28532 --- [main] c.a.config.mysql.MybatisConfiguration    : [2m:[0;39m [requestId:] --------------------  sqlSessionFactory init ---------------------
+2019-01-15 16:53:26.076 ERROR 28532 --- [main] c.a.config.mysql.MybatisConfiguration    : [2m:[0;39m [requestId:] mybatis resolver mapper*xml is error
+
+java.io.FileNotFoundException: class path resource [com/ayhealth/dao/] cannot be resolved to URL because it does not exist
+	at org.springframework.core.io.ClassPathResource.getURL(ClassPathResource.java:195)
+	at org.springframework.core.io.support.PathMatchingResourcePatternResolver.findPathMatchingResources(PathMatchingResourcePatternResolver.java:495)
+	at org.springframework.core.io.support.PathMatchingResourcePatternResolver.getResources(PathMatchingResourcePatternResolver.java:296)
+	at com.apark.config.mysql.MybatisConfiguration.sqlSessionFactorys(MybatisConfiguration.java:94)
+	at com.apark.config.mysql.MybatisConfiguration$$EnhancerBySpringCGLIB$$f53e064e.CGLIB$sqlSessionFactorys$3(<generated>)
+	at com.apark.config.mysql.MybatisConfiguration$$EnhancerBySpringCGLIB$$f53e064e$$FastClassBySpringCGLIB$$71afde86.invoke(<generated>)
+	at org.springframework.cglib.proxy.MethodProxy.invokeSuper(MethodProxy.java:228)
+	at org.springframework.context.annotation.ConfigurationClassEnhancer$BeanMethodInterceptor.intercept(ConfigurationClassEnhancer.java:361)
+	at com.apark.config.mysql.MybatisConfiguration$$EnhancerBySpringCGLIB$$f53e064e.sqlSessionFactorys(<generated>)
+	at sun.reflect.GeneratedMethodAccessor99.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:45005)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:154)
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiateUsingFactoryMethod(ConstructorResolver.java:579)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateUsingFactoryMethod(AbstractAutowireCapableBeanFactory.java:1250)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1099)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:545)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:502)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:312)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:228)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:310)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:200)
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:251)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1138)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1065)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.autowireByType(AbstractAutowireCapableBeanFactory.java:1424)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1326)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:582)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:502)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:312)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:228)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:310)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:200)
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:251)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1138)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1065)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:584)
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:91)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessPropertyValues(AutowiredAnnotationBeanPostProcessor.java:373)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1344)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:582)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:502)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:312)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:228)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:310)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:200)
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:251)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1138)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1065)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:584)
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:91)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessPropertyValues(AutowiredAnnotationBeanPostProcessor.java:373)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1344)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:582)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:502)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:312)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:228)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:310)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:200)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:760)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:868)
+	at org.springframework.context.support.AbstractApplicationContext.__refresh(AbstractApplicationContext.java:549)
+	at org.springframework.context.support.AbstractApplicationContext.jrLockAndRefresh(AbstractApplicationContext.java:40002)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:41008)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:140)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:752)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:388)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:327)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1246)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1234)
+	at com.aypark.servicehi.ServiceHiApplication.main(ServiceHiApplication.java:27)
+
+2019-01-15 16:53:26.087  WARN 28532 --- [main] ConfigServletWebServerApplicationContext : [2m:[0;39m [requestId:] Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'userController': Unsatisfied dependency expressed through field 'userService'; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'userService': Unsatisfied dependency expressed through field 'userMapper1'; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'userMapper1' defined in file [E:\gitfile\aypark_parent\aparkDao_api\target\classes\com\apark\dao\extraMapper\user\UserMapper1.class]: Unsatisfied dependency expressed through bean property 'sqlSessionTemplate'; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'sqlSessionTemplate' defined in class path resource [com/apark/config/mysql/MybatisConfiguration.class]: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [org.mybatis.spring.SqlSessionTemplate]: Factory method 'sqlSessionTemplate' threw exception; nested exception is java.lang.NullPointerException
+2019-01-15 16:53:26.091  INFO 28532 --- [main] o.apache.catalina.core.StandardService   : [2m:[0;39m [requestId:] Stopping service [Tomcat]
+2019-01-15 16:53:26.128  INFO 28532 --- [main] ConditionEvaluationReportLoggingListener : [2m:[0;39m [requestId:] 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2019-01-15 16:53:26.141 ERROR 28532 --- [main] o.s.boot.SpringApplication               : [2m:[0;39m [requestId:] Application run failed
+
+org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'userController': Unsatisfied dependency expressed through field 'userService'; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'userService': Unsatisfied dependency expressed through field 'userMapper1'; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'userMapper1' defined in file [E:\gitfile\aypark_parent\aparkDao_api\target\classes\com\apark\dao\extraMapper\user\UserMapper1.class]: Unsatisfied dependency expressed through bean property 'sqlSessionTemplate'; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'sqlSessionTemplate' defined in class path resource [com/apark/config/mysql/MybatisConfiguration.class]: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [org.mybatis.spring.SqlSessionTemplate]: Factory method 'sqlSessionTemplate' threw exception; nested exception is java.lang.NullPointerException
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:587)
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:91)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessPropertyValues(AutowiredAnnotationBeanPostProcessor.java:373)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1344)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:582)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:502)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:312)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:228)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:310)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:200)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:760)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:868)
+	at org.springframework.context.support.AbstractApplicationContext.__refresh(AbstractApplicationContext.java:549)
+	at org.springframework.context.support.AbstractApplicationContext.jrLockAndRefresh(AbstractApplicationContext.java:40002)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:41008)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:140)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:752)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:388)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:327)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1246)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1234)
+	at com.aypark.servicehi.ServiceHiApplication.main(ServiceHiApplication.java:27)
+Caused by: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'userService': Unsatisfied dependency expressed through field 'userMapper1'; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'userMapper1' defined in file [E:\gitfile\aypark_parent\aparkDao_api\target\classes\com\apark\dao\extraMapper\user\UserMapper1.class]: Unsatisfied dependency expressed through bean property 'sqlSessionTemplate'; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'sqlSessionTemplate' defined in class path resource [com/apark/config/mysql/MybatisConfiguration.class]: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [org.mybatis.spring.SqlSessionTemplate]: Factory method 'sqlSessionTemplate' threw exception; nested exception is java.lang.NullPointerException
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:587)
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:91)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessPropertyValues(AutowiredAnnotationBeanPostProcessor.java:373)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1344)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:582)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:502)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:312)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:228)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:310)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:200)
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:251)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1138)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1065)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:584)
+	... 21 common frames omitted
+Caused by: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'userMapper1' defined in file [E:\gitfile\aypark_parent\aparkDao_api\target\classes\com\apark\dao\extraMapper\user\UserMapper1.class]: Unsatisfied dependency expressed through bean property 'sqlSessionTemplate'; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'sqlSessionTemplate' defined in class path resource [com/apark/config/mysql/MybatisConfiguration.class]: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [org.mybatis.spring.SqlSessionTemplate]: Factory method 'sqlSessionTemplate' threw exception; nested exception is java.lang.NullPointerException
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.autowireByType(AbstractAutowireCapableBeanFactory.java:1439)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1326)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:582)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:502)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:312)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:228)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:310)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:200)
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:251)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1138)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1065)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:584)
+	... 34 common frames omitted
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'sqlSessionTemplate' defined in class path resource [com/apark/config/mysql/MybatisConfiguration.class]: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [org.mybatis.spring.SqlSessionTemplate]: Factory method 'sqlSessionTemplate' threw exception; nested exception is java.lang.NullPointerException
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiateUsingFactoryMethod(ConstructorResolver.java:587)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateUsingFactoryMethod(AbstractAutowireCapableBeanFactory.java:1250)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1099)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:545)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:502)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:312)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:228)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:310)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:200)
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:251)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1138)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1065)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.autowireByType(AbstractAutowireCapableBeanFactory.java:1424)
+	... 45 common frames omitted
+Caused by: org.springframework.beans.BeanInstantiationException: Failed to instantiate [org.mybatis.spring.SqlSessionTemplate]: Factory method 'sqlSessionTemplate' threw exception; nested exception is java.lang.NullPointerException
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:185)
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiateUsingFactoryMethod(ConstructorResolver.java:579)
+	... 57 common frames omitted
+Caused by: java.lang.NullPointerException: null
+	at org.mybatis.spring.SqlSessionTemplate.<init>(SqlSessionTemplate.java:94)
+	at com.apark.config.mysql.MybatisConfiguration.sqlSessionTemplate(MybatisConfiguration.java:176)
+	at com.apark.config.mysql.MybatisConfiguration$$EnhancerBySpringCGLIB$$f53e064e.CGLIB$sqlSessionTemplate$1(<generated>)
+	at com.apark.config.mysql.MybatisConfiguration$$EnhancerBySpringCGLIB$$f53e064e$$FastClassBySpringCGLIB$$71afde86.invoke(<generated>)
+	at org.springframework.cglib.proxy.MethodProxy.invokeSuper(MethodProxy.java:228)
+	at org.springframework.context.annotation.ConfigurationClassEnhancer$BeanMethodInterceptor.intercept(ConfigurationClassEnhancer.java:361)
+	at com.apark.config.mysql.MybatisConfiguration$$EnhancerBySpringCGLIB$$f53e064e.sqlSessionTemplate(<generated>)
+	at sun.reflect.GeneratedMethodAccessor103.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:45005)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:154)
+	... 58 common frames omitted
+
+2019-01-15 16:54:46.814  INFO 30232 --- [main] s.c.a.AnnotationConfigApplicationContext : [2m:[0;39m [requestId:] Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@38410ce5: startup date [Tue Jan 15 16:54:46 CST 2019]; root of context hierarchy
+2019-01-15 16:54:47.434  INFO 30232 --- [main] f.a.AutowiredAnnotationBeanPostProcessor : [2m:[0;39m [requestId:] JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-01-15 16:54:47.501  INFO 30232 --- [main] trationDelegate$BeanPostProcessorChecker : [2m:[0;39m [requestId:] Bean 'configurationPropertiesRebinderAutoConfiguration' of type [org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration$$EnhancerBySpringCGLIB$$af606f78] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-01-15 16:54:48.922  INFO 30232 --- [main] c.aypark.servicehi.ServiceHiApplication  : [2m:[0;39m [requestId:] No active profile set, falling back to default profiles: default
+2019-01-15 16:54:48.948  INFO 30232 --- [main] ConfigServletWebServerApplicationContext : [2m:[0;39m [requestId:] Refreshing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@696b06a6: startup date [Tue Jan 15 16:54:48 CST 2019]; parent: org.springframework.context.annotation.AnnotationConfigApplicationContext@38410ce5
+2019-01-15 16:54:49.984  INFO 30232 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : [2m:[0;39m [requestId:] Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-01-15 16:54:50.019  INFO 30232 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : [2m:[0;39m [requestId:] Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-01-15 16:54:50.492  INFO 30232 --- [main] o.s.cloud.context.scope.GenericScope     : [2m:[0;39m [requestId:] BeanFactory id=03468c13-1012-3701-a595-630882862942
+2019-01-15 16:54:50.514  INFO 30232 --- [main] f.a.AutowiredAnnotationBeanPostProcessor : [2m:[0;39m [requestId:] JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-01-15 16:54:50.821  INFO 30232 --- [main] trationDelegate$BeanPostProcessorChecker : [2m:[0;39m [requestId:] Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$93466c7b] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-01-15 16:54:50.873  INFO 30232 --- [main] trationDelegate$BeanPostProcessorChecker : [2m:[0;39m [requestId:] Bean 'org.springframework.boot.context.properties.ConversionServiceDeducer$Factory' of type [org.springframework.boot.context.properties.ConversionServiceDeducer$Factory] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-01-15 16:54:50.876  INFO 30232 --- [main] trationDelegate$BeanPostProcessorChecker : [2m:[0;39m [requestId:] Bean 'druid-com.apark.config.druid.DruidDbProperties' of type [com.apark.config.druid.DruidDbProperties] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-01-15 16:54:50.877  INFO 30232 --- [main] trationDelegate$BeanPostProcessorChecker : [2m:[0;39m [requestId:] Bean 'druidMonitConfig' of type [com.apark.config.druid.DruidMonitConfig$$EnhancerBySpringCGLIB$$65e6b49f] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-01-15 16:54:50.892  INFO 30232 --- [main] trationDelegate$BeanPostProcessorChecker : [2m:[0;39m [requestId:] Bean 'druidStatPointcut' of type [org.springframework.aop.support.JdkRegexpMethodPointcut] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-01-15 16:54:50.907  INFO 30232 --- [main] trationDelegate$BeanPostProcessorChecker : [2m:[0;39m [requestId:] Bean 'druidStatInterceptor' of type [com.alibaba.druid.support.spring.stat.DruidStatInterceptor] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-01-15 16:54:50.911  INFO 30232 --- [main] trationDelegate$BeanPostProcessorChecker : [2m:[0;39m [requestId:] Bean 'druidStatAdvisor' of type [org.springframework.aop.support.DefaultPointcutAdvisor] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-01-15 16:54:50.927  INFO 30232 --- [main] trationDelegate$BeanPostProcessorChecker : [2m:[0;39m [requestId:] Bean 'org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration' of type [org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration$$EnhancerBySpringCGLIB$$af606f78] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-01-15 16:54:51.415  INFO 30232 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : [2m:[0;39m [requestId:] Tomcat initialized with port(s): 8763 (http)
+2019-01-15 16:54:51.457  INFO 30232 --- [main] o.a.coyote.http11.Http11NioProtocol      : [2m:[0;39m [requestId:] Initializing ProtocolHandler ["http-nio-8763"]
+2019-01-15 16:54:51.473  INFO 30232 --- [main] o.apache.catalina.core.StandardService   : [2m:[0;39m [requestId:] Starting service [Tomcat]
+2019-01-15 16:54:51.473  INFO 30232 --- [main] org.apache.catalina.core.StandardEngine  : [2m:[0;39m [requestId:] Starting Servlet Engine: Apache Tomcat/8.5.28
+2019-01-15 16:54:51.479  INFO 30232 --- [localhost-startStop-1] o.a.catalina.core.AprLifecycleListener   : [2m:[0;39m [requestId:] The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jdk1.8.0_192\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;E:\maven3.5\apache-maven-3.5.3\bin;C:\Program Files\Java\jdk1.8.0_192\bin;C:\Program Files\Java\jdk1.8.0_192\jre\bin;C:\Program Files\Java\jdk1.8.0_192\lib;C:\Program Files\Java\jdk1.8.0_192\lib\tools.jar;E:\Program Files\Git\cmd;E:\Program Files\nodejs\;D:\nodejs\node_global;F:\软件\压力测试-jmeter\apache-jmeter-5.0\lib\ext\ApacheJMeter_core.jar;F:\软件\压力测试-jmeter\apache-jmeter-5.0\lib\logkit-2.0.jar;"F:\软件\压力测试-jmeter\apache-jmeter-5.0\lib\jorphan.jar;";C:\Users\ay-mei-pc\AppData\Local\Microsoft\WindowsApps;C:\Users\ay-mei-pc\AppData\Roaming\npm;.]
+2019-01-15 16:54:51.695  INFO 30232 --- [localhost-startStop-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : [2m:[0;39m [requestId:] Initializing Spring embedded WebApplicationContext
+2019-01-15 16:54:51.695  INFO 30232 --- [localhost-startStop-1] o.s.web.context.ContextLoader            : [2m:[0;39m [requestId:] Root WebApplicationContext: initialization completed in 2747 ms
+2019-01-15 16:54:52.083  INFO 30232 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : [2m:[0;39m [requestId:] Mapping filter: 'characterEncodingFilter' to: [/*]
+2019-01-15 16:54:52.084  INFO 30232 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : [2m:[0;39m [requestId:] Mapping filter: 'sessionRepositoryFilter' to: [/*]
+2019-01-15 16:54:52.084  INFO 30232 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : [2m:[0;39m [requestId:] Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2019-01-15 16:54:52.084  INFO 30232 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : [2m:[0;39m [requestId:] Mapping filter: 'httpPutFormContentFilter' to: [/*]
+2019-01-15 16:54:52.084  INFO 30232 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : [2m:[0;39m [requestId:] Mapping filter: 'requestContextFilter' to: [/*]
+2019-01-15 16:54:52.084  INFO 30232 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : [2m:[0;39m [requestId:] Mapping filter: 'webStatFilter' to urls: [/*]
+2019-01-15 16:54:52.084  INFO 30232 --- [localhost-startStop-1] o.s.b.w.servlet.ServletRegistrationBean  : [2m:[0;39m [requestId:] Servlet statViewServlet mapped to [/druid/*]
+2019-01-15 16:54:52.086  INFO 30232 --- [localhost-startStop-1] o.s.b.w.servlet.ServletRegistrationBean  : [2m:[0;39m [requestId:] Servlet dispatcherServlet mapped to [/]
+2019-01-15 16:54:52.284  INFO 30232 --- [main] c.a.c.mysql.DataSourceConfiguration      : [2m:[0;39m [requestId:] -------------------- writeDataSource init ---------------------
+2019-01-15 16:54:52.391  INFO 30232 --- [main] c.a.c.mysql.DataSourceConfiguration      : [2m:[0;39m [requestId:] -------------------- read01 DataSourceOne init ---------------------
+2019-01-15 16:54:52.391  INFO 30232 --- [main] c.a.c.mysql.DataSourceConfiguration      : [2m:[0;39m [requestId:] -------------------- writeDataSource init ---------------------
+2019-01-15 16:54:52.481  INFO 30232 --- [main] c.a.config.mysql.MybatisConfiguration    : [2m:[0;39m [requestId:] --------------------  sqlSessionFactory init ---------------------
+2019-01-15 16:54:52.507 ERROR 30232 --- [main] c.a.config.mysql.MybatisConfiguration    : [2m:[0;39m [requestId:] mybatis resolver mapper*xml is error
+
+java.io.FileNotFoundException: class path resource [com/ayhealth/dao/] cannot be resolved to URL because it does not exist
+	at org.springframework.core.io.ClassPathResource.getURL(ClassPathResource.java:195)
+	at org.springframework.core.io.support.PathMatchingResourcePatternResolver.findPathMatchingResources(PathMatchingResourcePatternResolver.java:495)
+	at org.springframework.core.io.support.PathMatchingResourcePatternResolver.getResources(PathMatchingResourcePatternResolver.java:296)
+	at com.apark.config.mysql.MybatisConfiguration.sqlSessionFactorys(MybatisConfiguration.java:94)
+	at com.apark.config.mysql.MybatisConfiguration$$EnhancerBySpringCGLIB$$8386fb6b.CGLIB$sqlSessionFactorys$3(<generated>)
+	at com.apark.config.mysql.MybatisConfiguration$$EnhancerBySpringCGLIB$$8386fb6b$$FastClassBySpringCGLIB$$637873cf.invoke(<generated>)
+	at org.springframework.cglib.proxy.MethodProxy.invokeSuper(MethodProxy.java:228)
+	at org.springframework.context.annotation.ConfigurationClassEnhancer$BeanMethodInterceptor.intercept(ConfigurationClassEnhancer.java:361)
+	at com.apark.config.mysql.MybatisConfiguration$$EnhancerBySpringCGLIB$$8386fb6b.sqlSessionFactorys(<generated>)
+	at sun.reflect.GeneratedMethodAccessor99.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:45005)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:154)
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiateUsingFactoryMethod(ConstructorResolver.java:579)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateUsingFactoryMethod(AbstractAutowireCapableBeanFactory.java:1250)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1099)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:545)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:502)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:312)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:228)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:310)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:200)
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:251)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1138)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1065)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.autowireByType(AbstractAutowireCapableBeanFactory.java:1424)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1326)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:582)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:502)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:312)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:228)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:310)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:200)
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:251)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1138)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1065)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:584)
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:91)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessPropertyValues(AutowiredAnnotationBeanPostProcessor.java:373)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1344)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:582)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:502)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:312)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:228)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:310)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:200)
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:251)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1138)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1065)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:584)
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:91)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessPropertyValues(AutowiredAnnotationBeanPostProcessor.java:373)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1344)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:582)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:502)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:312)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:228)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:310)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:200)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:760)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:868)
+	at org.springframework.context.support.AbstractApplicationContext.__refresh(AbstractApplicationContext.java:549)
+	at org.springframework.context.support.AbstractApplicationContext.jrLockAndRefresh(AbstractApplicationContext.java:40002)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:41008)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:140)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:752)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:388)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:327)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1246)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1234)
+	at com.aypark.servicehi.ServiceHiApplication.main(ServiceHiApplication.java:26)
+
+2019-01-15 16:54:52.518  WARN 30232 --- [main] ConfigServletWebServerApplicationContext : [2m:[0;39m [requestId:] Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'userController': Unsatisfied dependency expressed through field 'userService'; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'userService': Unsatisfied dependency expressed through field 'userMapper1'; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'userMapper1' defined in file [E:\gitfile\aypark_parent\aparkDao_api\target\classes\com\apark\dao\extraMapper\user\UserMapper1.class]: Unsatisfied dependency expressed through bean property 'sqlSessionTemplate'; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'sqlSessionTemplate' defined in class path resource [com/apark/config/mysql/MybatisConfiguration.class]: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [org.mybatis.spring.SqlSessionTemplate]: Factory method 'sqlSessionTemplate' threw exception; nested exception is java.lang.NullPointerException
+2019-01-15 16:54:52.522  INFO 30232 --- [main] o.apache.catalina.core.StandardService   : [2m:[0;39m [requestId:] Stopping service [Tomcat]
+2019-01-15 16:54:52.557  INFO 30232 --- [main] ConditionEvaluationReportLoggingListener : [2m:[0;39m [requestId:] 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2019-01-15 16:54:52.569 ERROR 30232 --- [main] o.s.boot.SpringApplication               : [2m:[0;39m [requestId:] Application run failed
+
+org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'userController': Unsatisfied dependency expressed through field 'userService'; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'userService': Unsatisfied dependency expressed through field 'userMapper1'; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'userMapper1' defined in file [E:\gitfile\aypark_parent\aparkDao_api\target\classes\com\apark\dao\extraMapper\user\UserMapper1.class]: Unsatisfied dependency expressed through bean property 'sqlSessionTemplate'; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'sqlSessionTemplate' defined in class path resource [com/apark/config/mysql/MybatisConfiguration.class]: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [org.mybatis.spring.SqlSessionTemplate]: Factory method 'sqlSessionTemplate' threw exception; nested exception is java.lang.NullPointerException
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:587)
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:91)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessPropertyValues(AutowiredAnnotationBeanPostProcessor.java:373)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1344)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:582)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:502)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:312)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:228)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:310)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:200)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:760)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:868)
+	at org.springframework.context.support.AbstractApplicationContext.__refresh(AbstractApplicationContext.java:549)
+	at org.springframework.context.support.AbstractApplicationContext.jrLockAndRefresh(AbstractApplicationContext.java:40002)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:41008)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:140)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:752)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:388)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:327)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1246)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1234)
+	at com.aypark.servicehi.ServiceHiApplication.main(ServiceHiApplication.java:26)
+Caused by: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'userService': Unsatisfied dependency expressed through field 'userMapper1'; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'userMapper1' defined in file [E:\gitfile\aypark_parent\aparkDao_api\target\classes\com\apark\dao\extraMapper\user\UserMapper1.class]: Unsatisfied dependency expressed through bean property 'sqlSessionTemplate'; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'sqlSessionTemplate' defined in class path resource [com/apark/config/mysql/MybatisConfiguration.class]: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [org.mybatis.spring.SqlSessionTemplate]: Factory method 'sqlSessionTemplate' threw exception; nested exception is java.lang.NullPointerException
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:587)
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:91)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessPropertyValues(AutowiredAnnotationBeanPostProcessor.java:373)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1344)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:582)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:502)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:312)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:228)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:310)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:200)
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:251)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1138)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1065)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:584)
+	... 21 common frames omitted
+Caused by: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'userMapper1' defined in file [E:\gitfile\aypark_parent\aparkDao_api\target\classes\com\apark\dao\extraMapper\user\UserMapper1.class]: Unsatisfied dependency expressed through bean property 'sqlSessionTemplate'; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'sqlSessionTemplate' defined in class path resource [com/apark/config/mysql/MybatisConfiguration.class]: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [org.mybatis.spring.SqlSessionTemplate]: Factory method 'sqlSessionTemplate' threw exception; nested exception is java.lang.NullPointerException
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.autowireByType(AbstractAutowireCapableBeanFactory.java:1439)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1326)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:582)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:502)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:312)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:228)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:310)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:200)
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:251)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1138)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1065)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:584)
+	... 34 common frames omitted
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'sqlSessionTemplate' defined in class path resource [com/apark/config/mysql/MybatisConfiguration.class]: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [org.mybatis.spring.SqlSessionTemplate]: Factory method 'sqlSessionTemplate' threw exception; nested exception is java.lang.NullPointerException
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiateUsingFactoryMethod(ConstructorResolver.java:587)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateUsingFactoryMethod(AbstractAutowireCapableBeanFactory.java:1250)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1099)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:545)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:502)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:312)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:228)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:310)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:200)
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:251)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1138)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1065)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.autowireByType(AbstractAutowireCapableBeanFactory.java:1424)
+	... 45 common frames omitted
+Caused by: org.springframework.beans.BeanInstantiationException: Failed to instantiate [org.mybatis.spring.SqlSessionTemplate]: Factory method 'sqlSessionTemplate' threw exception; nested exception is java.lang.NullPointerException
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:185)
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiateUsingFactoryMethod(ConstructorResolver.java:579)
+	... 57 common frames omitted
+Caused by: java.lang.NullPointerException: null
+	at org.mybatis.spring.SqlSessionTemplate.<init>(SqlSessionTemplate.java:94)
+	at com.apark.config.mysql.MybatisConfiguration.sqlSessionTemplate(MybatisConfiguration.java:176)
+	at com.apark.config.mysql.MybatisConfiguration$$EnhancerBySpringCGLIB$$8386fb6b.CGLIB$sqlSessionTemplate$1(<generated>)
+	at com.apark.config.mysql.MybatisConfiguration$$EnhancerBySpringCGLIB$$8386fb6b$$FastClassBySpringCGLIB$$637873cf.invoke(<generated>)
+	at org.springframework.cglib.proxy.MethodProxy.invokeSuper(MethodProxy.java:228)
+	at org.springframework.context.annotation.ConfigurationClassEnhancer$BeanMethodInterceptor.intercept(ConfigurationClassEnhancer.java:361)
+	at com.apark.config.mysql.MybatisConfiguration$$EnhancerBySpringCGLIB$$8386fb6b.sqlSessionTemplate(<generated>)
+	at sun.reflect.GeneratedMethodAccessor103.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:45005)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:154)
+	... 58 common frames omitted
+
+2019-01-15 16:55:58.911  INFO 30420 --- [main] s.c.a.AnnotationConfigApplicationContext : [2m:[0;39m [requestId:] Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@78854721: startup date [Tue Jan 15 16:55:58 CST 2019]; root of context hierarchy
+2019-01-15 16:55:59.394  INFO 30420 --- [main] f.a.AutowiredAnnotationBeanPostProcessor : [2m:[0;39m [requestId:] JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-01-15 16:55:59.450  INFO 30420 --- [main] trationDelegate$BeanPostProcessorChecker : [2m:[0;39m [requestId:] Bean 'configurationPropertiesRebinderAutoConfiguration' of type [org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration$$EnhancerBySpringCGLIB$$ddf3c2f5] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-01-15 16:56:00.849  INFO 30420 --- [main] c.aypark.servicehi.ServiceHiApplication  : [2m:[0;39m [requestId:] No active profile set, falling back to default profiles: default
+2019-01-15 16:56:00.875  INFO 30420 --- [main] ConfigServletWebServerApplicationContext : [2m:[0;39m [requestId:] Refreshing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@5f0469e2: startup date [Tue Jan 15 16:56:00 CST 2019]; parent: org.springframework.context.annotation.AnnotationConfigApplicationContext@78854721
+2019-01-15 16:56:01.928  INFO 30420 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : [2m:[0;39m [requestId:] Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-01-15 16:56:01.961  INFO 30420 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : [2m:[0;39m [requestId:] Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-01-15 16:56:02.436  INFO 30420 --- [main] o.s.cloud.context.scope.GenericScope     : [2m:[0;39m [requestId:] BeanFactory id=03468c13-1012-3701-a595-630882862942
+2019-01-15 16:56:02.454  INFO 30420 --- [main] f.a.AutowiredAnnotationBeanPostProcessor : [2m:[0;39m [requestId:] JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-01-15 16:56:02.763  INFO 30420 --- [main] trationDelegate$BeanPostProcessorChecker : [2m:[0;39m [requestId:] Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$c1d9bff8] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-01-15 16:56:02.818  INFO 30420 --- [main] trationDelegate$BeanPostProcessorChecker : [2m:[0;39m [requestId:] Bean 'org.springframework.boot.context.properties.ConversionServiceDeducer$Factory' of type [org.springframework.boot.context.properties.ConversionServiceDeducer$Factory] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-01-15 16:56:02.821  INFO 30420 --- [main] trationDelegate$BeanPostProcessorChecker : [2m:[0;39m [requestId:] Bean 'druid-com.apark.config.druid.DruidDbProperties' of type [com.apark.config.druid.DruidDbProperties] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-01-15 16:56:02.822  INFO 30420 --- [main] trationDelegate$BeanPostProcessorChecker : [2m:[0;39m [requestId:] Bean 'druidMonitConfig' of type [com.apark.config.druid.DruidMonitConfig$$EnhancerBySpringCGLIB$$947a081c] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-01-15 16:56:02.838  INFO 30420 --- [main] trationDelegate$BeanPostProcessorChecker : [2m:[0;39m [requestId:] Bean 'druidStatPointcut' of type [org.springframework.aop.support.JdkRegexpMethodPointcut] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-01-15 16:56:02.855  INFO 30420 --- [main] trationDelegate$BeanPostProcessorChecker : [2m:[0;39m [requestId:] Bean 'druidStatInterceptor' of type [com.alibaba.druid.support.spring.stat.DruidStatInterceptor] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-01-15 16:56:02.860  INFO 30420 --- [main] trationDelegate$BeanPostProcessorChecker : [2m:[0;39m [requestId:] Bean 'druidStatAdvisor' of type [org.springframework.aop.support.DefaultPointcutAdvisor] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-01-15 16:56:02.878  INFO 30420 --- [main] trationDelegate$BeanPostProcessorChecker : [2m:[0;39m [requestId:] Bean 'org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration' of type [org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration$$EnhancerBySpringCGLIB$$ddf3c2f5] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-01-15 16:56:03.388  INFO 30420 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : [2m:[0;39m [requestId:] Tomcat initialized with port(s): 8763 (http)
+2019-01-15 16:56:03.432  INFO 30420 --- [main] o.a.coyote.http11.Http11NioProtocol      : [2m:[0;39m [requestId:] Initializing ProtocolHandler ["http-nio-8763"]
+2019-01-15 16:56:03.449  INFO 30420 --- [main] o.apache.catalina.core.StandardService   : [2m:[0;39m [requestId:] Starting service [Tomcat]
+2019-01-15 16:56:03.449  INFO 30420 --- [main] org.apache.catalina.core.StandardEngine  : [2m:[0;39m [requestId:] Starting Servlet Engine: Apache Tomcat/8.5.28
+2019-01-15 16:56:03.454  INFO 30420 --- [localhost-startStop-1] o.a.catalina.core.AprLifecycleListener   : [2m:[0;39m [requestId:] The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jdk1.8.0_192\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;E:\maven3.5\apache-maven-3.5.3\bin;C:\Program Files\Java\jdk1.8.0_192\bin;C:\Program Files\Java\jdk1.8.0_192\jre\bin;C:\Program Files\Java\jdk1.8.0_192\lib;C:\Program Files\Java\jdk1.8.0_192\lib\tools.jar;E:\Program Files\Git\cmd;E:\Program Files\nodejs\;D:\nodejs\node_global;F:\软件\压力测试-jmeter\apache-jmeter-5.0\lib\ext\ApacheJMeter_core.jar;F:\软件\压力测试-jmeter\apache-jmeter-5.0\lib\logkit-2.0.jar;"F:\软件\压力测试-jmeter\apache-jmeter-5.0\lib\jorphan.jar;";C:\Users\ay-mei-pc\AppData\Local\Microsoft\WindowsApps;C:\Users\ay-mei-pc\AppData\Roaming\npm;.]
+2019-01-15 16:56:03.679  INFO 30420 --- [localhost-startStop-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : [2m:[0;39m [requestId:] Initializing Spring embedded WebApplicationContext
+2019-01-15 16:56:03.679  INFO 30420 --- [localhost-startStop-1] o.s.web.context.ContextLoader            : [2m:[0;39m [requestId:] Root WebApplicationContext: initialization completed in 2804 ms
+2019-01-15 16:56:04.077  INFO 30420 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : [2m:[0;39m [requestId:] Mapping filter: 'characterEncodingFilter' to: [/*]
+2019-01-15 16:56:04.077  INFO 30420 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : [2m:[0;39m [requestId:] Mapping filter: 'sessionRepositoryFilter' to: [/*]
+2019-01-15 16:56:04.077  INFO 30420 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : [2m:[0;39m [requestId:] Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2019-01-15 16:56:04.078  INFO 30420 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : [2m:[0;39m [requestId:] Mapping filter: 'httpPutFormContentFilter' to: [/*]
+2019-01-15 16:56:04.078  INFO 30420 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : [2m:[0;39m [requestId:] Mapping filter: 'requestContextFilter' to: [/*]
+2019-01-15 16:56:04.078  INFO 30420 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : [2m:[0;39m [requestId:] Mapping filter: 'webStatFilter' to urls: [/*]
+2019-01-15 16:56:04.078  INFO 30420 --- [localhost-startStop-1] o.s.b.w.servlet.ServletRegistrationBean  : [2m:[0;39m [requestId:] Servlet statViewServlet mapped to [/druid/*]
+2019-01-15 16:56:04.080  INFO 30420 --- [localhost-startStop-1] o.s.b.w.servlet.ServletRegistrationBean  : [2m:[0;39m [requestId:] Servlet dispatcherServlet mapped to [/]
+2019-01-15 16:56:04.279  INFO 30420 --- [main] c.a.c.mysql.DataSourceConfiguration      : [2m:[0;39m [requestId:] -------------------- writeDataSource init ---------------------
+2019-01-15 16:56:04.384  INFO 30420 --- [main] c.a.c.mysql.DataSourceConfiguration      : [2m:[0;39m [requestId:] -------------------- read01 DataSourceOne init ---------------------
+2019-01-15 16:56:04.384  INFO 30420 --- [main] c.a.c.mysql.DataSourceConfiguration      : [2m:[0;39m [requestId:] -------------------- writeDataSource init ---------------------
+2019-01-15 16:56:04.472  INFO 30420 --- [main] c.a.config.mysql.MybatisConfiguration    : [2m:[0;39m [requestId:] --------------------  sqlSessionFactory init ---------------------
+2019-01-15 16:56:04.499 ERROR 30420 --- [main] c.a.config.mysql.MybatisConfiguration    : [2m:[0;39m [requestId:] mybatis resolver mapper*xml is error
+
+java.io.FileNotFoundException: class path resource [com/ayhealth/dao/] cannot be resolved to URL because it does not exist
+	at org.springframework.core.io.ClassPathResource.getURL(ClassPathResource.java:195)
+	at org.springframework.core.io.support.PathMatchingResourcePatternResolver.findPathMatchingResources(PathMatchingResourcePatternResolver.java:495)
+	at org.springframework.core.io.support.PathMatchingResourcePatternResolver.getResources(PathMatchingResourcePatternResolver.java:296)
+	at com.apark.config.mysql.MybatisConfiguration.sqlSessionFactorys(MybatisConfiguration.java:94)
+	at com.apark.config.mysql.MybatisConfiguration$$EnhancerBySpringCGLIB$$b21a4ee8.CGLIB$sqlSessionFactorys$0(<generated>)
+	at com.apark.config.mysql.MybatisConfiguration$$EnhancerBySpringCGLIB$$b21a4ee8$$FastClassBySpringCGLIB$$2fd8f1b2.invoke(<generated>)
+	at org.springframework.cglib.proxy.MethodProxy.invokeSuper(MethodProxy.java:228)
+	at org.springframework.context.annotation.ConfigurationClassEnhancer$BeanMethodInterceptor.intercept(ConfigurationClassEnhancer.java:361)
+	at com.apark.config.mysql.MybatisConfiguration$$EnhancerBySpringCGLIB$$b21a4ee8.sqlSessionFactorys(<generated>)
+	at sun.reflect.GeneratedMethodAccessor99.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:45005)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:154)
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiateUsingFactoryMethod(ConstructorResolver.java:579)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateUsingFactoryMethod(AbstractAutowireCapableBeanFactory.java:1250)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1099)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:545)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:502)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:312)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:228)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:310)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:200)
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:251)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1138)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1065)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.autowireByType(AbstractAutowireCapableBeanFactory.java:1424)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1326)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:582)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:502)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:312)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:228)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:310)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:200)
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:251)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1138)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1065)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:584)
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:91)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessPropertyValues(AutowiredAnnotationBeanPostProcessor.java:373)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1344)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:582)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:502)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:312)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:228)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:310)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:200)
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:251)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1138)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1065)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:584)
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:91)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessPropertyValues(AutowiredAnnotationBeanPostProcessor.java:373)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1344)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:582)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:502)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:312)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:228)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:310)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:200)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:760)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:868)
+	at org.springframework.context.support.AbstractApplicationContext.__refresh(AbstractApplicationContext.java:549)
+	at org.springframework.context.support.AbstractApplicationContext.jrLockAndRefresh(AbstractApplicationContext.java:40002)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:41008)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:140)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:752)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:388)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:327)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1246)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1234)
+	at com.aypark.servicehi.ServiceHiApplication.main(ServiceHiApplication.java:26)
+
+2019-01-15 16:56:04.509  WARN 30420 --- [main] ConfigServletWebServerApplicationContext : [2m:[0;39m [requestId:] Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'userController': Unsatisfied dependency expressed through field 'userService'; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'userService': Unsatisfied dependency expressed through field 'userMapper1'; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'userMapper1' defined in file [E:\gitfile\aypark_parent\aparkDao_api\target\classes\com\apark\dao\extraMapper\user\UserMapper1.class]: Unsatisfied dependency expressed through bean property 'sqlSessionTemplate'; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'sqlSessionTemplate' defined in class path resource [com/apark/config/mysql/MybatisConfiguration.class]: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [org.mybatis.spring.SqlSessionTemplate]: Factory method 'sqlSessionTemplate' threw exception; nested exception is java.lang.NullPointerException
+2019-01-15 16:56:04.514  INFO 30420 --- [main] o.apache.catalina.core.StandardService   : [2m:[0;39m [requestId:] Stopping service [Tomcat]
+2019-01-15 16:56:04.548  INFO 30420 --- [main] ConditionEvaluationReportLoggingListener : [2m:[0;39m [requestId:] 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2019-01-15 16:56:04.560 ERROR 30420 --- [main] o.s.boot.SpringApplication               : [2m:[0;39m [requestId:] Application run failed
+
+org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'userController': Unsatisfied dependency expressed through field 'userService'; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'userService': Unsatisfied dependency expressed through field 'userMapper1'; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'userMapper1' defined in file [E:\gitfile\aypark_parent\aparkDao_api\target\classes\com\apark\dao\extraMapper\user\UserMapper1.class]: Unsatisfied dependency expressed through bean property 'sqlSessionTemplate'; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'sqlSessionTemplate' defined in class path resource [com/apark/config/mysql/MybatisConfiguration.class]: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [org.mybatis.spring.SqlSessionTemplate]: Factory method 'sqlSessionTemplate' threw exception; nested exception is java.lang.NullPointerException
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:587)
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:91)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessPropertyValues(AutowiredAnnotationBeanPostProcessor.java:373)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1344)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:582)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:502)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:312)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:228)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:310)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:200)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:760)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:868)
+	at org.springframework.context.support.AbstractApplicationContext.__refresh(AbstractApplicationContext.java:549)
+	at org.springframework.context.support.AbstractApplicationContext.jrLockAndRefresh(AbstractApplicationContext.java:40002)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:41008)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:140)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:752)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:388)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:327)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1246)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1234)
+	at com.aypark.servicehi.ServiceHiApplication.main(ServiceHiApplication.java:26)
+Caused by: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'userService': Unsatisfied dependency expressed through field 'userMapper1'; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'userMapper1' defined in file [E:\gitfile\aypark_parent\aparkDao_api\target\classes\com\apark\dao\extraMapper\user\UserMapper1.class]: Unsatisfied dependency expressed through bean property 'sqlSessionTemplate'; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'sqlSessionTemplate' defined in class path resource [com/apark/config/mysql/MybatisConfiguration.class]: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [org.mybatis.spring.SqlSessionTemplate]: Factory method 'sqlSessionTemplate' threw exception; nested exception is java.lang.NullPointerException
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:587)
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:91)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessPropertyValues(AutowiredAnnotationBeanPostProcessor.java:373)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1344)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:582)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:502)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:312)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:228)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:310)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:200)
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:251)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1138)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1065)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:584)
+	... 21 common frames omitted
+Caused by: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'userMapper1' defined in file [E:\gitfile\aypark_parent\aparkDao_api\target\classes\com\apark\dao\extraMapper\user\UserMapper1.class]: Unsatisfied dependency expressed through bean property 'sqlSessionTemplate'; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'sqlSessionTemplate' defined in class path resource [com/apark/config/mysql/MybatisConfiguration.class]: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [org.mybatis.spring.SqlSessionTemplate]: Factory method 'sqlSessionTemplate' threw exception; nested exception is java.lang.NullPointerException
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.autowireByType(AbstractAutowireCapableBeanFactory.java:1439)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1326)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:582)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:502)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:312)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:228)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:310)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:200)
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:251)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1138)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1065)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:584)
+	... 34 common frames omitted
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'sqlSessionTemplate' defined in class path resource [com/apark/config/mysql/MybatisConfiguration.class]: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [org.mybatis.spring.SqlSessionTemplate]: Factory method 'sqlSessionTemplate' threw exception; nested exception is java.lang.NullPointerException
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiateUsingFactoryMethod(ConstructorResolver.java:587)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateUsingFactoryMethod(AbstractAutowireCapableBeanFactory.java:1250)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1099)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:545)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:502)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:312)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:228)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:310)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:200)
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:251)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1138)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1065)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.autowireByType(AbstractAutowireCapableBeanFactory.java:1424)
+	... 45 common frames omitted
+Caused by: org.springframework.beans.BeanInstantiationException: Failed to instantiate [org.mybatis.spring.SqlSessionTemplate]: Factory method 'sqlSessionTemplate' threw exception; nested exception is java.lang.NullPointerException
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:185)
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiateUsingFactoryMethod(ConstructorResolver.java:579)
+	... 57 common frames omitted
+Caused by: java.lang.NullPointerException: null
+	at org.mybatis.spring.SqlSessionTemplate.<init>(SqlSessionTemplate.java:94)
+	at com.apark.config.mysql.MybatisConfiguration.sqlSessionTemplate(MybatisConfiguration.java:176)
+	at com.apark.config.mysql.MybatisConfiguration$$EnhancerBySpringCGLIB$$b21a4ee8.CGLIB$sqlSessionTemplate$3(<generated>)
+	at com.apark.config.mysql.MybatisConfiguration$$EnhancerBySpringCGLIB$$b21a4ee8$$FastClassBySpringCGLIB$$2fd8f1b2.invoke(<generated>)
+	at org.springframework.cglib.proxy.MethodProxy.invokeSuper(MethodProxy.java:228)
+	at org.springframework.context.annotation.ConfigurationClassEnhancer$BeanMethodInterceptor.intercept(ConfigurationClassEnhancer.java:361)
+	at com.apark.config.mysql.MybatisConfiguration$$EnhancerBySpringCGLIB$$b21a4ee8.sqlSessionTemplate(<generated>)
+	at sun.reflect.GeneratedMethodAccessor103.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:45005)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:154)
+	... 58 common frames omitted
+

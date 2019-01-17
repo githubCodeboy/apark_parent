@@ -1,0 +1,488 @@
+2019-01-14 11:38:20.748  INFO 9688 --- [main] s.c.a.AnnotationConfigApplicationContext : [2m:[0;39m [requestId:] Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@4467088e: startup date [Mon Jan 14 11:38:20 CST 2019]; root of context hierarchy
+2019-01-14 11:38:21.558  INFO 9688 --- [main] f.a.AutowiredAnnotationBeanPostProcessor : [2m:[0;39m [requestId:] JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-01-14 11:38:21.646  INFO 9688 --- [main] trationDelegate$BeanPostProcessorChecker : [2m:[0;39m [requestId:] Bean 'configurationPropertiesRebinderAutoConfiguration' of type [org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration$$EnhancerBySpringCGLIB$$d1b6013c] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-01-14 11:38:23.202  INFO 9688 --- [main] c.aypark.servicehi.ServiceHiApplication  : [2m:[0;39m [requestId:] No active profile set, falling back to default profiles: default
+2019-01-14 11:38:23.234  INFO 9688 --- [main] ConfigServletWebServerApplicationContext : [2m:[0;39m [requestId:] Refreshing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@1ed8d18c: startup date [Mon Jan 14 11:38:23 CST 2019]; parent: org.springframework.context.annotation.AnnotationConfigApplicationContext@4467088e
+2019-01-14 11:38:24.284  WARN 9688 --- [main] ssPathScanningCandidateComponentProvider : [2m:[0;39m [requestId:] No MyBatis mapper was found in '[com.aypark.servicehi]' package. Please check your configuration.
+2019-01-14 11:38:24.395  INFO 9688 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : [2m:[0;39m [requestId:] Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-01-14 11:38:24.429  INFO 9688 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : [2m:[0;39m [requestId:] Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-01-14 11:38:24.730  INFO 9688 --- [main] o.s.b.f.s.DefaultListableBeanFactory     : [2m:[0;39m [requestId:] Overriding bean definition for bean 'dataSource' with a different definition: replacing [Root bean: class [null]; scope=refresh; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=false; primary=false; factoryBeanName=org.springframework.boot.autoconfigure.jdbc.DataSourceConfiguration$Hikari; factoryMethodName=dataSource; initMethodName=null; destroyMethodName=(inferred); defined in class path resource [org/springframework/boot/autoconfigure/jdbc/DataSourceConfiguration$Hikari.class]] with [Root bean: class [org.springframework.aop.scope.ScopedProxyFactoryBean]; scope=; abstract=false; lazyInit=false; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null; defined in BeanDefinition defined in class path resource [org/springframework/boot/autoconfigure/jdbc/DataSourceConfiguration$Hikari.class]]
+2019-01-14 11:38:24.974  INFO 9688 --- [main] o.s.cloud.context.scope.GenericScope     : [2m:[0;39m [requestId:] BeanFactory id=6ac26193-450b-39f3-be00-29adef00e36c
+2019-01-14 11:38:24.994  INFO 9688 --- [main] f.a.AutowiredAnnotationBeanPostProcessor : [2m:[0;39m [requestId:] JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-01-14 11:38:25.184  INFO 9688 --- [main] trationDelegate$BeanPostProcessorChecker : [2m:[0;39m [requestId:] Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$b59bfe3f] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-01-14 11:38:25.261  INFO 9688 --- [main] trationDelegate$BeanPostProcessorChecker : [2m:[0;39m [requestId:] Bean 'org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration' of type [org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration$$EnhancerBySpringCGLIB$$d1b6013c] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-01-14 11:38:25.943  INFO 9688 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : [2m:[0;39m [requestId:] Tomcat initialized with port(s): 8763 (http)
+2019-01-14 11:38:25.995  INFO 9688 --- [main] o.a.coyote.http11.Http11NioProtocol      : [2m:[0;39m [requestId:] Initializing ProtocolHandler ["http-nio-8763"]
+2019-01-14 11:38:26.016  INFO 9688 --- [main] o.apache.catalina.core.StandardService   : [2m:[0;39m [requestId:] Starting service [Tomcat]
+2019-01-14 11:38:26.017  INFO 9688 --- [main] org.apache.catalina.core.StandardEngine  : [2m:[0;39m [requestId:] Starting Servlet Engine: Apache Tomcat/8.5.28
+2019-01-14 11:38:26.022  INFO 9688 --- [localhost-startStop-1] o.a.catalina.core.AprLifecycleListener   : [2m:[0;39m [requestId:] The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jdk1.8.0_192\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;E:\maven3.5\apache-maven-3.5.3\bin;C:\Program Files\Java\jdk1.8.0_192\bin;C:\Program Files\Java\jdk1.8.0_192\jre\bin;C:\Program Files\Java\jdk1.8.0_192\lib;C:\Program Files\Java\jdk1.8.0_192\lib\tools.jar;E:\Program Files\Git\cmd;E:\Program Files\nodejs\;D:\nodejs\node_global;F:\软件\压力测试-jmeter\apache-jmeter-5.0\lib\ext\ApacheJMeter_core.jar;F:\软件\压力测试-jmeter\apache-jmeter-5.0\lib\logkit-2.0.jar;"F:\软件\压力测试-jmeter\apache-jmeter-5.0\lib\jorphan.jar;";C:\Users\ay-mei-pc\AppData\Local\Microsoft\WindowsApps;C:\Users\ay-mei-pc\AppData\Roaming\npm;.]
+2019-01-14 11:38:26.239  INFO 9688 --- [localhost-startStop-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : [2m:[0;39m [requestId:] Initializing Spring embedded WebApplicationContext
+2019-01-14 11:38:26.239  INFO 9688 --- [localhost-startStop-1] o.s.web.context.ContextLoader            : [2m:[0;39m [requestId:] Root WebApplicationContext: initialization completed in 3005 ms
+2019-01-14 11:38:26.658  INFO 9688 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : [2m:[0;39m [requestId:] Mapping filter: 'characterEncodingFilter' to: [/*]
+2019-01-14 11:38:26.658  INFO 9688 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : [2m:[0;39m [requestId:] Mapping filter: 'sessionRepositoryFilter' to: [/*]
+2019-01-14 11:38:26.658  INFO 9688 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : [2m:[0;39m [requestId:] Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2019-01-14 11:38:26.658  INFO 9688 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : [2m:[0;39m [requestId:] Mapping filter: 'httpPutFormContentFilter' to: [/*]
+2019-01-14 11:38:26.658  INFO 9688 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : [2m:[0;39m [requestId:] Mapping filter: 'requestContextFilter' to: [/*]
+2019-01-14 11:38:26.659  INFO 9688 --- [localhost-startStop-1] o.s.b.w.servlet.ServletRegistrationBean  : [2m:[0;39m [requestId:] Servlet dispatcherServlet mapped to [/]
+2019-01-14 11:38:27.024  WARN 9688 --- [main] c.n.c.sources.URLConfigurationSource     : [2m:[0;39m [requestId:] No URLs will be polled as dynamic configuration sources.
+2019-01-14 11:38:27.024  INFO 9688 --- [main] c.n.c.sources.URLConfigurationSource     : [2m:[0;39m [requestId:] To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2019-01-14 11:38:27.032  WARN 9688 --- [main] c.n.c.sources.URLConfigurationSource     : [2m:[0;39m [requestId:] No URLs will be polled as dynamic configuration sources.
+2019-01-14 11:38:27.032  INFO 9688 --- [main] c.n.c.sources.URLConfigurationSource     : [2m:[0;39m [requestId:] To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2019-01-14 11:38:27.193  WARN 9688 --- [main] ConfigServletWebServerApplicationContext : [2m:[0;39m [requestId:] Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'org.springframework.boot.autoconfigure.jdbc.DataSourceJmxConfiguration$Hikari': Invocation of init method failed; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'scopedTarget.dataSource' defined in class path resource [org/springframework/boot/autoconfigure/jdbc/DataSourceConfiguration$Hikari.class]: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.zaxxer.hikari.HikariDataSource]: Factory method 'dataSource' threw exception; nested exception is org.springframework.boot.autoconfigure.jdbc.DataSourceProperties$DataSourceBeanCreationException: Failed to determine a suitable driver class
+2019-01-14 11:38:27.198  INFO 9688 --- [main] o.apache.catalina.core.StandardService   : [2m:[0;39m [requestId:] Stopping service [Tomcat]
+2019-01-14 11:38:27.241  INFO 9688 --- [main] ConditionEvaluationReportLoggingListener : [2m:[0;39m [requestId:] 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2019-01-14 11:38:27.254 ERROR 9688 --- [main] o.s.b.d.LoggingFailureAnalysisReporter   : [2m:[0;39m [requestId:] 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Failed to auto-configure a DataSource: 'spring.datasource.url' is not specified and no embedded datasource could be auto-configured.
+
+Reason: Failed to determine a suitable driver class
+
+
+Action:
+
+Consider the following:
+	If you want an embedded database (H2, HSQL or Derby), please put it on the classpath.
+	If you have database settings to be loaded from a particular profile you may need to activate it (no profiles are currently active).
+
+2019-01-14 11:42:12.135  INFO 18232 --- [main] s.c.a.AnnotationConfigApplicationContext : [2m:[0;39m [requestId:] Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@41f274d: startup date [Mon Jan 14 11:42:12 CST 2019]; root of context hierarchy
+2019-01-14 11:42:12.611  INFO 18232 --- [main] f.a.AutowiredAnnotationBeanPostProcessor : [2m:[0;39m [requestId:] JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-01-14 11:42:12.666  INFO 18232 --- [main] trationDelegate$BeanPostProcessorChecker : [2m:[0;39m [requestId:] Bean 'configurationPropertiesRebinderAutoConfiguration' of type [org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration$$EnhancerBySpringCGLIB$$21177a5b] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-01-14 11:42:14.050  INFO 18232 --- [main] c.aypark.servicehi.ServiceHiApplication  : [2m:[0;39m [requestId:] No active profile set, falling back to default profiles: default
+2019-01-14 11:42:14.074  INFO 18232 --- [main] ConfigServletWebServerApplicationContext : [2m:[0;39m [requestId:] Refreshing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@2dfb8de3: startup date [Mon Jan 14 11:42:14 CST 2019]; parent: org.springframework.context.annotation.AnnotationConfigApplicationContext@41f274d
+2019-01-14 11:42:14.918  WARN 18232 --- [main] ssPathScanningCandidateComponentProvider : [2m:[0;39m [requestId:] No MyBatis mapper was found in '[com.aypark.servicehi]' package. Please check your configuration.
+2019-01-14 11:42:15.019  INFO 18232 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : [2m:[0;39m [requestId:] Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-01-14 11:42:15.049  INFO 18232 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : [2m:[0;39m [requestId:] Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-01-14 11:42:15.274  INFO 18232 --- [main] o.s.b.f.s.DefaultListableBeanFactory     : [2m:[0;39m [requestId:] Overriding bean definition for bean 'dataSource' with a different definition: replacing [Root bean: class [null]; scope=refresh; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=false; primary=false; factoryBeanName=org.springframework.boot.autoconfigure.jdbc.DataSourceConfiguration$Hikari; factoryMethodName=dataSource; initMethodName=null; destroyMethodName=(inferred); defined in class path resource [org/springframework/boot/autoconfigure/jdbc/DataSourceConfiguration$Hikari.class]] with [Root bean: class [org.springframework.aop.scope.ScopedProxyFactoryBean]; scope=; abstract=false; lazyInit=false; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null; defined in BeanDefinition defined in class path resource [org/springframework/boot/autoconfigure/jdbc/DataSourceConfiguration$Hikari.class]]
+2019-01-14 11:42:15.499  INFO 18232 --- [main] o.s.cloud.context.scope.GenericScope     : [2m:[0;39m [requestId:] BeanFactory id=6ac26193-450b-39f3-be00-29adef00e36c
+2019-01-14 11:42:15.520  INFO 18232 --- [main] f.a.AutowiredAnnotationBeanPostProcessor : [2m:[0;39m [requestId:] JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-01-14 11:42:15.692  INFO 18232 --- [main] trationDelegate$BeanPostProcessorChecker : [2m:[0;39m [requestId:] Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$4fd775e] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-01-14 11:42:15.754  INFO 18232 --- [main] trationDelegate$BeanPostProcessorChecker : [2m:[0;39m [requestId:] Bean 'org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration' of type [org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration$$EnhancerBySpringCGLIB$$21177a5b] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-01-14 11:42:16.420  INFO 18232 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : [2m:[0;39m [requestId:] Tomcat initialized with port(s): 8763 (http)
+2019-01-14 11:42:16.464  INFO 18232 --- [main] o.a.coyote.http11.Http11NioProtocol      : [2m:[0;39m [requestId:] Initializing ProtocolHandler ["http-nio-8763"]
+2019-01-14 11:42:16.483  INFO 18232 --- [main] o.apache.catalina.core.StandardService   : [2m:[0;39m [requestId:] Starting service [Tomcat]
+2019-01-14 11:42:16.483  INFO 18232 --- [main] org.apache.catalina.core.StandardEngine  : [2m:[0;39m [requestId:] Starting Servlet Engine: Apache Tomcat/8.5.28
+2019-01-14 11:42:16.489  INFO 18232 --- [localhost-startStop-1] o.a.catalina.core.AprLifecycleListener   : [2m:[0;39m [requestId:] The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jdk1.8.0_192\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;E:\maven3.5\apache-maven-3.5.3\bin;C:\Program Files\Java\jdk1.8.0_192\bin;C:\Program Files\Java\jdk1.8.0_192\jre\bin;C:\Program Files\Java\jdk1.8.0_192\lib;C:\Program Files\Java\jdk1.8.0_192\lib\tools.jar;E:\Program Files\Git\cmd;E:\Program Files\nodejs\;D:\nodejs\node_global;F:\软件\压力测试-jmeter\apache-jmeter-5.0\lib\ext\ApacheJMeter_core.jar;F:\软件\压力测试-jmeter\apache-jmeter-5.0\lib\logkit-2.0.jar;"F:\软件\压力测试-jmeter\apache-jmeter-5.0\lib\jorphan.jar;";C:\Users\ay-mei-pc\AppData\Local\Microsoft\WindowsApps;C:\Users\ay-mei-pc\AppData\Roaming\npm;.]
+2019-01-14 11:42:16.689  INFO 18232 --- [localhost-startStop-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : [2m:[0;39m [requestId:] Initializing Spring embedded WebApplicationContext
+2019-01-14 11:42:16.689  INFO 18232 --- [localhost-startStop-1] o.s.web.context.ContextLoader            : [2m:[0;39m [requestId:] Root WebApplicationContext: initialization completed in 2615 ms
+2019-01-14 11:42:17.061  INFO 18232 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : [2m:[0;39m [requestId:] Mapping filter: 'characterEncodingFilter' to: [/*]
+2019-01-14 11:42:17.062  INFO 18232 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : [2m:[0;39m [requestId:] Mapping filter: 'sessionRepositoryFilter' to: [/*]
+2019-01-14 11:42:17.062  INFO 18232 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : [2m:[0;39m [requestId:] Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2019-01-14 11:42:17.062  INFO 18232 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : [2m:[0;39m [requestId:] Mapping filter: 'httpPutFormContentFilter' to: [/*]
+2019-01-14 11:42:17.062  INFO 18232 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : [2m:[0;39m [requestId:] Mapping filter: 'requestContextFilter' to: [/*]
+2019-01-14 11:42:17.062  INFO 18232 --- [localhost-startStop-1] o.s.b.w.servlet.ServletRegistrationBean  : [2m:[0;39m [requestId:] Servlet dispatcherServlet mapped to [/]
+2019-01-14 11:42:17.454  WARN 18232 --- [main] c.n.c.sources.URLConfigurationSource     : [2m:[0;39m [requestId:] No URLs will be polled as dynamic configuration sources.
+2019-01-14 11:42:17.455  INFO 18232 --- [main] c.n.c.sources.URLConfigurationSource     : [2m:[0;39m [requestId:] To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2019-01-14 11:42:17.461  WARN 18232 --- [main] c.n.c.sources.URLConfigurationSource     : [2m:[0;39m [requestId:] No URLs will be polled as dynamic configuration sources.
+2019-01-14 11:42:17.461  INFO 18232 --- [main] c.n.c.sources.URLConfigurationSource     : [2m:[0;39m [requestId:] To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2019-01-14 11:42:17.609  WARN 18232 --- [main] ConfigServletWebServerApplicationContext : [2m:[0;39m [requestId:] Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'org.springframework.boot.autoconfigure.jdbc.DataSourceJmxConfiguration$Hikari': Invocation of init method failed; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'scopedTarget.dataSource' defined in class path resource [org/springframework/boot/autoconfigure/jdbc/DataSourceConfiguration$Hikari.class]: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.zaxxer.hikari.HikariDataSource]: Factory method 'dataSource' threw exception; nested exception is org.springframework.boot.autoconfigure.jdbc.DataSourceProperties$DataSourceBeanCreationException: Failed to determine a suitable driver class
+2019-01-14 11:42:17.613  INFO 18232 --- [main] o.apache.catalina.core.StandardService   : [2m:[0;39m [requestId:] Stopping service [Tomcat]
+2019-01-14 11:42:17.646  INFO 18232 --- [main] ConditionEvaluationReportLoggingListener : [2m:[0;39m [requestId:] 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2019-01-14 11:42:17.655 ERROR 18232 --- [main] o.s.b.d.LoggingFailureAnalysisReporter   : [2m:[0;39m [requestId:] 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Failed to auto-configure a DataSource: 'spring.datasource.url' is not specified and no embedded datasource could be auto-configured.
+
+Reason: Failed to determine a suitable driver class
+
+
+Action:
+
+Consider the following:
+	If you want an embedded database (H2, HSQL or Derby), please put it on the classpath.
+	If you have database settings to be loaded from a particular profile you may need to activate it (no profiles are currently active).
+
+2019-01-14 11:45:22.253  INFO 27044 --- [main] s.c.a.AnnotationConfigApplicationContext : [2m:[0;39m [requestId:] Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@260af8f7: startup date [Mon Jan 14 11:45:22 CST 2019]; root of context hierarchy
+2019-01-14 11:45:22.788  INFO 27044 --- [main] f.a.AutowiredAnnotationBeanPostProcessor : [2m:[0;39m [requestId:] JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-01-14 11:45:22.849  INFO 27044 --- [main] trationDelegate$BeanPostProcessorChecker : [2m:[0;39m [requestId:] Bean 'configurationPropertiesRebinderAutoConfiguration' of type [org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration$$EnhancerBySpringCGLIB$$956213d8] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-01-14 11:45:24.307  INFO 27044 --- [main] c.aypark.servicehi.ServiceHiApplication  : [2m:[0;39m [requestId:] No active profile set, falling back to default profiles: default
+2019-01-14 11:45:24.338  INFO 27044 --- [main] ConfigServletWebServerApplicationContext : [2m:[0;39m [requestId:] Refreshing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@1640a06f: startup date [Mon Jan 14 11:45:24 CST 2019]; parent: org.springframework.context.annotation.AnnotationConfigApplicationContext@260af8f7
+2019-01-14 11:45:25.403  INFO 27044 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : [2m:[0;39m [requestId:] Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-01-14 11:45:25.435  INFO 27044 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : [2m:[0;39m [requestId:] Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-01-14 11:45:25.912  INFO 27044 --- [main] o.s.cloud.context.scope.GenericScope     : [2m:[0;39m [requestId:] BeanFactory id=bb4fc5d5-8b89-3354-a0b0-13eab3ae8aa1
+2019-01-14 11:45:25.930  INFO 27044 --- [main] f.a.AutowiredAnnotationBeanPostProcessor : [2m:[0;39m [requestId:] JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-01-14 11:45:26.125  INFO 27044 --- [main] trationDelegate$BeanPostProcessorChecker : [2m:[0;39m [requestId:] Bean 'org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration' of type [org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration$$EnhancerBySpringCGLIB$$956213d8] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-01-14 11:45:26.779  INFO 27044 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : [2m:[0;39m [requestId:] Tomcat initialized with port(s): 8763 (http)
+2019-01-14 11:45:26.832  INFO 27044 --- [main] o.a.coyote.http11.Http11NioProtocol      : [2m:[0;39m [requestId:] Initializing ProtocolHandler ["http-nio-8763"]
+2019-01-14 11:45:26.851  INFO 27044 --- [main] o.apache.catalina.core.StandardService   : [2m:[0;39m [requestId:] Starting service [Tomcat]
+2019-01-14 11:45:26.851  INFO 27044 --- [main] org.apache.catalina.core.StandardEngine  : [2m:[0;39m [requestId:] Starting Servlet Engine: Apache Tomcat/8.5.28
+2019-01-14 11:45:26.856  INFO 27044 --- [localhost-startStop-1] o.a.catalina.core.AprLifecycleListener   : [2m:[0;39m [requestId:] The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jdk1.8.0_192\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;E:\maven3.5\apache-maven-3.5.3\bin;C:\Program Files\Java\jdk1.8.0_192\bin;C:\Program Files\Java\jdk1.8.0_192\jre\bin;C:\Program Files\Java\jdk1.8.0_192\lib;C:\Program Files\Java\jdk1.8.0_192\lib\tools.jar;E:\Program Files\Git\cmd;E:\Program Files\nodejs\;D:\nodejs\node_global;F:\软件\压力测试-jmeter\apache-jmeter-5.0\lib\ext\ApacheJMeter_core.jar;F:\软件\压力测试-jmeter\apache-jmeter-5.0\lib\logkit-2.0.jar;"F:\软件\压力测试-jmeter\apache-jmeter-5.0\lib\jorphan.jar;";C:\Users\ay-mei-pc\AppData\Local\Microsoft\WindowsApps;C:\Users\ay-mei-pc\AppData\Roaming\npm;.]
+2019-01-14 11:45:27.080  INFO 27044 --- [localhost-startStop-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : [2m:[0;39m [requestId:] Initializing Spring embedded WebApplicationContext
+2019-01-14 11:45:27.081  INFO 27044 --- [localhost-startStop-1] o.s.web.context.ContextLoader            : [2m:[0;39m [requestId:] Root WebApplicationContext: initialization completed in 2743 ms
+2019-01-14 11:45:27.441  INFO 27044 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : [2m:[0;39m [requestId:] Mapping filter: 'characterEncodingFilter' to: [/*]
+2019-01-14 11:45:27.442  INFO 27044 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : [2m:[0;39m [requestId:] Mapping filter: 'sessionRepositoryFilter' to: [/*]
+2019-01-14 11:45:27.442  INFO 27044 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : [2m:[0;39m [requestId:] Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2019-01-14 11:45:27.442  INFO 27044 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : [2m:[0;39m [requestId:] Mapping filter: 'httpPutFormContentFilter' to: [/*]
+2019-01-14 11:45:27.442  INFO 27044 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : [2m:[0;39m [requestId:] Mapping filter: 'requestContextFilter' to: [/*]
+2019-01-14 11:45:27.442  INFO 27044 --- [localhost-startStop-1] o.s.b.w.servlet.ServletRegistrationBean  : [2m:[0;39m [requestId:] Servlet dispatcherServlet mapped to [/]
+2019-01-14 11:45:27.780  WARN 27044 --- [main] c.n.c.sources.URLConfigurationSource     : [2m:[0;39m [requestId:] No URLs will be polled as dynamic configuration sources.
+2019-01-14 11:45:27.780  INFO 27044 --- [main] c.n.c.sources.URLConfigurationSource     : [2m:[0;39m [requestId:] To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2019-01-14 11:45:27.788  WARN 27044 --- [main] c.n.c.sources.URLConfigurationSource     : [2m:[0;39m [requestId:] No URLs will be polled as dynamic configuration sources.
+2019-01-14 11:45:27.788  INFO 27044 --- [main] c.n.c.sources.URLConfigurationSource     : [2m:[0;39m [requestId:] To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2019-01-14 11:45:28.076  INFO 27044 --- [main] org.mongodb.driver.cluster               : [2m:[0;39m [requestId:] Cluster created with settings {hosts=[localhost:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+2019-01-14 11:45:28.446  INFO 27044 --- [cluster-ClusterId{value='5c3c05d8be03d169a4f0afbc', description='null'}-localhost:27017] org.mongodb.driver.connection            : [2m:[0;39m [requestId:] Opened connection [connectionId{localValue:1, serverValue:1}] to localhost:27017
+2019-01-14 11:45:28.468  INFO 27044 --- [cluster-ClusterId{value='5c3c05d8be03d169a4f0afbc', description='null'}-localhost:27017] org.mongodb.driver.cluster               : [2m:[0;39m [requestId:] Monitor thread successfully connected to server with description ServerDescription{address=localhost:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[4, 0, 0]}, minWireVersion=0, maxWireVersion=7, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=18211804}
+2019-01-14 11:45:28.539  WARN 27044 --- [main] ConfigServletWebServerApplicationContext : [2m:[0;39m [requestId:] Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'org.springframework.boot.autoconfigure.session.SessionAutoConfiguration$ServletSessionRepositoryImplementationValidator': Invocation of init method failed; nested exception is org.springframework.boot.autoconfigure.session.NonUniqueSessionRepositoryException: Multiple session repository candidates are available, set the 'spring.session.store-type' property accordingly
+2019-01-14 11:45:28.547  INFO 27044 --- [main] o.apache.catalina.core.StandardService   : [2m:[0;39m [requestId:] Stopping service [Tomcat]
+2019-01-14 11:45:28.584  INFO 27044 --- [main] ConditionEvaluationReportLoggingListener : [2m:[0;39m [requestId:] 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2019-01-14 11:45:28.598 ERROR 27044 --- [main] o.s.b.d.LoggingFailureAnalysisReporter   : [2m:[0;39m [requestId:] 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Multiple Spring Session store implementations are available on the classpath:
+    - org.springframework.session.jdbc.JdbcOperationsSessionRepository
+    - org.springframework.session.data.mongo.MongoOperationsSessionRepository
+    - org.springframework.session.data.redis.RedisOperationsSessionRepository
+
+
+Action:
+
+Consider any of the following:
+    - Define the `spring.session.store-type` property to the store you want to use
+    - Review your classpath and remove the unwanted store implementation(s)
+
+
+2019-01-14 11:48:28.035  INFO 19624 --- [main] s.c.a.AnnotationConfigApplicationContext : [2m:[0;39m [requestId:] Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@f61b92d: startup date [Mon Jan 14 11:48:28 CST 2019]; root of context hierarchy
+2019-01-14 11:48:28.499  INFO 19624 --- [main] f.a.AutowiredAnnotationBeanPostProcessor : [2m:[0;39m [requestId:] JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-01-14 11:48:28.553  INFO 19624 --- [main] trationDelegate$BeanPostProcessorChecker : [2m:[0;39m [requestId:] Bean 'configurationPropertiesRebinderAutoConfiguration' of type [org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration$$EnhancerBySpringCGLIB$$a54dc81b] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-01-14 11:48:30.008  INFO 19624 --- [main] c.aypark.servicehi.ServiceHiApplication  : [2m:[0;39m [requestId:] No active profile set, falling back to default profiles: default
+2019-01-14 11:48:30.035  INFO 19624 --- [main] ConfigServletWebServerApplicationContext : [2m:[0;39m [requestId:] Refreshing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@1788be37: startup date [Mon Jan 14 11:48:30 CST 2019]; parent: org.springframework.context.annotation.AnnotationConfigApplicationContext@f61b92d
+2019-01-14 11:48:30.948  INFO 19624 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : [2m:[0;39m [requestId:] Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-01-14 11:48:30.976  INFO 19624 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : [2m:[0;39m [requestId:] Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-01-14 11:48:31.393  INFO 19624 --- [main] o.s.cloud.context.scope.GenericScope     : [2m:[0;39m [requestId:] BeanFactory id=bb4fc5d5-8b89-3354-a0b0-13eab3ae8aa1
+2019-01-14 11:48:31.414  INFO 19624 --- [main] f.a.AutowiredAnnotationBeanPostProcessor : [2m:[0;39m [requestId:] JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-01-14 11:48:31.626  INFO 19624 --- [main] trationDelegate$BeanPostProcessorChecker : [2m:[0;39m [requestId:] Bean 'org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration' of type [org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration$$EnhancerBySpringCGLIB$$a54dc81b] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-01-14 11:48:32.300  INFO 19624 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : [2m:[0;39m [requestId:] Tomcat initialized with port(s): 8763 (http)
+2019-01-14 11:48:32.347  INFO 19624 --- [main] o.a.coyote.http11.Http11NioProtocol      : [2m:[0;39m [requestId:] Initializing ProtocolHandler ["http-nio-8763"]
+2019-01-14 11:48:32.367  INFO 19624 --- [main] o.apache.catalina.core.StandardService   : [2m:[0;39m [requestId:] Starting service [Tomcat]
+2019-01-14 11:48:32.367  INFO 19624 --- [main] org.apache.catalina.core.StandardEngine  : [2m:[0;39m [requestId:] Starting Servlet Engine: Apache Tomcat/8.5.28
+2019-01-14 11:48:32.373  INFO 19624 --- [localhost-startStop-1] o.a.catalina.core.AprLifecycleListener   : [2m:[0;39m [requestId:] The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jdk1.8.0_192\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;E:\maven3.5\apache-maven-3.5.3\bin;C:\Program Files\Java\jdk1.8.0_192\bin;C:\Program Files\Java\jdk1.8.0_192\jre\bin;C:\Program Files\Java\jdk1.8.0_192\lib;C:\Program Files\Java\jdk1.8.0_192\lib\tools.jar;E:\Program Files\Git\cmd;E:\Program Files\nodejs\;D:\nodejs\node_global;F:\软件\压力测试-jmeter\apache-jmeter-5.0\lib\ext\ApacheJMeter_core.jar;F:\软件\压力测试-jmeter\apache-jmeter-5.0\lib\logkit-2.0.jar;"F:\软件\压力测试-jmeter\apache-jmeter-5.0\lib\jorphan.jar;";C:\Users\ay-mei-pc\AppData\Local\Microsoft\WindowsApps;C:\Users\ay-mei-pc\AppData\Roaming\npm;.]
+2019-01-14 11:48:32.645  INFO 19624 --- [localhost-startStop-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : [2m:[0;39m [requestId:] Initializing Spring embedded WebApplicationContext
+2019-01-14 11:48:32.646  INFO 19624 --- [localhost-startStop-1] o.s.web.context.ContextLoader            : [2m:[0;39m [requestId:] Root WebApplicationContext: initialization completed in 2611 ms
+2019-01-14 11:48:33.145  INFO 19624 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : [2m:[0;39m [requestId:] Mapping filter: 'characterEncodingFilter' to: [/*]
+2019-01-14 11:48:33.145  INFO 19624 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : [2m:[0;39m [requestId:] Mapping filter: 'sessionRepositoryFilter' to: [/*]
+2019-01-14 11:48:33.145  INFO 19624 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : [2m:[0;39m [requestId:] Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2019-01-14 11:48:33.145  INFO 19624 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : [2m:[0;39m [requestId:] Mapping filter: 'httpPutFormContentFilter' to: [/*]
+2019-01-14 11:48:33.145  INFO 19624 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : [2m:[0;39m [requestId:] Mapping filter: 'requestContextFilter' to: [/*]
+2019-01-14 11:48:33.145  INFO 19624 --- [localhost-startStop-1] o.s.b.w.servlet.ServletRegistrationBean  : [2m:[0;39m [requestId:] Servlet dispatcherServlet mapped to [/]
+2019-01-14 11:48:33.513  WARN 19624 --- [main] c.n.c.sources.URLConfigurationSource     : [2m:[0;39m [requestId:] No URLs will be polled as dynamic configuration sources.
+2019-01-14 11:48:33.513  INFO 19624 --- [main] c.n.c.sources.URLConfigurationSource     : [2m:[0;39m [requestId:] To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2019-01-14 11:48:33.520  WARN 19624 --- [main] c.n.c.sources.URLConfigurationSource     : [2m:[0;39m [requestId:] No URLs will be polled as dynamic configuration sources.
+2019-01-14 11:48:33.520  INFO 19624 --- [main] c.n.c.sources.URLConfigurationSource     : [2m:[0;39m [requestId:] To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2019-01-14 11:48:33.860  INFO 19624 --- [main] org.mongodb.driver.cluster               : [2m:[0;39m [requestId:] Cluster created with settings {hosts=[127.0.0.1:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+2019-01-14 11:48:34.033  INFO 19624 --- [cluster-ClusterId{value='5c3c0691be03d14ca88cdfa4', description='null'}-127.0.0.1:27017] org.mongodb.driver.connection            : [2m:[0;39m [requestId:] Opened connection [connectionId{localValue:1, serverValue:2}] to 127.0.0.1:27017
+2019-01-14 11:48:34.041  INFO 19624 --- [cluster-ClusterId{value='5c3c0691be03d14ca88cdfa4', description='null'}-127.0.0.1:27017] org.mongodb.driver.cluster               : [2m:[0;39m [requestId:] Monitor thread successfully connected to server with description ServerDescription{address=127.0.0.1:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[4, 0, 0]}, minWireVersion=0, maxWireVersion=7, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=6222210}
+2019-01-14 11:48:34.377  WARN 19624 --- [main] ConfigServletWebServerApplicationContext : [2m:[0;39m [requestId:] Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'org.springframework.boot.autoconfigure.session.SessionAutoConfiguration$ServletSessionRepositoryImplementationValidator': Invocation of init method failed; nested exception is org.springframework.boot.autoconfigure.session.NonUniqueSessionRepositoryException: Multiple session repository candidates are available, set the 'spring.session.store-type' property accordingly
+2019-01-14 11:48:34.386  INFO 19624 --- [main] o.apache.catalina.core.StandardService   : [2m:[0;39m [requestId:] Stopping service [Tomcat]
+2019-01-14 11:48:34.425  INFO 19624 --- [main] ConditionEvaluationReportLoggingListener : [2m:[0;39m [requestId:] 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2019-01-14 11:48:34.439 ERROR 19624 --- [main] o.s.b.d.LoggingFailureAnalysisReporter   : [2m:[0;39m [requestId:] 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Multiple Spring Session store implementations are available on the classpath:
+    - org.springframework.session.jdbc.JdbcOperationsSessionRepository
+    - org.springframework.session.data.mongo.MongoOperationsSessionRepository
+    - org.springframework.session.data.redis.RedisOperationsSessionRepository
+
+
+Action:
+
+Consider any of the following:
+    - Define the `spring.session.store-type` property to the store you want to use
+    - Review your classpath and remove the unwanted store implementation(s)
+
+
+2019-01-14 11:53:42.800  INFO 26308 --- [main] s.c.a.AnnotationConfigApplicationContext : [2m:[0;39m [requestId:] Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@71549247: startup date [Mon Jan 14 11:53:42 CST 2019]; root of context hierarchy
+2019-01-14 11:53:43.331  INFO 26308 --- [main] f.a.AutowiredAnnotationBeanPostProcessor : [2m:[0;39m [requestId:] JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-01-14 11:53:43.390  INFO 26308 --- [main] trationDelegate$BeanPostProcessorChecker : [2m:[0;39m [requestId:] Bean 'configurationPropertiesRebinderAutoConfiguration' of type [org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration$$EnhancerBySpringCGLIB$$73b8f7a5] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-01-14 11:53:44.822  INFO 26308 --- [main] c.aypark.servicehi.ServiceHiApplication  : [2m:[0;39m [requestId:] No active profile set, falling back to default profiles: default
+2019-01-14 11:53:44.847  INFO 26308 --- [main] ConfigServletWebServerApplicationContext : [2m:[0;39m [requestId:] Refreshing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@1435a1f8: startup date [Mon Jan 14 11:53:44 CST 2019]; parent: org.springframework.context.annotation.AnnotationConfigApplicationContext@71549247
+2019-01-14 11:53:45.831  INFO 26308 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : [2m:[0;39m [requestId:] Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-01-14 11:53:45.879  INFO 26308 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : [2m:[0;39m [requestId:] Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-01-14 11:53:46.355  INFO 26308 --- [main] o.s.cloud.context.scope.GenericScope     : [2m:[0;39m [requestId:] BeanFactory id=52b5721e-9f58-3e1e-bcbb-b0245c6b8ba0
+2019-01-14 11:53:46.382  INFO 26308 --- [main] f.a.AutowiredAnnotationBeanPostProcessor : [2m:[0;39m [requestId:] JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-01-14 11:53:46.566  INFO 26308 --- [main] trationDelegate$BeanPostProcessorChecker : [2m:[0;39m [requestId:] Bean 'org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration' of type [org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration$$EnhancerBySpringCGLIB$$73b8f7a5] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-01-14 11:53:47.173  INFO 26308 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : [2m:[0;39m [requestId:] Tomcat initialized with port(s): 8763 (http)
+2019-01-14 11:53:47.217  INFO 26308 --- [main] o.a.coyote.http11.Http11NioProtocol      : [2m:[0;39m [requestId:] Initializing ProtocolHandler ["http-nio-8763"]
+2019-01-14 11:53:47.235  INFO 26308 --- [main] o.apache.catalina.core.StandardService   : [2m:[0;39m [requestId:] Starting service [Tomcat]
+2019-01-14 11:53:47.235  INFO 26308 --- [main] org.apache.catalina.core.StandardEngine  : [2m:[0;39m [requestId:] Starting Servlet Engine: Apache Tomcat/8.5.28
+2019-01-14 11:53:47.240  INFO 26308 --- [localhost-startStop-1] o.a.catalina.core.AprLifecycleListener   : [2m:[0;39m [requestId:] The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jdk1.8.0_192\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;E:\maven3.5\apache-maven-3.5.3\bin;C:\Program Files\Java\jdk1.8.0_192\bin;C:\Program Files\Java\jdk1.8.0_192\jre\bin;C:\Program Files\Java\jdk1.8.0_192\lib;C:\Program Files\Java\jdk1.8.0_192\lib\tools.jar;E:\Program Files\Git\cmd;E:\Program Files\nodejs\;D:\nodejs\node_global;F:\软件\压力测试-jmeter\apache-jmeter-5.0\lib\ext\ApacheJMeter_core.jar;F:\软件\压力测试-jmeter\apache-jmeter-5.0\lib\logkit-2.0.jar;"F:\软件\压力测试-jmeter\apache-jmeter-5.0\lib\jorphan.jar;";C:\Users\ay-mei-pc\AppData\Local\Microsoft\WindowsApps;C:\Users\ay-mei-pc\AppData\Roaming\npm;.]
+2019-01-14 11:53:47.444  INFO 26308 --- [localhost-startStop-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : [2m:[0;39m [requestId:] Initializing Spring embedded WebApplicationContext
+2019-01-14 11:53:47.445  INFO 26308 --- [localhost-startStop-1] o.s.web.context.ContextLoader            : [2m:[0;39m [requestId:] Root WebApplicationContext: initialization completed in 2597 ms
+2019-01-14 11:53:47.818  INFO 26308 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : [2m:[0;39m [requestId:] Mapping filter: 'characterEncodingFilter' to: [/*]
+2019-01-14 11:53:47.819  INFO 26308 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : [2m:[0;39m [requestId:] Mapping filter: 'sessionRepositoryFilter' to: [/*]
+2019-01-14 11:53:47.819  INFO 26308 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : [2m:[0;39m [requestId:] Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2019-01-14 11:53:47.819  INFO 26308 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : [2m:[0;39m [requestId:] Mapping filter: 'httpPutFormContentFilter' to: [/*]
+2019-01-14 11:53:47.819  INFO 26308 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : [2m:[0;39m [requestId:] Mapping filter: 'requestContextFilter' to: [/*]
+2019-01-14 11:53:47.819  INFO 26308 --- [localhost-startStop-1] o.s.b.w.servlet.ServletRegistrationBean  : [2m:[0;39m [requestId:] Servlet dispatcherServlet mapped to [/]
+2019-01-14 11:53:48.125  WARN 26308 --- [main] c.n.c.sources.URLConfigurationSource     : [2m:[0;39m [requestId:] No URLs will be polled as dynamic configuration sources.
+2019-01-14 11:53:48.125  INFO 26308 --- [main] c.n.c.sources.URLConfigurationSource     : [2m:[0;39m [requestId:] To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2019-01-14 11:53:48.132  WARN 26308 --- [main] c.n.c.sources.URLConfigurationSource     : [2m:[0;39m [requestId:] No URLs will be polled as dynamic configuration sources.
+2019-01-14 11:53:48.132  INFO 26308 --- [main] c.n.c.sources.URLConfigurationSource     : [2m:[0;39m [requestId:] To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2019-01-14 11:53:48.377  INFO 26308 --- [main] org.mongodb.driver.cluster               : [2m:[0;39m [requestId:] Cluster created with settings {hosts=[127.0.0.1:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+2019-01-14 11:53:48.477  INFO 26308 --- [cluster-ClusterId{value='5c3c07ccbe03d166c479671a', description='null'}-127.0.0.1:27017] org.mongodb.driver.connection            : [2m:[0;39m [requestId:] Opened connection [connectionId{localValue:1, serverValue:3}] to 127.0.0.1:27017
+2019-01-14 11:53:48.484  INFO 26308 --- [cluster-ClusterId{value='5c3c07ccbe03d166c479671a', description='null'}-127.0.0.1:27017] org.mongodb.driver.cluster               : [2m:[0;39m [requestId:] Monitor thread successfully connected to server with description ServerDescription{address=127.0.0.1:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[4, 0, 0]}, minWireVersion=0, maxWireVersion=7, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=4732293}
+2019-01-14 11:53:48.754  WARN 26308 --- [main] ConfigServletWebServerApplicationContext : [2m:[0;39m [requestId:] Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'org.springframework.boot.autoconfigure.session.SessionAutoConfiguration$ServletSessionRepositoryImplementationValidator': Invocation of init method failed; nested exception is org.springframework.boot.autoconfigure.session.NonUniqueSessionRepositoryException: Multiple session repository candidates are available, set the 'spring.session.store-type' property accordingly
+2019-01-14 11:53:48.763  INFO 26308 --- [main] o.apache.catalina.core.StandardService   : [2m:[0;39m [requestId:] Stopping service [Tomcat]
+2019-01-14 11:53:48.802  INFO 26308 --- [main] ConditionEvaluationReportLoggingListener : [2m:[0;39m [requestId:] 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2019-01-14 11:53:48.813 ERROR 26308 --- [main] o.s.b.d.LoggingFailureAnalysisReporter   : [2m:[0;39m [requestId:] 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Multiple Spring Session store implementations are available on the classpath:
+    - org.springframework.session.jdbc.JdbcOperationsSessionRepository
+    - org.springframework.session.data.mongo.MongoOperationsSessionRepository
+    - org.springframework.session.data.redis.RedisOperationsSessionRepository
+
+
+Action:
+
+Consider any of the following:
+    - Define the `spring.session.store-type` property to the store you want to use
+    - Review your classpath and remove the unwanted store implementation(s)
+
+
+2019-01-14 13:33:08.215  INFO 18276 --- [main] s.c.a.AnnotationConfigApplicationContext : [2m:[0;39m [requestId:] Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@482c8db4: startup date [Mon Jan 14 13:33:08 CST 2019]; root of context hierarchy
+2019-01-14 13:33:08.709  INFO 18276 --- [main] f.a.AutowiredAnnotationBeanPostProcessor : [2m:[0;39m [requestId:] JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-01-14 13:33:08.763  INFO 18276 --- [main] trationDelegate$BeanPostProcessorChecker : [2m:[0;39m [requestId:] Bean 'configurationPropertiesRebinderAutoConfiguration' of type [org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration$$EnhancerBySpringCGLIB$$7a4f7f6f] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-01-14 13:33:10.174  INFO 18276 --- [main] c.aypark.servicehi.ServiceHiApplication  : [2m:[0;39m [requestId:] No active profile set, falling back to default profiles: default
+2019-01-14 13:33:10.200  INFO 18276 --- [main] ConfigServletWebServerApplicationContext : [2m:[0;39m [requestId:] Refreshing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@5ac3673a: startup date [Mon Jan 14 13:33:10 CST 2019]; parent: org.springframework.context.annotation.AnnotationConfigApplicationContext@482c8db4
+2019-01-14 13:33:11.123  INFO 18276 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : [2m:[0;39m [requestId:] Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-01-14 13:33:11.165  INFO 18276 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : [2m:[0;39m [requestId:] Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-01-14 13:33:11.579  INFO 18276 --- [main] o.s.cloud.context.scope.GenericScope     : [2m:[0;39m [requestId:] BeanFactory id=233672b4-e1c9-38cc-8201-e0bc14d129e0
+2019-01-14 13:33:11.598  INFO 18276 --- [main] f.a.AutowiredAnnotationBeanPostProcessor : [2m:[0;39m [requestId:] JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-01-14 13:33:11.754  INFO 18276 --- [main] trationDelegate$BeanPostProcessorChecker : [2m:[0;39m [requestId:] Bean 'org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration' of type [org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration$$EnhancerBySpringCGLIB$$7a4f7f6f] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-01-14 13:33:12.383  INFO 18276 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : [2m:[0;39m [requestId:] Tomcat initialized with port(s): 8763 (http)
+2019-01-14 13:33:12.426  INFO 18276 --- [main] o.a.coyote.http11.Http11NioProtocol      : [2m:[0;39m [requestId:] Initializing ProtocolHandler ["http-nio-8763"]
+2019-01-14 13:33:12.445  INFO 18276 --- [main] o.apache.catalina.core.StandardService   : [2m:[0;39m [requestId:] Starting service [Tomcat]
+2019-01-14 13:33:12.445  INFO 18276 --- [main] org.apache.catalina.core.StandardEngine  : [2m:[0;39m [requestId:] Starting Servlet Engine: Apache Tomcat/8.5.28
+2019-01-14 13:33:12.450  INFO 18276 --- [localhost-startStop-1] o.a.catalina.core.AprLifecycleListener   : [2m:[0;39m [requestId:] The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jdk1.8.0_192\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;E:\maven3.5\apache-maven-3.5.3\bin;C:\Program Files\Java\jdk1.8.0_192\bin;C:\Program Files\Java\jdk1.8.0_192\jre\bin;C:\Program Files\Java\jdk1.8.0_192\lib;C:\Program Files\Java\jdk1.8.0_192\lib\tools.jar;E:\Program Files\Git\cmd;E:\Program Files\nodejs\;D:\nodejs\node_global;F:\软件\压力测试-jmeter\apache-jmeter-5.0\lib\ext\ApacheJMeter_core.jar;F:\软件\压力测试-jmeter\apache-jmeter-5.0\lib\logkit-2.0.jar;"F:\软件\压力测试-jmeter\apache-jmeter-5.0\lib\jorphan.jar;";C:\Users\ay-mei-pc\AppData\Local\Microsoft\WindowsApps;C:\Users\ay-mei-pc\AppData\Roaming\npm;.]
+2019-01-14 13:33:12.653  INFO 18276 --- [localhost-startStop-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : [2m:[0;39m [requestId:] Initializing Spring embedded WebApplicationContext
+2019-01-14 13:33:12.653  INFO 18276 --- [localhost-startStop-1] o.s.web.context.ContextLoader            : [2m:[0;39m [requestId:] Root WebApplicationContext: initialization completed in 2453 ms
+2019-01-14 13:33:12.822  INFO 18276 --- [localhost-startStop-1] o.s.b.w.servlet.ServletRegistrationBean  : [2m:[0;39m [requestId:] Servlet dispatcherServlet mapped to [/]
+2019-01-14 13:33:12.829  INFO 18276 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : [2m:[0;39m [requestId:] Mapping filter: 'characterEncodingFilter' to: [/*]
+2019-01-14 13:33:12.829  INFO 18276 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : [2m:[0;39m [requestId:] Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2019-01-14 13:33:12.829  INFO 18276 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : [2m:[0;39m [requestId:] Mapping filter: 'httpPutFormContentFilter' to: [/*]
+2019-01-14 13:33:12.829  INFO 18276 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : [2m:[0;39m [requestId:] Mapping filter: 'requestContextFilter' to: [/*]
+2019-01-14 13:33:13.164  WARN 18276 --- [main] c.n.c.sources.URLConfigurationSource     : [2m:[0;39m [requestId:] No URLs will be polled as dynamic configuration sources.
+2019-01-14 13:33:13.164  INFO 18276 --- [main] c.n.c.sources.URLConfigurationSource     : [2m:[0;39m [requestId:] To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2019-01-14 13:33:13.170  WARN 18276 --- [main] c.n.c.sources.URLConfigurationSource     : [2m:[0;39m [requestId:] No URLs will be polled as dynamic configuration sources.
+2019-01-14 13:33:13.170  INFO 18276 --- [main] c.n.c.sources.URLConfigurationSource     : [2m:[0;39m [requestId:] To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2019-01-14 13:33:13.412  INFO 18276 --- [main] org.mongodb.driver.cluster               : [2m:[0;39m [requestId:] Cluster created with settings {hosts=[127.0.0.1:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+2019-01-14 13:33:13.517  INFO 18276 --- [cluster-ClusterId{value='5c3c1f19be03d14764ac43af', description='null'}-127.0.0.1:27017] org.mongodb.driver.connection            : [2m:[0;39m [requestId:] Opened connection [connectionId{localValue:1, serverValue:4}] to 127.0.0.1:27017
+2019-01-14 13:33:13.523  INFO 18276 --- [cluster-ClusterId{value='5c3c1f19be03d14764ac43af', description='null'}-127.0.0.1:27017] org.mongodb.driver.cluster               : [2m:[0;39m [requestId:] Monitor thread successfully connected to server with description ServerDescription{address=127.0.0.1:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[4, 0, 0]}, minWireVersion=0, maxWireVersion=7, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=4401769}
+2019-01-14 13:33:14.160  INFO 18276 --- [main] s.w.s.m.m.a.RequestMappingHandlerAdapter : [2m:[0;39m [requestId:] Looking for @ControllerAdvice: org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@5ac3673a: startup date [Mon Jan 14 13:33:10 CST 2019]; parent: org.springframework.context.annotation.AnnotationConfigApplicationContext@482c8db4
+2019-01-14 13:33:14.279  INFO 18276 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : [2m:[0;39m [requestId:] Mapped "{[/hi]}" onto public java.lang.String com.aypark.servicehi.ServiceHiApplication.home(java.lang.String)
+2019-01-14 13:33:14.284  INFO 18276 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : [2m:[0;39m [requestId:] Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.error(javax.servlet.http.HttpServletRequest)
+2019-01-14 13:33:14.284  INFO 18276 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : [2m:[0;39m [requestId:] Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2019-01-14 13:33:14.329  INFO 18276 --- [main] o.s.w.s.handler.SimpleUrlHandlerMapping  : [2m:[0;39m [requestId:] Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2019-01-14 13:33:14.330  INFO 18276 --- [main] o.s.w.s.handler.SimpleUrlHandlerMapping  : [2m:[0;39m [requestId:] Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2019-01-14 13:33:14.383  INFO 18276 --- [main] o.s.w.s.handler.SimpleUrlHandlerMapping  : [2m:[0;39m [requestId:] Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2019-01-14 13:33:14.421  WARN 18276 --- [main] ion$DefaultTemplateResolverConfiguration : [2m:[0;39m [requestId:] Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2019-01-14 13:33:16.031  INFO 18276 --- [main] o.s.cloud.commons.util.InetUtils         : [2m:[0;39m [requestId:] Cannot determine local hostname
+2019-01-14 13:33:17.115  INFO 18276 --- [main] o.s.cloud.commons.util.InetUtils         : [2m:[0;39m [requestId:] Cannot determine local hostname
+2019-01-14 13:33:17.506  INFO 18276 --- [main] o.s.j.e.a.AnnotationMBeanExporter        : [2m:[0;39m [requestId:] Registering beans for JMX exposure on startup
+2019-01-14 13:33:17.517  INFO 18276 --- [main] o.s.j.e.a.AnnotationMBeanExporter        : [2m:[0;39m [requestId:] Bean with name 'refreshScope' has been autodetected for JMX exposure
+2019-01-14 13:33:17.518  INFO 18276 --- [main] o.s.j.e.a.AnnotationMBeanExporter        : [2m:[0;39m [requestId:] Bean with name 'configurationPropertiesRebinder' has been autodetected for JMX exposure
+2019-01-14 13:33:17.519  INFO 18276 --- [main] o.s.j.e.a.AnnotationMBeanExporter        : [2m:[0;39m [requestId:] Bean with name 'environmentManager' has been autodetected for JMX exposure
+2019-01-14 13:33:17.523  INFO 18276 --- [main] o.s.j.e.a.AnnotationMBeanExporter        : [2m:[0;39m [requestId:] Located managed bean 'environmentManager': registering with JMX server as MBean [org.springframework.cloud.context.environment:name=environmentManager,type=EnvironmentManager]
+2019-01-14 13:33:17.555  INFO 18276 --- [main] o.s.j.e.a.AnnotationMBeanExporter        : [2m:[0;39m [requestId:] Located managed bean 'refreshScope': registering with JMX server as MBean [org.springframework.cloud.context.scope.refresh:name=refreshScope,type=RefreshScope]
+2019-01-14 13:33:17.568  INFO 18276 --- [main] o.s.j.e.a.AnnotationMBeanExporter        : [2m:[0;39m [requestId:] Located managed bean 'configurationPropertiesRebinder': registering with JMX server as MBean [org.springframework.cloud.context.properties:name=configurationPropertiesRebinder,context=5ac3673a,type=ConfigurationPropertiesRebinder]
+2019-01-14 13:33:17.577  INFO 18276 --- [main] o.s.c.support.DefaultLifecycleProcessor  : [2m:[0;39m [requestId:] Starting beans in phase 0
+2019-01-14 13:33:17.597  INFO 18276 --- [main] o.s.c.n.eureka.InstanceInfoFactory       : [2m:[0;39m [requestId:] Setting initial instance status as: STARTING
+2019-01-14 13:33:17.657  INFO 18276 --- [main] com.netflix.discovery.DiscoveryClient    : [2m:[0;39m [requestId:] Initializing Eureka in region us-east-1
+2019-01-14 13:33:17.773  INFO 18276 --- [main] c.n.d.provider.DiscoveryJerseyProvider   : [2m:[0;39m [requestId:] Using JSON encoding codec LegacyJacksonJson
+2019-01-14 13:33:17.773  INFO 18276 --- [main] c.n.d.provider.DiscoveryJerseyProvider   : [2m:[0;39m [requestId:] Using JSON decoding codec LegacyJacksonJson
+2019-01-14 13:33:17.965  INFO 18276 --- [main] c.n.d.provider.DiscoveryJerseyProvider   : [2m:[0;39m [requestId:] Using XML encoding codec XStreamXml
+2019-01-14 13:33:17.966  INFO 18276 --- [main] c.n.d.provider.DiscoveryJerseyProvider   : [2m:[0;39m [requestId:] Using XML decoding codec XStreamXml
+2019-01-14 13:33:18.234  INFO 18276 --- [main] c.n.d.s.r.aws.ConfigClusterResolver      : [2m:[0;39m [requestId:] Resolving eureka endpoints via configuration
+2019-01-14 13:33:18.299  INFO 18276 --- [main] com.netflix.discovery.DiscoveryClient    : [2m:[0;39m [requestId:] Disable delta property : false
+2019-01-14 13:33:18.299  INFO 18276 --- [main] com.netflix.discovery.DiscoveryClient    : [2m:[0;39m [requestId:] Single vip registry refresh property : null
+2019-01-14 13:33:18.299  INFO 18276 --- [main] com.netflix.discovery.DiscoveryClient    : [2m:[0;39m [requestId:] Force full registry fetch : false
+2019-01-14 13:33:18.299  INFO 18276 --- [main] com.netflix.discovery.DiscoveryClient    : [2m:[0;39m [requestId:] Application is null : false
+2019-01-14 13:33:18.299  INFO 18276 --- [main] com.netflix.discovery.DiscoveryClient    : [2m:[0;39m [requestId:] Registered Applications size is zero : true
+2019-01-14 13:33:18.299  INFO 18276 --- [main] com.netflix.discovery.DiscoveryClient    : [2m:[0;39m [requestId:] Application version is -1: true
+2019-01-14 13:33:18.299  INFO 18276 --- [main] com.netflix.discovery.DiscoveryClient    : [2m:[0;39m [requestId:] Getting all instance registry info from the eureka server
+2019-01-14 13:33:18.661  INFO 18276 --- [main] com.netflix.discovery.DiscoveryClient    : [2m:[0;39m [requestId:] The response status is 200
+2019-01-14 13:33:18.663  INFO 18276 --- [main] com.netflix.discovery.DiscoveryClient    : [2m:[0;39m [requestId:] Starting heartbeat executor: renew interval is: 30
+2019-01-14 13:33:18.667  INFO 18276 --- [main] c.n.discovery.InstanceInfoReplicator     : [2m:[0;39m [requestId:] InstanceInfoReplicator onDemand update allowed rate per min is 4
+2019-01-14 13:33:18.672  INFO 18276 --- [main] com.netflix.discovery.DiscoveryClient    : [2m:[0;39m [requestId:] Discovery Client initialized at timestamp 1547443998670 with initial instances count: 0
+2019-01-14 13:33:18.678  INFO 18276 --- [main] o.s.c.n.e.s.EurekaServiceRegistry        : [2m:[0;39m [requestId:] Registering application service-hi with eureka with status UP
+2019-01-14 13:33:18.679  INFO 18276 --- [main] com.netflix.discovery.DiscoveryClient    : [2m:[0;39m [requestId:] Saw local status change event StatusChangeEvent [timestamp=1547443998679, current=UP, previous=STARTING]
+2019-01-14 13:33:18.680  INFO 18276 --- [DiscoveryClient-InstanceInfoReplicator-0] com.netflix.discovery.DiscoveryClient    : [2m:[0;39m [requestId:] DiscoveryClient_SERVICE-HI/localhost:service-hi:8763: registering service...
+2019-01-14 13:33:18.699  INFO 18276 --- [main] o.a.coyote.http11.Http11NioProtocol      : [2m:[0;39m [requestId:] Starting ProtocolHandler ["http-nio-8763"]
+2019-01-14 13:33:18.728  INFO 18276 --- [main] o.a.tomcat.util.net.NioSelectorPool      : [2m:[0;39m [requestId:] Using a shared selector for servlet write/read
+2019-01-14 13:33:18.758  INFO 18276 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : [2m:[0;39m [requestId:] Tomcat started on port(s): 8763 (http) with context path ''
+2019-01-14 13:33:18.759  INFO 18276 --- [main] .s.c.n.e.s.EurekaAutoServiceRegistration : [2m:[0;39m [requestId:] Updating port to 8763
+2019-01-14 13:33:18.765  INFO 18276 --- [main] c.aypark.servicehi.ServiceHiApplication  : [2m:[0;39m [requestId:] Started ServiceHiApplication in 12.769 seconds (JVM running for 17.857)
+2019-01-14 13:33:18.859  INFO 18276 --- [DiscoveryClient-InstanceInfoReplicator-0] com.netflix.discovery.DiscoveryClient    : [2m:[0;39m [requestId:] DiscoveryClient_SERVICE-HI/localhost:service-hi:8763 - registration status: 204
+2019-01-14 13:33:48.666  INFO 18276 --- [DiscoveryClient-CacheRefreshExecutor-0] com.netflix.discovery.DiscoveryClient    : [2m:[0;39m [requestId:] Disable delta property : false
+2019-01-14 13:33:48.666  INFO 18276 --- [DiscoveryClient-CacheRefreshExecutor-0] com.netflix.discovery.DiscoveryClient    : [2m:[0;39m [requestId:] Single vip registry refresh property : null
+2019-01-14 13:33:48.666  INFO 18276 --- [DiscoveryClient-CacheRefreshExecutor-0] com.netflix.discovery.DiscoveryClient    : [2m:[0;39m [requestId:] Force full registry fetch : false
+2019-01-14 13:33:48.666  INFO 18276 --- [DiscoveryClient-CacheRefreshExecutor-0] com.netflix.discovery.DiscoveryClient    : [2m:[0;39m [requestId:] Application is null : false
+2019-01-14 13:33:48.666  INFO 18276 --- [DiscoveryClient-CacheRefreshExecutor-0] com.netflix.discovery.DiscoveryClient    : [2m:[0;39m [requestId:] Registered Applications size is zero : true
+2019-01-14 13:33:48.667  INFO 18276 --- [DiscoveryClient-CacheRefreshExecutor-0] com.netflix.discovery.DiscoveryClient    : [2m:[0;39m [requestId:] Application version is -1: false
+2019-01-14 13:33:48.667  INFO 18276 --- [DiscoveryClient-CacheRefreshExecutor-0] com.netflix.discovery.DiscoveryClient    : [2m:[0;39m [requestId:] Getting all instance registry info from the eureka server
+2019-01-14 13:33:48.745  INFO 18276 --- [DiscoveryClient-CacheRefreshExecutor-0] com.netflix.discovery.DiscoveryClient    : [2m:[0;39m [requestId:] The response status is 200
+2019-01-14 13:38:18.303  INFO 18276 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : [2m:[0;39m [requestId:] Resolving eureka endpoints via configuration
+2019-01-14 13:43:18.304  INFO 18276 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : [2m:[0;39m [requestId:] Resolving eureka endpoints via configuration
+2019-01-14 13:48:18.306  INFO 18276 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : [2m:[0;39m [requestId:] Resolving eureka endpoints via configuration
+2019-01-14 13:53:18.307  INFO 18276 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : [2m:[0;39m [requestId:] Resolving eureka endpoints via configuration
+2019-01-14 13:58:18.307  INFO 18276 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : [2m:[0;39m [requestId:] Resolving eureka endpoints via configuration
+2019-01-14 14:03:18.309  INFO 18276 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : [2m:[0;39m [requestId:] Resolving eureka endpoints via configuration
+2019-01-14 14:08:18.312  INFO 18276 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : [2m:[0;39m [requestId:] Resolving eureka endpoints via configuration
+2019-01-14 14:13:18.313  INFO 18276 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : [2m:[0;39m [requestId:] Resolving eureka endpoints via configuration
+2019-01-14 14:18:18.320  INFO 18276 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : [2m:[0;39m [requestId:] Resolving eureka endpoints via configuration
+2019-01-14 14:23:18.322  INFO 18276 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : [2m:[0;39m [requestId:] Resolving eureka endpoints via configuration
+2019-01-14 14:28:18.323  INFO 18276 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : [2m:[0;39m [requestId:] Resolving eureka endpoints via configuration
+2019-01-14 14:33:18.325  INFO 18276 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : [2m:[0;39m [requestId:] Resolving eureka endpoints via configuration
+2019-01-14 14:38:18.327  INFO 18276 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : [2m:[0;39m [requestId:] Resolving eureka endpoints via configuration
+2019-01-14 14:42:55.931  INFO 25604 --- [main] s.c.a.AnnotationConfigApplicationContext : [2m:[0;39m [requestId:] Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@7536ef0f: startup date [Mon Jan 14 14:42:55 CST 2019]; root of context hierarchy
+2019-01-14 14:42:56.440  INFO 25604 --- [main] f.a.AutowiredAnnotationBeanPostProcessor : [2m:[0;39m [requestId:] JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-01-14 14:42:56.508  INFO 25604 --- [main] trationDelegate$BeanPostProcessorChecker : [2m:[0;39m [requestId:] Bean 'configurationPropertiesRebinderAutoConfiguration' of type [org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration$$EnhancerBySpringCGLIB$$fd4dee64] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-01-14 14:42:57.964  INFO 25604 --- [main] c.aypark.servicehi.ServiceHiApplication  : [2m:[0;39m [requestId:] No active profile set, falling back to default profiles: default
+2019-01-14 14:42:57.991  INFO 25604 --- [main] ConfigServletWebServerApplicationContext : [2m:[0;39m [requestId:] Refreshing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@9b195c4: startup date [Mon Jan 14 14:42:57 CST 2019]; parent: org.springframework.context.annotation.AnnotationConfigApplicationContext@7536ef0f
+2019-01-14 14:42:58.939  INFO 25604 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : [2m:[0;39m [requestId:] Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-01-14 14:42:58.966  INFO 25604 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : [2m:[0;39m [requestId:] Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-01-14 14:42:59.375  INFO 25604 --- [main] o.s.cloud.context.scope.GenericScope     : [2m:[0;39m [requestId:] BeanFactory id=233672b4-e1c9-38cc-8201-e0bc14d129e0
+2019-01-14 14:42:59.393  INFO 25604 --- [main] f.a.AutowiredAnnotationBeanPostProcessor : [2m:[0;39m [requestId:] JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-01-14 14:42:59.565  INFO 25604 --- [main] trationDelegate$BeanPostProcessorChecker : [2m:[0;39m [requestId:] Bean 'org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration' of type [org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration$$EnhancerBySpringCGLIB$$fd4dee64] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-01-14 14:43:00.241  INFO 25604 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : [2m:[0;39m [requestId:] Tomcat initialized with port(s): 8763 (http)
+2019-01-14 14:43:00.288  INFO 25604 --- [main] o.a.coyote.http11.Http11NioProtocol      : [2m:[0;39m [requestId:] Initializing ProtocolHandler ["http-nio-8763"]
+2019-01-14 14:43:00.307  INFO 25604 --- [main] o.apache.catalina.core.StandardService   : [2m:[0;39m [requestId:] Starting service [Tomcat]
+2019-01-14 14:43:00.307  INFO 25604 --- [main] org.apache.catalina.core.StandardEngine  : [2m:[0;39m [requestId:] Starting Servlet Engine: Apache Tomcat/8.5.28
+2019-01-14 14:43:00.312  INFO 25604 --- [localhost-startStop-1] o.a.catalina.core.AprLifecycleListener   : [2m:[0;39m [requestId:] The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jdk1.8.0_192\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;E:\maven3.5\apache-maven-3.5.3\bin;C:\Program Files\Java\jdk1.8.0_192\bin;C:\Program Files\Java\jdk1.8.0_192\jre\bin;C:\Program Files\Java\jdk1.8.0_192\lib;C:\Program Files\Java\jdk1.8.0_192\lib\tools.jar;E:\Program Files\Git\cmd;E:\Program Files\nodejs\;D:\nodejs\node_global;F:\软件\压力测试-jmeter\apache-jmeter-5.0\lib\ext\ApacheJMeter_core.jar;F:\软件\压力测试-jmeter\apache-jmeter-5.0\lib\logkit-2.0.jar;"F:\软件\压力测试-jmeter\apache-jmeter-5.0\lib\jorphan.jar;";C:\Users\ay-mei-pc\AppData\Local\Microsoft\WindowsApps;C:\Users\ay-mei-pc\AppData\Roaming\npm;.]
+2019-01-14 14:43:00.529  INFO 25604 --- [localhost-startStop-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : [2m:[0;39m [requestId:] Initializing Spring embedded WebApplicationContext
+2019-01-14 14:43:00.530  INFO 25604 --- [localhost-startStop-1] o.s.web.context.ContextLoader            : [2m:[0;39m [requestId:] Root WebApplicationContext: initialization completed in 2538 ms
+2019-01-14 14:43:00.693  INFO 25604 --- [localhost-startStop-1] o.s.b.w.servlet.ServletRegistrationBean  : [2m:[0;39m [requestId:] Servlet dispatcherServlet mapped to [/]
+2019-01-14 14:43:00.700  INFO 25604 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : [2m:[0;39m [requestId:] Mapping filter: 'characterEncodingFilter' to: [/*]
+2019-01-14 14:43:00.700  INFO 25604 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : [2m:[0;39m [requestId:] Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2019-01-14 14:43:00.700  INFO 25604 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : [2m:[0;39m [requestId:] Mapping filter: 'httpPutFormContentFilter' to: [/*]
+2019-01-14 14:43:00.700  INFO 25604 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : [2m:[0;39m [requestId:] Mapping filter: 'requestContextFilter' to: [/*]
+2019-01-14 14:43:01.009  WARN 25604 --- [main] c.n.c.sources.URLConfigurationSource     : [2m:[0;39m [requestId:] No URLs will be polled as dynamic configuration sources.
+2019-01-14 14:43:01.009  INFO 25604 --- [main] c.n.c.sources.URLConfigurationSource     : [2m:[0;39m [requestId:] To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2019-01-14 14:43:01.017  WARN 25604 --- [main] c.n.c.sources.URLConfigurationSource     : [2m:[0;39m [requestId:] No URLs will be polled as dynamic configuration sources.
+2019-01-14 14:43:01.017  INFO 25604 --- [main] c.n.c.sources.URLConfigurationSource     : [2m:[0;39m [requestId:] To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2019-01-14 14:43:01.293  INFO 25604 --- [main] org.mongodb.driver.cluster               : [2m:[0;39m [requestId:] Cluster created with settings {hosts=[127.0.0.1:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+2019-01-14 14:43:01.394  INFO 25604 --- [cluster-ClusterId{value='5c3c2f75be03d16404864e55', description='null'}-127.0.0.1:27017] org.mongodb.driver.connection            : [2m:[0;39m [requestId:] Opened connection [connectionId{localValue:1, serverValue:5}] to 127.0.0.1:27017
+2019-01-14 14:43:01.401  INFO 25604 --- [cluster-ClusterId{value='5c3c2f75be03d16404864e55', description='null'}-127.0.0.1:27017] org.mongodb.driver.cluster               : [2m:[0;39m [requestId:] Monitor thread successfully connected to server with description ServerDescription{address=127.0.0.1:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[4, 0, 0]}, minWireVersion=0, maxWireVersion=7, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=4063850}
+2019-01-14 14:43:02.039  INFO 25604 --- [main] s.w.s.m.m.a.RequestMappingHandlerAdapter : [2m:[0;39m [requestId:] Looking for @ControllerAdvice: org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@9b195c4: startup date [Mon Jan 14 14:42:57 CST 2019]; parent: org.springframework.context.annotation.AnnotationConfigApplicationContext@7536ef0f
+2019-01-14 14:43:02.149  INFO 25604 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : [2m:[0;39m [requestId:] Mapped "{[/hi]}" onto public java.lang.String com.aypark.servicehi.ServiceHiApplication.home(java.lang.String)
+2019-01-14 14:43:02.154  INFO 25604 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : [2m:[0;39m [requestId:] Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.error(javax.servlet.http.HttpServletRequest)
+2019-01-14 14:43:02.155  INFO 25604 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : [2m:[0;39m [requestId:] Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2019-01-14 14:43:02.209  INFO 25604 --- [main] o.s.w.s.handler.SimpleUrlHandlerMapping  : [2m:[0;39m [requestId:] Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2019-01-14 14:43:02.210  INFO 25604 --- [main] o.s.w.s.handler.SimpleUrlHandlerMapping  : [2m:[0;39m [requestId:] Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2019-01-14 14:43:02.268  INFO 25604 --- [main] o.s.w.s.handler.SimpleUrlHandlerMapping  : [2m:[0;39m [requestId:] Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2019-01-14 14:43:02.308  WARN 25604 --- [main] ion$DefaultTemplateResolverConfiguration : [2m:[0;39m [requestId:] Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2019-01-14 14:43:03.949  INFO 25604 --- [main] o.s.cloud.commons.util.InetUtils         : [2m:[0;39m [requestId:] Cannot determine local hostname
+2019-01-14 14:43:05.047  INFO 25604 --- [main] o.s.cloud.commons.util.InetUtils         : [2m:[0;39m [requestId:] Cannot determine local hostname
+2019-01-14 14:43:05.432  INFO 25604 --- [main] o.s.j.e.a.AnnotationMBeanExporter        : [2m:[0;39m [requestId:] Registering beans for JMX exposure on startup
+2019-01-14 14:43:05.445  INFO 25604 --- [main] o.s.j.e.a.AnnotationMBeanExporter        : [2m:[0;39m [requestId:] Bean with name 'refreshScope' has been autodetected for JMX exposure
+2019-01-14 14:43:05.446  INFO 25604 --- [main] o.s.j.e.a.AnnotationMBeanExporter        : [2m:[0;39m [requestId:] Bean with name 'configurationPropertiesRebinder' has been autodetected for JMX exposure
+2019-01-14 14:43:05.447  INFO 25604 --- [main] o.s.j.e.a.AnnotationMBeanExporter        : [2m:[0;39m [requestId:] Bean with name 'environmentManager' has been autodetected for JMX exposure
+2019-01-14 14:43:05.449  INFO 25604 --- [main] o.s.j.e.a.AnnotationMBeanExporter        : [2m:[0;39m [requestId:] Located managed bean 'environmentManager': registering with JMX server as MBean [org.springframework.cloud.context.environment:name=environmentManager,type=EnvironmentManager]
+2019-01-14 14:43:05.480  INFO 25604 --- [main] o.s.j.e.a.AnnotationMBeanExporter        : [2m:[0;39m [requestId:] Located managed bean 'refreshScope': registering with JMX server as MBean [org.springframework.cloud.context.scope.refresh:name=refreshScope,type=RefreshScope]
+2019-01-14 14:43:05.494  INFO 25604 --- [main] o.s.j.e.a.AnnotationMBeanExporter        : [2m:[0;39m [requestId:] Located managed bean 'configurationPropertiesRebinder': registering with JMX server as MBean [org.springframework.cloud.context.properties:name=configurationPropertiesRebinder,context=9b195c4,type=ConfigurationPropertiesRebinder]
+2019-01-14 14:43:05.504  INFO 25604 --- [main] o.s.c.support.DefaultLifecycleProcessor  : [2m:[0;39m [requestId:] Starting beans in phase 0
+2019-01-14 14:43:05.523  INFO 25604 --- [main] o.s.c.n.eureka.InstanceInfoFactory       : [2m:[0;39m [requestId:] Setting initial instance status as: STARTING
+2019-01-14 14:43:05.583  INFO 25604 --- [main] com.netflix.discovery.DiscoveryClient    : [2m:[0;39m [requestId:] Initializing Eureka in region us-east-1
+2019-01-14 14:43:05.694  INFO 25604 --- [main] c.n.d.provider.DiscoveryJerseyProvider   : [2m:[0;39m [requestId:] Using JSON encoding codec LegacyJacksonJson
+2019-01-14 14:43:05.694  INFO 25604 --- [main] c.n.d.provider.DiscoveryJerseyProvider   : [2m:[0;39m [requestId:] Using JSON decoding codec LegacyJacksonJson
+2019-01-14 14:43:05.883  INFO 25604 --- [main] c.n.d.provider.DiscoveryJerseyProvider   : [2m:[0;39m [requestId:] Using XML encoding codec XStreamXml
+2019-01-14 14:43:05.883  INFO 25604 --- [main] c.n.d.provider.DiscoveryJerseyProvider   : [2m:[0;39m [requestId:] Using XML decoding codec XStreamXml
+2019-01-14 14:43:06.145  INFO 25604 --- [main] c.n.d.s.r.aws.ConfigClusterResolver      : [2m:[0;39m [requestId:] Resolving eureka endpoints via configuration
+2019-01-14 14:43:06.209  INFO 25604 --- [main] com.netflix.discovery.DiscoveryClient    : [2m:[0;39m [requestId:] Disable delta property : false
+2019-01-14 14:43:06.210  INFO 25604 --- [main] com.netflix.discovery.DiscoveryClient    : [2m:[0;39m [requestId:] Single vip registry refresh property : null
+2019-01-14 14:43:06.210  INFO 25604 --- [main] com.netflix.discovery.DiscoveryClient    : [2m:[0;39m [requestId:] Force full registry fetch : false
+2019-01-14 14:43:06.210  INFO 25604 --- [main] com.netflix.discovery.DiscoveryClient    : [2m:[0;39m [requestId:] Application is null : false
+2019-01-14 14:43:06.210  INFO 25604 --- [main] com.netflix.discovery.DiscoveryClient    : [2m:[0;39m [requestId:] Registered Applications size is zero : true
+2019-01-14 14:43:06.210  INFO 25604 --- [main] com.netflix.discovery.DiscoveryClient    : [2m:[0;39m [requestId:] Application version is -1: true
+2019-01-14 14:43:06.210  INFO 25604 --- [main] com.netflix.discovery.DiscoveryClient    : [2m:[0;39m [requestId:] Getting all instance registry info from the eureka server
+2019-01-14 14:43:06.541  INFO 25604 --- [main] com.netflix.discovery.DiscoveryClient    : [2m:[0;39m [requestId:] The response status is 200
+2019-01-14 14:43:06.545  INFO 25604 --- [main] com.netflix.discovery.DiscoveryClient    : [2m:[0;39m [requestId:] Starting heartbeat executor: renew interval is: 30
+2019-01-14 14:43:06.549  INFO 25604 --- [main] c.n.discovery.InstanceInfoReplicator     : [2m:[0;39m [requestId:] InstanceInfoReplicator onDemand update allowed rate per min is 4
+2019-01-14 14:43:06.556  INFO 25604 --- [main] com.netflix.discovery.DiscoveryClient    : [2m:[0;39m [requestId:] Discovery Client initialized at timestamp 1547448186554 with initial instances count: 1
+2019-01-14 14:43:06.560  INFO 25604 --- [main] o.s.c.n.e.s.EurekaServiceRegistry        : [2m:[0;39m [requestId:] Registering application service-hi with eureka with status UP
+2019-01-14 14:43:06.561  INFO 25604 --- [main] com.netflix.discovery.DiscoveryClient    : [2m:[0;39m [requestId:] Saw local status change event StatusChangeEvent [timestamp=1547448186561, current=UP, previous=STARTING]
+2019-01-14 14:43:06.563  INFO 25604 --- [DiscoveryClient-InstanceInfoReplicator-0] com.netflix.discovery.DiscoveryClient    : [2m:[0;39m [requestId:] DiscoveryClient_SERVICE-HI/localhost:service-hi:8763: registering service...
+2019-01-14 14:43:06.582  INFO 25604 --- [main] o.a.coyote.http11.Http11NioProtocol      : [2m:[0;39m [requestId:] Starting ProtocolHandler ["http-nio-8763"]
+2019-01-14 14:43:06.608  INFO 25604 --- [main] o.a.tomcat.util.net.NioSelectorPool      : [2m:[0;39m [requestId:] Using a shared selector for servlet write/read
+2019-01-14 14:43:06.638  INFO 25604 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : [2m:[0;39m [requestId:] Tomcat started on port(s): 8763 (http) with context path ''
+2019-01-14 14:43:06.639  INFO 25604 --- [main] .s.c.n.e.s.EurekaAutoServiceRegistration : [2m:[0;39m [requestId:] Updating port to 8763
+2019-01-14 14:43:06.643  INFO 25604 --- [DiscoveryClient-InstanceInfoReplicator-0] com.netflix.discovery.DiscoveryClient    : [2m:[0;39m [requestId:] DiscoveryClient_SERVICE-HI/localhost:service-hi:8763 - registration status: 204
+2019-01-14 14:43:06.644  INFO 25604 --- [main] c.aypark.servicehi.ServiceHiApplication  : [2m:[0;39m [requestId:] Started ServiceHiApplication in 12.901 seconds (JVM running for 18.556)
+2019-01-14 14:48:06.214  INFO 25604 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : [2m:[0;39m [requestId:] Resolving eureka endpoints via configuration
+2019-01-14 14:53:06.216  INFO 25604 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : [2m:[0;39m [requestId:] Resolving eureka endpoints via configuration
+2019-01-14 14:58:06.218  INFO 25604 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : [2m:[0;39m [requestId:] Resolving eureka endpoints via configuration
+2019-01-14 15:03:06.219  INFO 25604 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : [2m:[0;39m [requestId:] Resolving eureka endpoints via configuration
+2019-01-14 15:08:06.222  INFO 25604 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : [2m:[0;39m [requestId:] Resolving eureka endpoints via configuration
+2019-01-14 15:13:06.224  INFO 25604 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : [2m:[0;39m [requestId:] Resolving eureka endpoints via configuration
+2019-01-14 15:18:06.224  INFO 25604 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : [2m:[0;39m [requestId:] Resolving eureka endpoints via configuration
+2019-01-14 15:23:06.226  INFO 25604 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : [2m:[0;39m [requestId:] Resolving eureka endpoints via configuration
+2019-01-14 15:28:06.227  INFO 25604 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : [2m:[0;39m [requestId:] Resolving eureka endpoints via configuration
+2019-01-14 15:33:06.228  INFO 25604 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : [2m:[0;39m [requestId:] Resolving eureka endpoints via configuration
+2019-01-14 15:38:06.229  INFO 25604 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : [2m:[0;39m [requestId:] Resolving eureka endpoints via configuration
+2019-01-14 15:43:06.232  INFO 25604 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : [2m:[0;39m [requestId:] Resolving eureka endpoints via configuration
+2019-01-14 15:48:06.233  INFO 25604 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : [2m:[0;39m [requestId:] Resolving eureka endpoints via configuration
+2019-01-14 15:53:06.235  INFO 25604 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : [2m:[0;39m [requestId:] Resolving eureka endpoints via configuration
+2019-01-14 15:58:06.235  INFO 25604 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : [2m:[0;39m [requestId:] Resolving eureka endpoints via configuration
+2019-01-14 16:03:06.237  INFO 25604 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : [2m:[0;39m [requestId:] Resolving eureka endpoints via configuration
+2019-01-14 16:08:06.239  INFO 25604 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : [2m:[0;39m [requestId:] Resolving eureka endpoints via configuration
+2019-01-14 16:13:06.241  INFO 25604 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : [2m:[0;39m [requestId:] Resolving eureka endpoints via configuration
+2019-01-14 16:18:06.242  INFO 25604 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : [2m:[0;39m [requestId:] Resolving eureka endpoints via configuration
+2019-01-14 16:23:06.244  INFO 25604 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : [2m:[0;39m [requestId:] Resolving eureka endpoints via configuration
+2019-01-14 16:28:06.246  INFO 25604 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : [2m:[0;39m [requestId:] Resolving eureka endpoints via configuration
+2019-01-14 16:33:06.246  INFO 25604 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : [2m:[0;39m [requestId:] Resolving eureka endpoints via configuration
+2019-01-14 16:38:06.248  INFO 25604 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : [2m:[0;39m [requestId:] Resolving eureka endpoints via configuration
+2019-01-14 16:43:06.250  INFO 25604 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : [2m:[0;39m [requestId:] Resolving eureka endpoints via configuration
+2019-01-14 16:48:06.251  INFO 25604 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : [2m:[0;39m [requestId:] Resolving eureka endpoints via configuration
+2019-01-14 16:53:06.253  INFO 25604 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : [2m:[0;39m [requestId:] Resolving eureka endpoints via configuration
+2019-01-14 16:58:06.255  INFO 25604 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : [2m:[0;39m [requestId:] Resolving eureka endpoints via configuration
+2019-01-14 17:03:06.257  INFO 25604 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : [2m:[0;39m [requestId:] Resolving eureka endpoints via configuration
+2019-01-14 17:08:06.258  INFO 25604 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : [2m:[0;39m [requestId:] Resolving eureka endpoints via configuration
+2019-01-14 17:13:06.258  INFO 25604 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : [2m:[0;39m [requestId:] Resolving eureka endpoints via configuration
+2019-01-14 17:18:06.260  INFO 25604 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : [2m:[0;39m [requestId:] Resolving eureka endpoints via configuration
+2019-01-14 17:23:06.261  INFO 25604 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : [2m:[0;39m [requestId:] Resolving eureka endpoints via configuration
+2019-01-14 17:28:06.263  INFO 25604 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : [2m:[0;39m [requestId:] Resolving eureka endpoints via configuration
+2019-01-14 17:33:06.265  INFO 25604 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : [2m:[0;39m [requestId:] Resolving eureka endpoints via configuration
+2019-01-14 17:38:06.267  INFO 25604 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : [2m:[0;39m [requestId:] Resolving eureka endpoints via configuration
+2019-01-14 17:43:06.269  INFO 25604 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : [2m:[0;39m [requestId:] Resolving eureka endpoints via configuration
+2019-01-14 17:48:06.270  INFO 25604 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : [2m:[0;39m [requestId:] Resolving eureka endpoints via configuration
+2019-01-14 17:53:06.272  INFO 25604 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : [2m:[0;39m [requestId:] Resolving eureka endpoints via configuration
+2019-01-14 17:58:06.273  INFO 25604 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : [2m:[0;39m [requestId:] Resolving eureka endpoints via configuration
+2019-01-14 18:07:55.619  INFO 25604 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : [2m:[0;39m [requestId:] Resolving eureka endpoints via configuration
+2019-01-14 18:12:55.621  INFO 25604 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : [2m:[0;39m [requestId:] Resolving eureka endpoints via configuration
+2019-01-14 18:17:55.621  INFO 25604 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : [2m:[0;39m [requestId:] Resolving eureka endpoints via configuration
+2019-01-14 18:22:55.622  INFO 25604 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : [2m:[0;39m [requestId:] Resolving eureka endpoints via configuration

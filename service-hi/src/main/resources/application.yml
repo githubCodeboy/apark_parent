@@ -1,0 +1,67 @@
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8761/eureka/
+server:
+  port: 8763
+  servlet:
+    context-path: /
+spring:
+  application:
+    name: service-hi
+mybatis:
+  mapperLocations: com/apark/dao/*.xml
+  typeAliasesPackage: com/apark/dao
+  mapperScanPackage: com/apark/dao
+  configLocation: classpath:/mybatis-config.xml
+
+mysql:
+  datasource:
+    readSize: 1  #读库个数
+    type: com.alibaba.druid.pool.DruidDataSource
+    mapperLocations: classpath:/com/apark/dao/*/*.xml
+    configLocation: classpath:/mybatis-config.xml
+    write:
+      url: jdbc:mysql://10.249.200.53:3306/ayhealth_proudct?useUnicode=true&characterEncoding=utf8&characterSetResults=utf8
+      username: dev
+      password: 123456
+      driverClassName: com.mysql.jdbc.Driver
+      minIdle: 5
+      maxActive: 300
+      initialSize: 10
+      maxWait: 60000
+      timeBetweenEvictionRunsMillis: 60000
+      minEvictableIdleTimeMillis: 300000
+      validationQuery: select 1
+      testWhileIdle: true
+      testOnBorrow: false
+      testOnReturn: false
+      poolPreparedStatements: true
+      maxPoolPreparedStatementPerConnectionSize: 50
+      removeAbandoned: true
+      filters: mergeStat,config,wall
+      connectionProperties: druid.stat.mergeSql=true;druid.stat.slowSqlMillis=500
+      useGlobalDataSourceStat: true
+
+    read01:
+      url: jdbc:mysql://10.249.200.53:3306/ayhealth_proudct?useUnicode=true&characterEncoding=utf8&characterSetResults=utf8
+      username: dev
+      password: 123456
+      driverClassName: com.mysql.jdbc.Driver
+      minIdle: 5
+      maxActive: 300
+      initialSize: 10
+      maxWait: 60000
+      timeBetweenEvictionRunsMillis: 60000
+      minEvictableIdleTimeMillis: 300000
+      validationQuery: select  1
+      testWhileIdle: true
+      testOnBorrow: false
+      testOnReturn: false
+      poolPreparedStatements: true
+      maxPoolPreparedStatementPerConnectionSize: 50
+      removeAbandoned: true
+      filters: mergeStat,config,wall
+      connectionProperties: druid.stat.mergeSql=true;druid.stat.slowSqlMillis=500
+      useGlobalDataSourceStat: true
+
