@@ -70,13 +70,13 @@ public class UserService implements IUserService {
 
 
     public User findById(String id) {
-        User u = this.userMapper1.findById(id);
+        User u = userMapper1.findById(id);
         return u;
     }
 
 
     public List<User> getPageList() {
-        List<User> userPagelist = this.userMapper1.getPageList();
+        List<User> userPagelist = userMapper1.getPageList();
         return userPagelist;
     }
 

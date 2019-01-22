@@ -1,9 +1,12 @@
 package com.aypark.sericefeign.service;
 
+import com.apark.pojo.user.User;
 import org.springframework.cloud.openfeign.FeignClient;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RequestParam;
+
+import java.util.List;
 
 
 /**
@@ -19,6 +22,11 @@ public interface SchedualServiceHi {
 
     @RequestMapping(value = "/apark/user/testAdd",method = RequestMethod.GET)
     String addUser();
+
+
+    @RequestMapping(value = "/apark/user/getPageList",method = RequestMethod.GET)
+    List<User> getPageList();
+
 
 
 }

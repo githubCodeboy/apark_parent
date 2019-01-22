@@ -5,6 +5,7 @@ import com.alibaba.fastjson.JSON;
 import com.apark.common.response.ServiceResponse;
 import com.apark.constant.BaseController;
 import com.apark.pojo.user.User;
+import com.apark.redisCache.GetCache;
 import com.apark.service.Interface.IRedisService;
 import com.apark.service.impl.user.UserService;
 import com.ayhealth.Exception.BusinessException;
@@ -240,11 +241,12 @@ public class UserController extends BaseController {
 
     @RequestMapping("/getPageList")
     @ResponseBody
+	@GetCache(name="getPageList",value="id")
     public List<User>  getPageList(){
 
         PageHelper.startPage(1,10);
         List<User>   userList  = this.userService.getPageList();
-        new PageInfo<User>();
+
         return userList;
     }
 
@@ -261,7 +263,6 @@ public class UserController extends BaseController {
 		//PageHelper.startPage(1,10);
 		Page<User> page = PageHelper.startPage(1, 10);
 		List<User>   userList  = this.userService.getPageList_genarate();
-
 		PageInfo  pageInfo  = new PageInfo<User>(page) ;
 
 
@@ -293,6 +294,7 @@ public class UserController extends BaseController {
 	 */
 	@RequestMapping("/readAndAdd")
 	@ResponseBody
+
 	public String readAndWrite(long id,String userName){
 		User u = new User();
 		u.setId(id);

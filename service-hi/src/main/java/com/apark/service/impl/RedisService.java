@@ -10,16 +10,19 @@ import org.springframework.data.redis.core.RedisCallback;
 import org.springframework.data.redis.core.RedisTemplate;
 import org.springframework.data.redis.serializer.RedisSerializer;
 import org.springframework.data.redis.serializer.SerializationException;
+import org.springframework.stereotype.Component;
 import org.springframework.stereotype.Service;
 
+import java.io.Serializable;
 import java.util.List;
 import java.util.concurrent.TimeUnit;
 
-@Service
+@Component
 public class RedisService implements IRedisService {
 
     @Autowired
     private RedisTemplate<String, ?> redisTemplate;
+
 
     @Override
     public boolean set(final String key, final String value) {
@@ -55,6 +58,29 @@ public class RedisService implements IRedisService {
         return result;
     }
 
+    @Override
+    public boolean set(final String key, final Object value, long expire) {
+        boolean result = false ;
+        try {
+            redisTemplate.execute(new RedisCallback<Boolean>() {
+                @Override
+                public Boolean doInRedis(RedisConnection connection) throws DataAccessException {
+                    RedisSerializer<String> serializer = redisTemplate.getStringSerializer();
+                    RedisSerializer<Object> serializerValue = (RedisSerializer<Object>) redisTemplate.getValueSerializer();
+                    connection.set(serializer.serialize(key), serializerValue.serialize(value));
+                    return true;
+                }
+            });
+            redisTemplate.expire(key, expire, TimeUnit.SECONDS);
+            result = true;
+        } catch (SerializationException e) {
+            e.printStackTrace();
+        }
+
+        return result;
+    }
+
+    @Override
     public String get(final String key) {
         String result = redisTemplate.execute(new RedisCallback<String>() {
             @Override
@@ -66,6 +92,11 @@ public class RedisService implements IRedisService {
         });
         return result;
     }
+
+
+
+
+
 
     @Override
     public boolean expire(final String key, long expire) {
@@ -132,6 +163,16 @@ public class RedisService implements IRedisService {
 
     @Override
     public Object getKey(final String key){
-       return  redisTemplate.opsForValue().get(key);
+       //return  redisTemplate.opsForValue().get(key);
+        String result = redisTemplate.execute(new RedisCallback<String>() {
+            @Override
+            public String doInRedis(RedisConnection connection) throws DataAccessException {
+                RedisSerializer<String> serializer = redisTemplate.getStringSerializer();
+
+                byte[] value = connection.get(serializer.serialize(key));
+                return serializer.deserialize(value);
+            }
+        });
+        return result;
     }
 }
