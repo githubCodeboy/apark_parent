@@ -13,6 +13,8 @@ import org.springframework.stereotype.Component;
 
 import java.io.Serializable;
 import java.lang.reflect.Method;
+import java.util.concurrent.ExecutorService;
+import java.util.concurrent.Executors;
 
 
 @Slf4j
@@ -26,6 +28,8 @@ public class GetCacheAOP {
 
     @Autowired
     private  RedisCache   redisCache;
+
+   /* ExecutorService fixedThreadPool = Executors.newFixedThreadPool(200);*/
 
 
     @Pointcut("@annotation(com.apark.redisCache.GetCache)")
@@ -42,44 +46,51 @@ public class GetCacheAOP {
 
 
               //前置：到redis中查询缓存
-                System.out.println("调用从redis中查询的方法...");
-
-               //redis中key格式: id
+                 log.info("调用从redis中查询的方法...");
+                 MethodSignature ms=(MethodSignature) joinPoint.getSignature();
+                 Method method=ms.getMethod();
+                 Long  expire = method.getAnnotation(GetCache.class).expireTime();
+                //redis中key格式: id
                  String redisKey = getCacheKey(joinPoint);
-
+                //缓存标记
+                String cacheSign = redisKey + "_sign";
                 //获取从redis中查询到的对象
                 Object objectFromRedis = redisCache.getDataFromRedis(redisKey);
-
+                String sign =  (String)redisCache.getDataFromRedis(cacheSign);
                 //如果查询到了
-               if(null != objectFromRedis){
-                        System.out.println("从redis中查询到了数据...不需要查询数据库");
+               if(null != sign){
+                        log.info("----------- redis缓存击中， 返回缓存值：{}" ,objectFromRedis);
                         return objectFromRedis;
-                     }
+                 }
+                 else{
+                       log.info("没有从redis中查到数据.查询数据");
+                       redisCache.setDataToRedis(cacheSign, "1" ,expire);
+                       //没有查到，那么查询数据库
+                       Object object = null;
 
-                 System.out.println("没有从redis中查到数据...");
+                  /* fixedThreadPool.execute((new Runnable() {
+                       public void run() {
+                           try {
+                               object = joinPoint.proceed();
+                           } catch (InterruptedException e) {
+                               e.printStackTrace();
+                           }
+                       }
+                   });*/
+                       try {
+                           object = joinPoint.proceed();
+                       } catch (Throwable e) {
 
-                 //没有查到，那么查询数据库
-                Object object = null;
-                 try {
-                        object = joinPoint.proceed();
-                    } catch (Throwable e) {
-
-                         e.printStackTrace();
+                           e.printStackTrace();
+                       }
+                       //后置：将数据库中查询的数据放到redis中
+                       //***** 将数据库查询的 内容添加到redis 缓存
+                       redisCache.setDataToRedis(redisKey, object ,expire * 2);
+                       log.info("redis中的数据..."+object);
+                       //将查询到的数据返回
+                       return object;
                    }
 
-                System.out.println("从数据库中查询的数据...");
-
-               //后置：将数据库中查询的数据放到redis中
-               log.info("调用把数据库查询的数据存储到redis中的方法...");
-               MethodSignature ms=(MethodSignature) joinPoint.getSignature();
-               Method method=ms.getMethod();
-               Long  expire = method.getAnnotation(GetCache.class).expireTime();
-
-                redisCache.setDataToRedis(redisKey, object ,expire);
-
-               log.info("redis中的数据..."+object);
-                 //将查询到的数据返回
-                 return object;
           }
 
 
