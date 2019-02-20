@@ -49,6 +49,7 @@ public class RedisCache {
             //序列化
             //存入redis
             Jedis jedis = jedisPool.getResource();
+
             RedisSerializer<String> serializer =   redisTemplate.getStringSerializer() ;
             RedisSerializer<Object> serializerValue = (RedisSerializer<Object>) redisTemplate.getValueSerializer();
             String success = jedis.set(serializer.serialize(redisKey), serializerValue.serialize(obj));
