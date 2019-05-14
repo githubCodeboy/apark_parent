@@ -136,7 +136,6 @@ public class DataSourceConfiguration    {
         datasource.setUsername(username);
         datasource.setPassword(password);
         datasource.setDriverClassName(driverClassName);
-
        //configuration
         datasource.setInitialSize(initialSize);
         datasource.setMinIdle(minIdle);

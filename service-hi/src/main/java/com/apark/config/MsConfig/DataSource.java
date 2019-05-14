@@ -8,7 +8,6 @@ import java.lang.annotation.Target;
 @Retention(RetentionPolicy.RUNTIME)
 @Target(ElementType.METHOD)
 public @interface DataSource {
-	String value();
-	public static String master = "master";
-	public static String slave = "salve";
+    DataSourceKey value();
+
 }

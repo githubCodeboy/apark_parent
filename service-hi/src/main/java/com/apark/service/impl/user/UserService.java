@@ -1,5 +1,7 @@
 package com.apark.service.impl.user;
 
+import com.apark.config.MsConfig.DataSource;
+import com.apark.config.MsConfig.DataSourceKey;
 import com.apark.dao.extraMapper.user.UserMapper;
 import com.apark.dao.extraMapper.user.UserMapper1;
 import com.apark.pojo.user.User;
@@ -75,6 +77,7 @@ public class UserService implements IUserService {
     }
 
 
+    @DataSource(value= DataSourceKey.master)
     public List<User> getPageList() {
         List<User> userPagelist = userMapper1.getPageList();
         return userPagelist;

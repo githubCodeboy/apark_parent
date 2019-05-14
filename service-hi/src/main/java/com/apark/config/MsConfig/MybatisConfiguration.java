@@ -100,7 +100,7 @@ public class MybatisConfiguration {
     @Autowired
     private MultiDataSource multiDataSource;
 
-    ;@Bean(name = "sqlSessionFactory")
+   @Bean(name = "sqlSessionFactory")
     public SqlSessionFactory sqlSessionFactorys() throws Exception {
         log.info("--------------------  sqlSessionFactory init ---------------------");
         try {
@@ -135,12 +135,6 @@ public class MybatisConfiguration {
     }
 
 
-    /*//事务管理
-    @Bean
-    public PlatformTransactionManager annotationDrivenTransactionManager() {
-        return new DataSourceTransactionManager((DataSource) SpringContextUtil.getBean("roundRobinDataSouceProxy"));
-    }
-*/
 
     private static final String AOP_POINTCUT_EXPRESSION = "execution (* com.apark.service.*.*(..))";
 

@@ -8,6 +8,7 @@ import org.aspectj.lang.annotation.Before;
 import org.aspectj.lang.reflect.MethodSignature;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
+import org.springframework.core.annotation.Order;
 import org.springframework.stereotype.Component;
 
 import java.lang.reflect.Method;
@@ -20,6 +21,7 @@ import java.util.Arrays;
  */
 @Aspect
 @Component
+@Order(-100)//提高优先级
 @Slf4j
 public class DataSourceAopAspect {
 
@@ -38,18 +40,7 @@ public class DataSourceAopAspect {
         Class<?>[] parameterTypes = ((MethodSignature) point.getSignature())
                 .getMethod().getParameterTypes();
         Object[] arguments = point.getArgs();
-        // ? 为何不要find
-        if (!method.contains(FIND)) {
 
-            log.info("start sql 执行 ==> {}:{},args:{} ", targetClass.toString(), method, Arrays
-                    .deepToString(arguments));
-//			StringBuffer sb = new StringBuffer();
-//			sb.append(WebUtils.getLoginUsername()).append(SPLIT);
-//			sb.append(WebUtils.getHost()).append(SPLIT);
-//			sb.append(Arrays.deepToString(arguments)).append(SPLIT);
-//			sb.append(System.currentTimeMillis());
-//			logger.info(sb);
-        }
         // 方法注解可以覆盖类注解
         Method m = targetClass.getMethod(method, parameterTypes);
         if (m != null && m.isAnnotationPresent(DataSource.class)) {
