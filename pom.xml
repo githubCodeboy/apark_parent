@@ -479,17 +479,7 @@
 
     <!-- 添加maven上传插件 -->
     <distributionManagement>
-        <repository>
-            <id>nexus-releases</id>
-            <name>NexusReleases</name>
-            <url>http://10.249.200.23:8081/nexus/content/repositories/releases/</url>
-        </repository>
 
-        <snapshotRepository>
-            <id>nexus-snapshots</id>
-            <name>NexusSnapshots</name>
-            <url>http://10.249.200.23:8081/nexus/content/repositories/snapshots</url>
-        </snapshotRepository>
     </distributionManagement>
     <repositories>
         <repository>
@@ -500,20 +490,6 @@
         <repository>
             <id>snapshots</id>
             <url>https://oss.sonatype.org/content/repositories/snapshots/</url>
-        </repository>
-
-        <repository>
-            <id>aomygod</id>
-            <name>local private nexus</name>
-            <url>http://10.249.200.23:8081/nexus/content/groups/public/</url>
-            <releases>
-                <enabled>true</enabled>
-            </releases>
-            <snapshots>
-                <enabled>true</enabled>
-                <updatePolicy>always</updatePolicy>
-                <checksumPolicy>warn</checksumPolicy>
-            </snapshots>
         </repository>
 
 

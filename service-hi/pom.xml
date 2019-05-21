@@ -225,13 +225,13 @@
             <artifactId>guava</artifactId>
         </dependency>
 
-        <!-- 柔性事物-->
+        <!-- 柔性事物
         <dependency>
             <groupId>org.mengyun</groupId>
             <artifactId>tcc-transaction-spring</artifactId>
 
         </dependency>
-
+        -->
 
     </dependencies>
 
