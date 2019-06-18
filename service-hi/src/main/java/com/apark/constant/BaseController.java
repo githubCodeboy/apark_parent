@@ -1,8 +1,6 @@
 package com.apark.constant;
 
 
-import com.ayhealth.constant.UserConstants;
-
 import com.ayhealth.request.ServiceRequest;
 import com.ayhealth.response.BaseResponseCode;
 import com.ayhealth.response.ServiceResponse;

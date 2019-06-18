@@ -21,7 +21,9 @@ public class SchedualServiceHiHystric implements SchedualServiceHi {
 
     @Override
     public List<User> getPageList(){
-        return  null ;
+        {
+            return  null ;
+        }
     }
 
 }

@@ -16,8 +16,8 @@
 
 <dependencies>
     <dependency>
-        <artifactId>common</artifactId>
-        <groupId>com.aoyuan.aypark</groupId>
+        <groupId>com.aoyuan.health</groupId>
+        <artifactId>ayhealth_common</artifactId>
         <version>0.0.1-SNAPSHOT</version>
     </dependency>
 
