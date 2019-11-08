@@ -1,10 +1,9 @@
 package com.apark.constant;
 
 
-import com.ayhealth.request.ServiceRequest;
-import com.ayhealth.response.BaseResponseCode;
-import com.ayhealth.response.ServiceResponse;
-import com.ayhealth.wxUtils.wechatConfig.SignUtil;
+import com.apark.common.request.ServiceRequest;
+import com.apark.common.response.BaseResponseCode;
+import com.apark.common.response.ServiceResponse;
 import lombok.Data;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -53,7 +52,7 @@ public class BaseController {
 	 *
 	 */
 
-	public void WXReturnOK(HttpServletResponse response) {
+	/*public void WXReturnOK(HttpServletResponse response) {
 		PrintWriter writer = null;
 		try {
 			writer = response.getWriter();
@@ -65,12 +64,12 @@ public class BaseController {
 		} catch (IOException e) {
 			e.printStackTrace();
 		}
-	}
+	}*/
 
 	/**
 	 *微信返回  回调接受失败
 	 */
-	public void WXReturnFail(HttpServletResponse response){
+	/*public void WXReturnFail(HttpServletResponse response){
 		PrintWriter writer = null;
 		try {
 			writer = response.getWriter();
@@ -80,6 +79,6 @@ public class BaseController {
 		} catch (IOException e) {
 			e.printStackTrace();
 		}
-	}
+	}*/
 	
 }

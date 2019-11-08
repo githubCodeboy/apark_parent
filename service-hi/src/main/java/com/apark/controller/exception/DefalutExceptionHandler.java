@@ -1,8 +1,8 @@
 package com.apark.controller.exception;
 
 
+import com.apark.common.response.BaseResponseCode;
 import com.apark.common.response.ServiceResponse;
-import com.ayhealth.response.BaseResponseCode;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.web.bind.annotation.ControllerAdvice;
 import org.springframework.web.bind.annotation.ExceptionHandler;

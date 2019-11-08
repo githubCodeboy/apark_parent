@@ -8,14 +8,6 @@ import com.apark.pojo.user.User;
 import com.apark.redisCache.GetCache;
 import com.apark.service.Interface.IRedisService;
 import com.apark.service.impl.user.UserService;
-import com.ayhealth.Exception.BusinessException;
-import com.ayhealth.constant.UserConstants;
-
-import com.ayhealth.utils.HISrequest;
-import com.ayhealth.utils.OkHttpUtil;
-import com.ayhealth.utils.sms.SmsAccess;
-import com.ayhealth.utils.sms.SmsResponse;
-import com.ayhealth.wxUtils.WXUtils;
 import com.github.pagehelper.Page;
 import com.github.pagehelper.PageHelper;
 import com.github.pagehelper.PageInfo;
@@ -48,7 +40,7 @@ public class UserController extends BaseController {
 
 
 
-	private static OkHttpUtil okHttpUtil = new OkHttpUtil();
+
 
 	//@RequestMapping("/getCardDetail")
 	//@ResponseBody
@@ -97,7 +89,7 @@ public class UserController extends BaseController {
 
 	@RequestMapping("/testFinishPayInfo")
 	@ResponseBody
-	public ServiceResponse finishPayInfo(@RequestBody Map params) throws BusinessException {
+	public ServiceResponse finishPayInfo(@RequestBody Map params)  {
 	/*	String token = this.tokenData.getToken();
 
 		Map result = HISrequest.requestFromHIS("outpatient.getCompletedPayInfo",params,token);*/

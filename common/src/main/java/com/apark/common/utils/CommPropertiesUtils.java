@@ -1,3 +1,4 @@
+/*
 package com.apark.common.utils;
 
 import java.io.IOException;
@@ -33,3 +34,4 @@ public class CommPropertiesUtils {
 		return properties.getProperty("QINIU_PATH");
 	}
 }
+*/

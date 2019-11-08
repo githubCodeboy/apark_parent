@@ -1,10 +1,10 @@
 package com.apark.controller.base;
 
+import com.apark.common.Exception.BusinessException;
 import com.apark.common.constant.ApiConstants;
 import com.apark.common.response.ServiceResponse;
 import com.apark.constant.BaseController;
 import com.apark.service.Interface.IRedisService;
-import com.ayhealth.Exception.BusinessException;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;

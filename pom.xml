@@ -467,26 +467,14 @@
         </dependencies>
     </dependencyManagement>
 
-    <build>
-        <!--<plugins>-->
-        <!--<plugin>-->
-        <!--<groupId>org.springframework.boot</groupId>-->
-        <!--<artifactId>spring-boot-maven-plugin</artifactId>-->
-        <!--</plugin>-->
-        <!--</plugins>-->
-    </build>
 
-
-    <!-- 添加maven上传插件 -->
-    <distributionManagement>
-
-    </distributionManagement>
     <repositories>
         <repository>
             <id>alimaven</id>
             <name>aliyun maven</name>
             <url>http://maven.aliyun.com/nexus/content/groups/public/</url>
         </repository>
+
         <repository>
             <id>snapshots</id>
             <url>https://oss.sonatype.org/content/repositories/snapshots/</url>

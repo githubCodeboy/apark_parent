@@ -22,7 +22,7 @@ mysql:
     mapperLocations: classpath:/com/apark/dao/*/*.xml
     configLocation: classpath:/mybatis-config.xml
     write:
-      url: jdbc:mysql://10.249.200.53:3306/ayhealth_proudct?useUnicode=true&characterEncoding=utf8&characterSetResults=utf8
+      url: jdbc:mysql://182.61.130.67:3306/ayhealth_proudct?useUnicode=true&characterEncoding=utf8&characterSetResults=utf8
       username: dev
       password: 123456
       driverClassName: com.mysql.jdbc.Driver
@@ -44,7 +44,7 @@ mysql:
       useGlobalDataSourceStat: true
 
     read01:
-      url: jdbc:mysql://10.249.200.53:3306/ayhealth_proudct?useUnicode=true&characterEncoding=utf8&characterSetResults=utf8
+      url: jdbc:mysql://182.61.130.67:3306/ayhealth_proudct?useUnicode=true&characterEncoding=utf8&characterSetResults=utf8
       username: dev
       password: 123456
       driverClassName: com.mysql.jdbc.Driver
