@@ -35,7 +35,7 @@
         <fastjson.version>1.2.0</fastjson.version>
         <mysql.version>5.1.41</mysql.version>
 
-        <springboot.version>2.0.0.RELEASE</springboot.version>
+        <springboot.version>2.5.12</springboot.version>
         <springboot.data.version>2.0.5.RELEASE</springboot.data.version>
         <aspectj.version>1.8.9</aspectj.version>
         <spring-beans.version>5.0.4.RELEASE</spring-beans.version>
